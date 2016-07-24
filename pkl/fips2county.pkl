@@ -1,0 +1,18203 @@
+(dp0
+S'16079'
+p1
+(S'ID'
+p2
+S'Shoshone County'
+p3
+tp4
+sS'33017'
+p5
+(S'NH'
+p6
+S'Strafford County'
+p7
+tp8
+sS'16073'
+p9
+(g2
+S'Owyhee County'
+p10
+tp11
+sS'16071'
+p12
+(g2
+S'Oneida County'
+p13
+tp14
+sS'16077'
+p15
+(g2
+S'Power County'
+p16
+tp17
+sS'16075'
+p18
+(g2
+S'Payette County'
+p19
+tp20
+sS'48093'
+p21
+(S'TX'
+p22
+S'Comanche County'
+p23
+tp24
+sS'06115'
+p25
+(S'CA'
+p26
+S'Yuba County'
+p27
+tp28
+sS'06111'
+p29
+(g26
+S'Ventura County'
+p30
+tp31
+sS'06113'
+p32
+(g26
+S'Yolo County'
+p33
+tp34
+sS'01129'
+p35
+(S'AL'
+p36
+S'Washington County'
+p37
+tp38
+sS'46111'
+p39
+(S'SD'
+p40
+S'Sanborn County'
+p41
+tp42
+sS'40145'
+p43
+(S'OK'
+p44
+S'Wagoner County'
+p45
+tp46
+sS'02100'
+p47
+(S'AK'
+p48
+S'Haines Borough'
+p49
+tp50
+sS'02105'
+p51
+(g48
+S'Hoonah-Angoon Census Area'
+p52
+tp53
+sS'40147'
+p54
+(g44
+g37
+tp55
+sS'19159'
+p56
+(S'IA'
+p57
+S'Ringgold County'
+p58
+tp59
+sS'39109'
+p60
+(S'OH'
+p61
+S'Miami County'
+p62
+tp63
+sS'19155'
+p64
+(g57
+S'Pottawattamie County'
+p65
+tp66
+sS'39105'
+p67
+(g61
+S'Meigs County'
+p68
+tp69
+sS'19157'
+p70
+(g57
+S'Poweshiek County'
+p71
+tp72
+sS'39107'
+p73
+(g61
+S'Mercer County'
+p74
+tp75
+sS'19151'
+p76
+(g57
+S'Pocahontas County'
+p77
+tp78
+sS'39101'
+p79
+(g61
+S'Marion County'
+p80
+tp81
+sS'19153'
+p82
+(g57
+S'Polk County'
+p83
+tp84
+sS'39103'
+p85
+(g61
+S'Medina County'
+p86
+tp87
+sS'72071'
+p88
+(S'PR'
+p89
+S'Isabela Municipio'
+p90
+tp91
+sS'40029'
+p92
+(g44
+S'Coal County'
+p93
+tp94
+sS'40143'
+p95
+(g44
+S'Tulsa County'
+p96
+tp97
+sS'48025'
+p98
+(g22
+S'Bee County'
+p99
+tp100
+sS'22009'
+p101
+(S'LA'
+p102
+S'Avoyelles Parish'
+p103
+tp104
+sS'40027'
+p105
+(g44
+S'Cleveland County'
+p106
+tp107
+sS'22001'
+p108
+(g102
+S'Acadia Parish'
+p109
+tp110
+sS'22003'
+p111
+(g102
+S'Allen Parish'
+p112
+tp113
+sS'22005'
+p114
+(g102
+S'Ascension Parish'
+p115
+tp116
+sS'13029'
+p117
+(S'GA'
+p118
+S'Bryan County'
+p119
+tp120
+sS'22007'
+p121
+(g102
+S'Assumption Parish'
+p122
+tp123
+sS'06029'
+p124
+(g26
+S'Kern County'
+p125
+tp126
+sS'46113'
+p127
+(g40
+S'Shannon County'
+p128
+tp129
+sS'06021'
+p130
+(g26
+S'Glenn County'
+p131
+tp132
+sS'40023'
+p133
+(g44
+S'Choctaw County'
+p134
+tp135
+sS'06023'
+p136
+(g26
+S'Humboldt County'
+p137
+tp138
+sS'06025'
+p139
+(g26
+S'Imperial County'
+p140
+tp141
+sS'06027'
+p142
+(g26
+S'Inyo County'
+p143
+tp144
+sS'72027'
+p145
+(g89
+S'Camuy Municipio'
+p146
+tp147
+sS'27173'
+p148
+(S'MN'
+p149
+S'Yellow Medicine County'
+p150
+tp151
+sS'27171'
+p152
+(g149
+S'Wright County'
+p153
+tp154
+sS'51600'
+p155
+(S'VA'
+p156
+S'Fairfax city'
+p157
+tp158
+sS'33013'
+p159
+(g6
+S'Merrimack County'
+p160
+tp161
+sS'21101'
+p162
+(S'KY'
+p163
+S'Henderson County'
+p164
+tp165
+sS'21103'
+p166
+(g163
+S'Henry County'
+p167
+tp168
+sS'21105'
+p169
+(g163
+S'Hickman County'
+p170
+tp171
+sS'21107'
+p172
+(g163
+S'Hopkins County'
+p173
+tp174
+sS'21109'
+p175
+(g163
+S'Jackson County'
+p176
+tp177
+sS'32013'
+p178
+(S'NV'
+p179
+g137
+tp180
+sS'32011'
+p181
+(g179
+S'Eureka County'
+p182
+tp183
+sS'51840'
+p184
+(g156
+S'Winchester city'
+p185
+tp186
+sS'32017'
+p187
+(g179
+S'Lincoln County'
+p188
+tp189
+sS'32015'
+p190
+(g179
+S'Lander County'
+p191
+tp192
+sS'47081'
+p193
+(S'TN'
+p194
+g170
+tp195
+sS'32019'
+p196
+(g179
+S'Lyon County'
+p197
+tp198
+sS'26157'
+p199
+(S'MI'
+p200
+S'Tuscola County'
+p201
+tp202
+sS'41001'
+p203
+(S'OR'
+p204
+S'Baker County'
+p205
+tp206
+sS'26155'
+p207
+(g200
+S'Shiawassee County'
+p208
+tp209
+sS'42057'
+p210
+(S'PA'
+p211
+S'Fulton County'
+p212
+tp213
+sS'12019'
+p214
+(S'FL'
+p215
+S'Clay County'
+p216
+tp217
+sS'42051'
+p218
+(g211
+S'Fayette County'
+p219
+tp220
+sS'26151'
+p221
+(g200
+S'Sanilac County'
+p222
+tp223
+sS'42053'
+p224
+(g211
+S'Forest County'
+p225
+tp226
+sS'12015'
+p227
+(g215
+S'Charlotte County'
+p228
+tp229
+sS'12017'
+p230
+(g215
+S'Citrus County'
+p231
+tp232
+sS'12011'
+p233
+(g215
+S'Broward County'
+p234
+tp235
+sS'42059'
+p236
+(g211
+S'Greene County'
+p237
+tp238
+sS'12013'
+p239
+(g215
+S'Calhoun County'
+p240
+tp241
+sS'51115'
+p242
+(g156
+S'Mathews County'
+p243
+tp244
+sS'46009'
+p245
+(g40
+S'Bon Homme County'
+p246
+tp247
+sS'55109'
+p248
+(S'WI'
+p249
+S'St. Croix County'
+p250
+tp251
+sS'51111'
+p252
+(g156
+S'Lunenburg County'
+p253
+tp254
+sS'51113'
+p255
+(g156
+S'Madison County'
+p256
+tp257
+sS'46003'
+p258
+(g40
+S'Aurora County'
+p259
+tp260
+sS'46007'
+p261
+(g40
+S'Bennett County'
+p262
+tp263
+sS'53007'
+p264
+(S'WA'
+p265
+S'Chelan County'
+p266
+tp267
+sS'46005'
+p268
+(g40
+S'Beadle County'
+p269
+tp270
+sS'17031'
+p271
+(S'IL'
+p272
+S'Cook County'
+p273
+tp274
+sS'17033'
+p275
+(g272
+S'Crawford County'
+p276
+tp277
+sS'48021'
+p278
+(g22
+S'Bastrop County'
+p279
+tp280
+sS'17035'
+p281
+(g272
+S'Cumberland County'
+p282
+tp283
+sS'05139'
+p284
+(S'AR'
+p285
+S'Union County'
+p286
+tp287
+sS'05137'
+p288
+(g285
+S'Stone County'
+p289
+tp290
+sS'05135'
+p291
+(g285
+S'Sharp County'
+p292
+tp293
+sS'05133'
+p294
+(g285
+S'Sevier County'
+p295
+tp296
+sS'05131'
+p297
+(g285
+S'Sebastian County'
+p298
+tp299
+sS'72073'
+p300
+(g89
+S'Jayuya Municipio'
+p301
+tp302
+sS'46117'
+p303
+(g40
+S'Stanley County'
+p304
+tp305
+sS'54027'
+p306
+(S'WV'
+p307
+S'Hampshire County'
+p308
+tp309
+sS'26023'
+p310
+(g200
+S'Branch County'
+p311
+tp312
+sS'05003'
+p313
+(g285
+S'Ashley County'
+p314
+tp315
+sS'26021'
+p316
+(g200
+S'Berrien County'
+p317
+tp318
+sS'05001'
+p319
+(g285
+S'Arkansas County'
+p320
+tp321
+sS'26027'
+p322
+(g200
+S'Cass County'
+p323
+tp324
+sS'05007'
+p325
+(g285
+S'Benton County'
+p326
+tp327
+sS'26025'
+p328
+(g200
+g240
+tp329
+sS'05005'
+p330
+(g285
+S'Baxter County'
+p331
+tp332
+sS'12121'
+p333
+(g215
+S'Suwannee County'
+p334
+tp335
+sS'12123'
+p336
+(g215
+S'Taylor County'
+p337
+tp338
+sS'05009'
+p339
+(g285
+S'Boone County'
+p340
+tp341
+sS'12125'
+p342
+(g215
+g286
+tp343
+sS'12127'
+p344
+(g215
+S'Volusia County'
+p345
+tp346
+sS'48261'
+p347
+(g22
+S'Kenedy County'
+p348
+tp349
+sS'20153'
+p350
+(S'KS'
+p351
+S'Rawlins County'
+p352
+tp353
+sS'01025'
+p354
+(g36
+S'Clarke County'
+p355
+tp356
+sS'01027'
+p357
+(g36
+g216
+tp358
+sS'01021'
+p359
+(g36
+S'Chilton County'
+p360
+tp361
+sS'01023'
+p362
+(g36
+g134
+tp363
+sS'01029'
+p364
+(g36
+S'Cleburne County'
+p365
+tp366
+sS'72029'
+p367
+(g89
+S'Canovanas Municipio'
+p368
+tp369
+sS'37009'
+p370
+(S'NC'
+p371
+S'Ashe County'
+p372
+tp373
+sS'37007'
+p374
+(g371
+S'Anson County'
+p375
+tp376
+sS'37005'
+p377
+(g371
+S'Alleghany County'
+p378
+tp379
+sS'37003'
+p380
+(g371
+S'Alexander County'
+p381
+tp382
+sS'37001'
+p383
+(g371
+S'Alamance County'
+p384
+tp385
+sS'48365'
+p386
+(g22
+S'Panola County'
+p387
+tp388
+sS'36029'
+p389
+(S'NY'
+p390
+S'Erie County'
+p391
+tp392
+sS'42129'
+p393
+(g211
+S'Westmoreland County'
+p394
+tp395
+sS'48237'
+p396
+(g22
+S'Jack County'
+p397
+tp398
+sS'36023'
+p399
+(g390
+S'Cortland County'
+p400
+tp401
+sS'36021'
+p402
+(g390
+S'Columbia County'
+p403
+tp404
+sS'36027'
+p405
+(g390
+S'Dutchess County'
+p406
+tp407
+sS'36025'
+p408
+(g390
+S'Delaware County'
+p409
+tp410
+sS'48091'
+p411
+(g22
+S'Comal County'
+p412
+tp413
+sS'42125'
+p414
+(g211
+g37
+tp415
+sS'48235'
+p416
+(g22
+S'Irion County'
+p417
+tp418
+sS'72103'
+p419
+(g89
+S'Naguabo Municipio'
+p420
+tp421
+sS'48233'
+p422
+(g22
+S'Hutchinson County'
+p423
+tp424
+sS'51065'
+p425
+(g156
+S'Fluvanna County'
+p426
+tp427
+sS'48149'
+p428
+(g22
+g219
+tp429
+sS'48419'
+p430
+(g22
+S'Shelby County'
+p431
+tp432
+sS'48145'
+p433
+(g22
+S'Falls County'
+p434
+tp435
+sS'48147'
+p436
+(g22
+S'Fannin County'
+p437
+tp438
+sS'48141'
+p439
+(g22
+S'El Paso County'
+p440
+tp441
+sS'48143'
+p442
+(g22
+S'Erath County'
+p443
+tp444
+sS'01111'
+p445
+(g36
+S'Randolph County'
+p446
+tp447
+sS'01113'
+p448
+(g36
+S'Russell County'
+p449
+tp450
+sS'01115'
+p451
+(g36
+S'St. Clair County'
+p452
+tp453
+sS'01117'
+p454
+(g36
+g431
+tp455
+sS'01119'
+p456
+(g36
+S'Sumter County'
+p457
+tp458
+sS'45061'
+p459
+(S'SC'
+p460
+S'Lee County'
+p461
+tp462
+sS'13059'
+p463
+(g118
+g355
+tp464
+sS'45065'
+p465
+(g460
+S'McCormick County'
+p466
+tp467
+sS'45067'
+p468
+(g460
+g80
+tp469
+sS'13053'
+p470
+(g118
+S'Chattahoochee County'
+p471
+tp472
+sS'13051'
+p473
+(g118
+S'Chatham County'
+p474
+tp475
+sS'13057'
+p476
+(g118
+S'Cherokee County'
+p477
+tp478
+sS'13055'
+p479
+(g118
+S'Chattooga County'
+p480
+tp481
+sS'48231'
+p482
+(g22
+S'Hunt County'
+p483
+tp484
+sS'72105'
+p485
+(g89
+S'Naranjito Municipio'
+p486
+tp487
+sS'01045'
+p488
+(g36
+S'Dale County'
+p489
+tp490
+sS'40073'
+p491
+(g44
+S'Kingfisher County'
+p492
+tp493
+sS'37177'
+p494
+(g371
+S'Tyrrell County'
+p495
+tp496
+sS'37175'
+p497
+(g371
+S'Transylvania County'
+p498
+tp499
+sS'37173'
+p500
+(g371
+S'Swain County'
+p501
+tp502
+sS'37171'
+p503
+(g371
+S'Surry County'
+p504
+tp505
+sS'37179'
+p506
+(g371
+g286
+tp507
+sS'08053'
+p508
+(S'CO'
+p509
+S'Hinsdale County'
+p510
+tp511
+sS'08051'
+p512
+(g509
+S'Gunnison County'
+p513
+tp514
+sS'48029'
+p515
+(g22
+S'Bexar County'
+p516
+tp517
+sS'08057'
+p518
+(g509
+g176
+tp519
+sS'08055'
+p520
+(g509
+S'Huerfano County'
+p521
+tp522
+sS'08059'
+p523
+(g509
+S'Jefferson County'
+p524
+tp525
+sS'54089'
+p526
+(g307
+S'Summers County'
+p527
+tp528
+sS'72107'
+p529
+(g89
+S'Orocovis Municipio'
+p530
+tp531
+sS'31129'
+p532
+(S'NE'
+p533
+S'Nuckolls County'
+p534
+tp535
+sS'31127'
+p536
+(g533
+S'Nemaha County'
+p537
+tp538
+sS'31125'
+p539
+(g533
+S'Nance County'
+p540
+tp541
+sS'31123'
+p542
+(g533
+S'Morrill County'
+p543
+tp544
+sS'31121'
+p545
+(g533
+S'Merrick County'
+p546
+tp547
+sS'18149'
+p548
+(S'IN'
+p549
+S'Starke County'
+p550
+tp551
+sS'54085'
+p552
+(g307
+S'Ritchie County'
+p553
+tp554
+sS'37125'
+p555
+(g371
+S'Moore County'
+p556
+tp557
+sS'18141'
+p558
+(g549
+S'St. Joseph County'
+p559
+tp560
+sS'18143'
+p561
+(g549
+S'Scott County'
+p562
+tp563
+sS'18145'
+p564
+(g549
+g431
+tp565
+sS'18147'
+p566
+(g549
+S'Spencer County'
+p567
+tp568
+sS'72085'
+p569
+(g89
+S'Las Piedras Municipio'
+p570
+tp571
+sS'37127'
+p572
+(g371
+S'Nash County'
+p573
+tp574
+sS'69085'
+p575
+(S'MP'
+p576
+S'Northern Islands Municipality'
+p577
+tp578
+sS'37121'
+p579
+(g371
+S'Mitchell County'
+p580
+tp581
+sS'29109'
+p582
+(S'MO'
+p583
+S'Lawrence County'
+p584
+tp585
+sS'46011'
+p586
+(g40
+S'Brookings County'
+p587
+tp588
+sS'05093'
+p589
+(g285
+S'Mississippi County'
+p590
+tp591
+sS'72129'
+p592
+(g89
+S'San Lorenzo Municipio'
+p593
+tp594
+sS'29101'
+p595
+(g583
+S'Johnson County'
+p596
+tp597
+sS'29103'
+p598
+(g583
+S'Knox County'
+p599
+tp600
+sS'37123'
+p601
+(g371
+S'Montgomery County'
+p602
+tp603
+sS'29105'
+p604
+(g583
+S'Laclede County'
+p605
+tp606
+sS'29107'
+p607
+(g583
+S'Lafayette County'
+p608
+tp609
+sS'72109'
+p610
+(g89
+S'Patillas Municipio'
+p611
+tp612
+sS'55111'
+p613
+(g249
+S'Sauk County'
+p614
+tp615
+sS'55113'
+p616
+(g249
+S'Sawyer County'
+p617
+tp618
+sS'55115'
+p619
+(g249
+S'Shawano County'
+p620
+tp621
+sS'55117'
+p622
+(g249
+S'Sheboygan County'
+p623
+tp624
+sS'48303'
+p625
+(g22
+S'Lubbock County'
+p626
+tp627
+sS'55119'
+p628
+(g249
+g337
+tp629
+sS'34041'
+p630
+(S'NJ'
+p631
+S'Warren County'
+p632
+tp633
+sS'46013'
+p634
+(g40
+S'Brown County'
+p635
+tp636
+sS'48301'
+p637
+(g22
+S'Loving County'
+p638
+tp639
+sS'48307'
+p640
+(g22
+S'McCulloch County'
+p641
+tp642
+sS'51161'
+p643
+(g156
+S'Roanoke County'
+p644
+tp645
+sS'54081'
+p646
+(g307
+S'Raleigh County'
+p647
+tp648
+sS'48305'
+p649
+(g22
+S'Lynn County'
+p650
+tp651
+sS'47035'
+p652
+(g194
+g282
+tp653
+sS'47037'
+p654
+(g194
+S'Davidson County'
+p655
+tp656
+sS'47031'
+p657
+(g194
+S'Coffee County'
+p658
+tp659
+sS'47033'
+p660
+(g194
+S'Crockett County'
+p661
+tp662
+sS'06109'
+p663
+(g26
+S'Tuolumne County'
+p664
+tp665
+sS'06107'
+p666
+(g26
+S'Tulare County'
+p667
+tp668
+sS'06105'
+p669
+(g26
+S'Trinity County'
+p670
+tp671
+sS'47039'
+p672
+(g194
+S'Decatur County'
+p673
+tp674
+sS'06103'
+p675
+(g26
+S'Tehama County'
+p676
+tp677
+sS'06101'
+p678
+(g26
+S'Sutter County'
+p679
+tp680
+sS'46137'
+p681
+(g40
+S'Ziebach County'
+p682
+tp683
+sS'55029'
+p684
+(g249
+S'Door County'
+p685
+tp686
+sS'19149'
+p687
+(g57
+S'Plymouth County'
+p688
+tp689
+sS'39171'
+p690
+(g61
+S'Williams County'
+p691
+tp692
+sS'19147'
+p693
+(g57
+S'Palo Alto County'
+p694
+tp695
+sS'39173'
+p696
+(g61
+S'Wood County'
+p697
+tp698
+sS'19145'
+p699
+(g57
+S'Page County'
+p700
+tp701
+sS'39175'
+p702
+(g61
+S'Wyandot County'
+p703
+tp704
+sS'19143'
+p705
+(g57
+S'Osceola County'
+p706
+tp707
+sS'55023'
+p708
+(g249
+g276
+tp709
+sS'19141'
+p710
+(g57
+S"O'Brien County"
+p711
+tp712
+sS'72033'
+p713
+(g89
+S'Catano Municipio'
+p714
+tp715
+sS'54083'
+p716
+(g307
+g446
+tp717
+sS'40141'
+p718
+(g44
+S'Tillman County'
+p719
+tp720
+sS'30049'
+p721
+(S'MT'
+p722
+S'Lewis and Clark County'
+p723
+tp724
+sS'22019'
+p725
+(g102
+S'Calcasieu Parish'
+p726
+tp727
+sS'22013'
+p728
+(g102
+S'Bienville Parish'
+p729
+tp730
+sS'22011'
+p731
+(g102
+S'Beauregard Parish'
+p732
+tp733
+sS'22017'
+p734
+(g102
+S'Caddo Parish'
+p735
+tp736
+sS'22015'
+p737
+(g102
+S'Bossier Parish'
+p738
+tp739
+sS'46129'
+p740
+(g40
+S'Walworth County'
+p741
+tp742
+sS'06039'
+p743
+(g26
+S'Madera County'
+p744
+tp745
+sS'06033'
+p746
+(g26
+S'Lake County'
+p747
+tp748
+sS'06031'
+p749
+(g26
+S'Kings County'
+p750
+tp751
+sS'06037'
+p752
+(g26
+S'Los Angeles County'
+p753
+tp754
+sS'06035'
+p755
+(g26
+S'Lassen County'
+p756
+tp757
+sS'27143'
+p758
+(g149
+S'Sibley County'
+p759
+tp760
+sS'16065'
+p761
+(g2
+g256
+tp762
+sS'27141'
+p763
+(g149
+S'Sherburne County'
+p764
+tp765
+sS'16067'
+p766
+(g2
+S'Minidoka County'
+p767
+tp768
+sS'27147'
+p769
+(g149
+S'Steele County'
+p770
+tp771
+sS'16061'
+p772
+(g2
+S'Lewis County'
+p773
+tp774
+sS'27145'
+p775
+(g149
+S'Stearns County'
+p776
+tp777
+sS'16063'
+p778
+(g2
+g188
+tp779
+sS'51510'
+p780
+(g156
+S'Alexandria city'
+p781
+tp782
+sS'27149'
+p783
+(g149
+S'Stevens County'
+p784
+tp785
+sS'51530'
+p786
+(g156
+S'Buena Vista city'
+p787
+tp788
+sS'39009'
+p789
+(g61
+S'Athens County'
+p790
+tp791
+sS'16069'
+p792
+(g2
+S'Nez Perce County'
+p793
+tp794
+sS'72035'
+p795
+(g89
+S'Cayey Municipio'
+p796
+tp797
+sS'21113'
+p798
+(g163
+S'Jessamine County'
+p799
+tp800
+sS'21111'
+p801
+(g163
+g524
+tp802
+sS'21117'
+p803
+(g163
+S'Kenton County'
+p804
+tp805
+sS'21115'
+p806
+(g163
+g596
+tp807
+sS'48447'
+p808
+(g22
+S'Throckmorton County'
+p809
+tp810
+sS'21119'
+p811
+(g163
+S'Knott County'
+p812
+tp813
+sS'56045'
+p814
+(S'WY'
+p815
+S'Weston County'
+p816
+tp817
+sS'32009'
+p818
+(g179
+S'Esmeralda County'
+p819
+tp820
+sS'32005'
+p821
+(g179
+S'Douglas County'
+p822
+tp823
+sS'32007'
+p824
+(g179
+S'Elko County'
+p825
+tp826
+sS'32001'
+p827
+(g179
+S'Churchill County'
+p828
+tp829
+sS'32003'
+p830
+(g179
+S'Clark County'
+p831
+tp832
+sS'42021'
+p833
+(g211
+S'Cambria County'
+p834
+tp835
+sS'26141'
+p836
+(g200
+S'Presque Isle County'
+p837
+tp838
+sS'42023'
+p839
+(g211
+S'Cameron County'
+p840
+tp841
+sS'26143'
+p842
+(g200
+S'Roscommon County'
+p843
+tp844
+sS'42025'
+p845
+(g211
+S'Carbon County'
+p846
+tp847
+sS'26145'
+p848
+(g200
+S'Saginaw County'
+p849
+tp850
+sS'42027'
+p851
+(g211
+S'Centre County'
+p852
+tp853
+sS'12009'
+p854
+(g215
+S'Brevard County'
+p855
+tp856
+sS'42029'
+p857
+(g211
+S'Chester County'
+p858
+tp859
+sS'26149'
+p860
+(g200
+g559
+tp861
+sS'12005'
+p862
+(g215
+S'Bay County'
+p863
+tp864
+sS'12003'
+p865
+(g215
+g205
+tp866
+sS'12001'
+p867
+(g215
+S'Alachua County'
+p868
+tp869
+sS'51107'
+p870
+(g156
+S'Loudoun County'
+p871
+tp872
+sS'51105'
+p873
+(g156
+g461
+tp874
+sS'51103'
+p875
+(g156
+S'Lancaster County'
+p876
+tp877
+sS'51101'
+p878
+(g156
+S'King William County'
+p879
+tp880
+sS'72037'
+p881
+(g89
+S'Ceiba Municipio'
+p882
+tp883
+sS'51109'
+p884
+(g156
+S'Louisa County'
+p885
+tp886
+sS'05109'
+p887
+(g285
+S'Pike County'
+p888
+tp889
+sS'05103'
+p890
+(g285
+S'Ouachita County'
+p891
+tp892
+sS'05101'
+p893
+(g285
+S'Newton County'
+p894
+tp895
+sS'05107'
+p896
+(g285
+S'Phillips County'
+p897
+tp898
+sS'05105'
+p899
+(g285
+S'Perry County'
+p900
+tp901
+sS'13289'
+p902
+(g118
+S'Twiggs County'
+p903
+tp904
+sS'13287'
+p905
+(g118
+S'Turner County'
+p906
+tp907
+sS'51127'
+p908
+(g156
+S'New Kent County'
+p909
+tp910
+sS'13285'
+p911
+(g118
+S'Troup County'
+p912
+tp913
+sS'13283'
+p914
+(g118
+S'Treutlen County'
+p915
+tp916
+sS'13281'
+p917
+(g118
+S'Towns County'
+p918
+tp919
+sS'46099'
+p920
+(g40
+S'Minnehaha County'
+p921
+tp922
+sS'48121'
+p923
+(g22
+S'Denton County'
+p924
+tp925
+sS'30061'
+p926
+(g722
+S'Mineral County'
+p927
+tp928
+sS'48219'
+p929
+(g22
+S'Hockley County'
+p930
+tp931
+sS'48127'
+p932
+(g22
+S'Dimmit County'
+p933
+tp934
+sS'53039'
+p935
+(g265
+S'Klickitat County'
+p936
+tp937
+sS'30063'
+p938
+(g722
+S'Missoula County'
+p939
+tp940
+sS'26039'
+p941
+(g200
+g276
+tp942
+sS'05039'
+p943
+(g285
+S'Dallas County'
+p944
+tp945
+sS'49047'
+p946
+(S'UT'
+p947
+S'Uintah County'
+p948
+tp949
+sS'05037'
+p950
+(g285
+S'Cross County'
+p951
+tp952
+sS'12133'
+p953
+(g215
+g37
+tp954
+sS'05035'
+p955
+(g285
+S'Crittenden County'
+p956
+tp957
+sS'26037'
+p958
+(g200
+S'Clinton County'
+p959
+tp960
+sS'05033'
+p961
+(g285
+g276
+tp962
+sS'26031'
+p963
+(g200
+S'Cheboygan County'
+p964
+tp965
+sS'05031'
+p966
+(g285
+S'Craighead County'
+p967
+tp968
+sS'26033'
+p969
+(g200
+S'Chippewa County'
+p970
+tp971
+sS'49045'
+p972
+(g947
+S'Tooele County'
+p973
+tp974
+sS'48229'
+p975
+(g22
+S'Hudspeth County'
+p976
+tp977
+sS'20089'
+p978
+(g351
+S'Jewell County'
+p979
+tp980
+sS'20087'
+p981
+(g351
+g524
+tp982
+sS'20085'
+p983
+(g351
+g176
+tp984
+sS'30067'
+p985
+(g722
+S'Park County'
+p986
+tp987
+sS'20083'
+p988
+(g351
+S'Hodgeman County'
+p989
+tp990
+sS'20081'
+p991
+(g351
+S'Haskell County'
+p992
+tp993
+sS'49043'
+p994
+(g947
+S'Summit County'
+p995
+tp996
+sS'01051'
+p997
+(g36
+S'Elmore County'
+p998
+tp999
+sS'01053'
+p1000
+(g36
+S'Escambia County'
+p1001
+tp1002
+sS'01055'
+p1003
+(g36
+S'Etowah County'
+p1004
+tp1005
+sS'01057'
+p1006
+(g36
+g219
+tp1007
+sS'01059'
+p1008
+(g36
+S'Franklin County'
+p1009
+tp1010
+sS'49041'
+p1011
+(g947
+g295
+tp1012
+sS'36017'
+p1013
+(g390
+S'Chenango County'
+p1014
+tp1015
+sS'37019'
+p1016
+(g371
+S'Brunswick County'
+p1017
+tp1018
+sS'13199'
+p1019
+(g118
+S'Meriwether County'
+p1020
+tp1021
+sS'36013'
+p1022
+(g390
+S'Chautauqua County'
+p1023
+tp1024
+sS'36011'
+p1025
+(g390
+S'Cayuga County'
+p1026
+tp1027
+sS'13193'
+p1028
+(g118
+S'Macon County'
+p1029
+tp1030
+sS'37011'
+p1031
+(g371
+S'Avery County'
+p1032
+tp1033
+sS'13191'
+p1034
+(g118
+S'McIntosh County'
+p1035
+tp1036
+sS'37013'
+p1037
+(g371
+S'Beaufort County'
+p1038
+tp1039
+sS'13197'
+p1040
+(g118
+g80
+tp1041
+sS'37015'
+p1042
+(g371
+S'Bertie County'
+p1043
+tp1044
+sS'13195'
+p1045
+(g118
+g256
+tp1046
+sS'37017'
+p1047
+(g371
+S'Bladen County'
+p1048
+tp1049
+sS'48311'
+p1050
+(g22
+S'McMullen County'
+p1051
+tp1052
+sS'48313'
+p1053
+(g22
+g256
+tp1054
+sS'48315'
+p1055
+(g22
+g80
+tp1056
+sS'48317'
+p1057
+(g22
+S'Martin County'
+p1058
+tp1059
+sS'48319'
+p1060
+(g22
+S'Mason County'
+p1061
+tp1062
+sS'48139'
+p1063
+(g22
+S'Ellis County'
+p1064
+tp1065
+sS'48429'
+p1066
+(g22
+S'Stephens County'
+p1067
+tp1068
+sS'48131'
+p1069
+(g22
+S'Duval County'
+p1070
+tp1071
+sS'48133'
+p1072
+(g22
+S'Eastland County'
+p1073
+tp1074
+sS'48135'
+p1075
+(g22
+S'Ector County'
+p1076
+tp1077
+sS'48137'
+p1078
+(g22
+S'Edwards County'
+p1079
+tp1080
+sS'47175'
+p1081
+(g194
+S'Van Buren County'
+p1082
+tp1083
+sS'13067'
+p1084
+(g118
+S'Cobb County'
+p1085
+tp1086
+sS'36075'
+p1087
+(g390
+S'Oswego County'
+p1088
+tp1089
+sS'13065'
+p1090
+(g118
+S'Clinch County'
+p1091
+tp1092
+sS'13063'
+p1093
+(g118
+S'Clayton County'
+p1094
+tp1095
+sS'55011'
+p1096
+(g249
+S'Buffalo County'
+p1097
+tp1098
+sS'13061'
+p1099
+(g118
+g216
+tp1100
+sS'47177'
+p1101
+(g194
+g632
+tp1102
+sS'47069'
+p1103
+(g194
+S'Hardeman County'
+p1104
+tp1105
+sS'13069'
+p1106
+(g118
+g658
+tp1107
+sS'13265'
+p1108
+(g118
+S'Taliaferro County'
+p1109
+tp1110
+sS'13267'
+p1111
+(g118
+S'Tattnall County'
+p1112
+tp1113
+sS'13261'
+p1114
+(g118
+g457
+tp1115
+sS'13263'
+p1116
+(g118
+S'Talbot County'
+p1117
+tp1118
+sS'72097'
+p1119
+(g89
+S'Mayaguez Municipio'
+p1120
+tp1121
+sS'13269'
+p1122
+(g118
+g337
+tp1123
+sS'42055'
+p1124
+(g211
+g1009
+tp1125
+sS'45089'
+p1126
+(g460
+S'Williamsburg County'
+p1127
+tp1128
+sS'40089'
+p1129
+(g44
+S'McCurtain County'
+p1130
+tp1131
+sS'48047'
+p1132
+(g22
+S'Brooks County'
+p1133
+tp1134
+sS'48217'
+p1135
+(g22
+S'Hill County'
+p1136
+tp1137
+sS'48041'
+p1138
+(g22
+S'Brazos County'
+p1139
+tp1140
+sS'48043'
+p1141
+(g22
+S'Brewster County'
+p1142
+tp1143
+sS'40081'
+p1144
+(g44
+g188
+tp1145
+sS'26153'
+p1146
+(g200
+S'Schoolcraft County'
+p1147
+tp1148
+sS'40083'
+p1149
+(g44
+S'Logan County'
+p1150
+tp1151
+sS'40085'
+p1152
+(g44
+S'Love County'
+p1153
+tp1154
+sS'40087'
+p1155
+(g44
+S'McClain County'
+p1156
+tp1157
+sS'20065'
+p1158
+(g351
+S'Graham County'
+p1159
+tp1160
+sS'37161'
+p1161
+(g371
+S'Rutherford County'
+p1162
+tp1163
+sS'20067'
+p1164
+(g351
+S'Grant County'
+p1165
+tp1166
+sS'37163'
+p1167
+(g371
+S'Sampson County'
+p1168
+tp1169
+sS'20061'
+p1170
+(g351
+S'Geary County'
+p1171
+tp1172
+sS'37165'
+p1173
+(g371
+S'Scotland County'
+p1174
+tp1175
+sS'20063'
+p1176
+(g351
+S'Gove County'
+p1177
+tp1178
+sS'37167'
+p1179
+(g371
+S'Stanly County'
+p1180
+tp1181
+sS'36079'
+p1182
+(g390
+S'Putnam County'
+p1183
+tp1184
+sS'20069'
+p1185
+(g351
+S'Gray County'
+p1186
+tp1187
+sS'48351'
+p1188
+(g22
+g894
+tp1189
+sS'72095'
+p1190
+(g89
+S'Maunabo Municipio'
+p1191
+tp1192
+sS'08069'
+p1193
+(g509
+S'Larimer County'
+p1194
+tp1195
+sS'08067'
+p1196
+(g509
+S'La Plata County'
+p1197
+tp1198
+sS'78010'
+p1199
+(S'VI'
+p1200
+S'St. Croix Island'
+p1201
+tp1202
+sS'08065'
+p1203
+(g509
+g747
+tp1204
+sS'45081'
+p1205
+(g460
+S'Saluda County'
+p1206
+tp1207
+sS'08063'
+p1208
+(g509
+S'Kit Carson County'
+p1209
+tp1210
+sS'08061'
+p1211
+(g509
+S'Kiowa County'
+p1212
+tp1213
+sS'31119'
+p1214
+(g533
+g256
+tp1215
+sS'31113'
+p1216
+(g533
+g1150
+tp1217
+sS'31111'
+p1218
+(g533
+g188
+tp1219
+sS'31117'
+p1220
+(g533
+S'McPherson County'
+p1221
+tp1222
+sS'31115'
+p1223
+(g533
+S'Loup County'
+p1224
+tp1225
+sS'48211'
+p1226
+(g22
+S'Hemphill County'
+p1227
+tp1228
+sS'08085'
+p1229
+(g509
+S'Montrose County'
+p1230
+tp1231
+sS'08087'
+p1232
+(g509
+S'Morgan County'
+p1233
+tp1234
+sS'18159'
+p1235
+(g549
+S'Tipton County'
+p1236
+tp1237
+sS'08081'
+p1238
+(g509
+S'Moffat County'
+p1239
+tp1240
+sS'26159'
+p1241
+(g200
+g1082
+tp1242
+sS'08083'
+p1243
+(g509
+S'Montezuma County'
+p1244
+tp1245
+sS'18153'
+p1246
+(g549
+S'Sullivan County'
+p1247
+tp1248
+sS'18151'
+p1249
+(g549
+S'Steuben County'
+p1250
+tp1251
+sS'08089'
+p1252
+(g509
+S'Otero County'
+p1253
+tp1254
+sS'18157'
+p1255
+(g549
+S'Tippecanoe County'
+p1256
+tp1257
+sS'18155'
+p1258
+(g549
+S'Switzerland County'
+p1259
+tp1260
+sS'51117'
+p1261
+(g156
+S'Mecklenburg County'
+p1262
+tp1263
+sS'72139'
+p1264
+(g89
+S'Trujillo Alto Municipio'
+p1265
+tp1266
+sS'29119'
+p1267
+(g583
+S'McDonald County'
+p1268
+tp1269
+sS'29113'
+p1270
+(g583
+g188
+tp1271
+sS'29111'
+p1272
+(g583
+g773
+tp1273
+sS'29117'
+p1274
+(g583
+S'Livingston County'
+p1275
+tp1276
+sS'29115'
+p1277
+(g583
+S'Linn County'
+p1278
+tp1279
+sS'51033'
+p1280
+(g156
+S'Caroline County'
+p1281
+tp1282
+sS'55063'
+p1283
+(g249
+S'La Crosse County'
+p1284
+tp1285
+sS'51031'
+p1286
+(g156
+S'Campbell County'
+p1287
+tp1288
+sS'54059'
+p1289
+(g307
+S'Mingo County'
+p1290
+tp1291
+sS'55065'
+p1292
+(g249
+g608
+tp1293
+sS'51037'
+p1294
+(g156
+g228
+tp1295
+sS'55103'
+p1296
+(g249
+S'Richland County'
+p1297
+tp1298
+sS'18007'
+p1299
+(g549
+g326
+tp1300
+sS'55101'
+p1301
+(g249
+S'Racine County'
+p1302
+tp1303
+sS'55107'
+p1304
+(g249
+S'Rusk County'
+p1305
+tp1306
+sS'55105'
+p1307
+(g249
+S'Rock County'
+p1308
+tp1309
+sS'51119'
+p1310
+(g156
+S'Middlesex County'
+p1311
+tp1312
+sS'51035'
+p1313
+(g156
+S'Carroll County'
+p1314
+tp1315
+sS'72091'
+p1316
+(g89
+S'Manati Municipio'
+p1317
+tp1318
+sS'55069'
+p1319
+(g249
+g188
+tp1320
+sS'48055'
+p1321
+(g22
+S'Caldwell County'
+p1322
+tp1323
+sS'48363'
+p1324
+(g22
+S'Palo Pinto County'
+p1325
+tp1326
+sS'38059'
+p1327
+(S'ND'
+p1328
+S'Morton County'
+p1329
+tp1330
+sS'02122'
+p1331
+(g48
+S'Kenai Peninsula Borough'
+p1332
+tp1333
+sS'47025'
+p1334
+(g194
+S'Claiborne County'
+p1335
+tp1336
+sS'47023'
+p1337
+(g194
+g858
+tp1338
+sS'47021'
+p1339
+(g194
+S'Cheatham County'
+p1340
+tp1341
+sS'47029'
+p1342
+(g194
+S'Cocke County'
+p1343
+tp1344
+sS'29199'
+p1345
+(g583
+g1174
+tp1346
+sS'17037'
+p1347
+(g272
+S'DeKalb County'
+p1348
+tp1349
+sS'19179'
+p1350
+(g57
+S'Wapello County'
+p1351
+tp1352
+sS'39169'
+p1353
+(g61
+S'Wayne County'
+p1354
+tp1355
+sS'17039'
+p1356
+(g272
+S'De Witt County'
+p1357
+tp1358
+sS'19173'
+p1359
+(g57
+g337
+tp1360
+sS'39163'
+p1361
+(g61
+S'Vinton County'
+p1362
+tp1363
+sS'19171'
+p1364
+(g57
+S'Tama County'
+p1365
+tp1366
+sS'39161'
+p1367
+(g61
+S'Van Wert County'
+p1368
+tp1369
+sS'19177'
+p1370
+(g57
+g1082
+tp1371
+sS'39167'
+p1372
+(g61
+g37
+tp1373
+sS'19175'
+p1374
+(g57
+g286
+tp1375
+sS'39165'
+p1376
+(g61
+g632
+tp1377
+sS'22027'
+p1378
+(g102
+S'Claiborne Parish'
+p1379
+tp1380
+sS'22025'
+p1381
+(g102
+S'Catahoula Parish'
+p1382
+tp1383
+sS'22023'
+p1384
+(g102
+S'Cameron Parish'
+p1385
+tp1386
+sS'22021'
+p1387
+(g102
+S'Caldwell Parish'
+p1388
+tp1389
+sS'22029'
+p1390
+(g102
+S'Concordia Parish'
+p1391
+tp1392
+sS'06007'
+p1393
+(g26
+S'Butte County'
+p1394
+tp1395
+sS'06005'
+p1396
+(g26
+S'Amador County'
+p1397
+tp1398
+sS'72045'
+p1399
+(g89
+S'Comerio Municipio'
+p1400
+tp1401
+sS'06003'
+p1402
+(g26
+S'Alpine County'
+p1403
+tp1404
+sS'06001'
+p1405
+(g26
+S'Alameda County'
+p1406
+tp1407
+sS'06009'
+p1408
+(g26
+S'Calaveras County'
+p1409
+tp1410
+sS'51620'
+p1411
+(g156
+S'Franklin city'
+p1412
+tp1413
+sS'02016'
+p1414
+(g48
+S'Aleutians West Census Area'
+p1415
+tp1416
+sS'02013'
+p1417
+(g48
+S'Aleutians East Borough'
+p1418
+tp1419
+sS'16011'
+p1420
+(g2
+S'Bingham County'
+p1421
+tp1422
+sS'39017'
+p1423
+(g61
+S'Butler County'
+p1424
+tp1425
+sS'16013'
+p1426
+(g2
+S'Blaine County'
+p1427
+tp1428
+sS'39015'
+p1429
+(g61
+g635
+tp1430
+sS'16015'
+p1431
+(g2
+S'Boise County'
+p1432
+tp1433
+sS'27159'
+p1434
+(g149
+S'Wadena County'
+p1435
+tp1436
+sS'16017'
+p1437
+(g2
+S'Bonner County'
+p1438
+tp1439
+sS'39011'
+p1440
+(g61
+S'Auglaize County'
+p1441
+tp1442
+sS'16019'
+p1443
+(g2
+S'Bonneville County'
+p1444
+tp1445
+sS'27155'
+p1446
+(g149
+S'Traverse County'
+p1447
+tp1448
+sS'27157'
+p1449
+(g149
+S'Wabasha County'
+p1450
+tp1451
+sS'27151'
+p1452
+(g149
+S'Swift County'
+p1453
+tp1454
+sS'27153'
+p1455
+(g149
+S'Todd County'
+p1456
+tp1457
+sS'22117'
+p1458
+(g102
+S'Washington Parish'
+p1459
+tp1460
+sS'21129'
+p1461
+(g163
+g461
+tp1462
+sS'21127'
+p1463
+(g163
+g584
+tp1464
+sS'48367'
+p1465
+(g22
+S'Parker County'
+p1466
+tp1467
+sS'21125'
+p1468
+(g163
+S'Laurel County'
+p1469
+tp1470
+sS'21123'
+p1471
+(g163
+S'Larue County'
+p1472
+tp1473
+sS'22115'
+p1474
+(g102
+S'Vernon Parish'
+p1475
+tp1476
+sS'21121'
+p1477
+(g163
+g599
+tp1478
+sS'16059'
+p1479
+(g2
+S'Lemhi County'
+p1480
+tp1481
+sS'46061'
+p1482
+(g40
+S'Hanson County'
+p1483
+tp1484
+sS'40001'
+p1485
+(g44
+S'Adair County'
+p1486
+tp1487
+sS'12039'
+p1488
+(g215
+S'Gadsden County'
+p1489
+tp1490
+sS'42031'
+p1491
+(g211
+S'Clarion County'
+p1492
+tp1493
+sS'46065'
+p1494
+(g40
+S'Hughes County'
+p1495
+tp1496
+sS'22111'
+p1497
+(g102
+S'Union Parish'
+p1498
+tp1499
+sS'46067'
+p1500
+(g40
+g423
+tp1501
+sS'42035'
+p1502
+(g211
+g959
+tp1503
+sS'12033'
+p1504
+(g215
+g1001
+tp1505
+sS'12031'
+p1506
+(g215
+g1070
+tp1507
+sS'42039'
+p1508
+(g211
+g276
+tp1509
+sS'12037'
+p1510
+(g215
+g1009
+tp1511
+sS'40003'
+p1512
+(g44
+S'Alfalfa County'
+p1513
+tp1514
+sS'12035'
+p1515
+(g215
+S'Flagler County'
+p1516
+tp1517
+sS'51133'
+p1518
+(g156
+S'Northumberland County'
+p1519
+tp1520
+sS'51131'
+p1521
+(g156
+S'Northampton County'
+p1522
+tp1523
+sS'51137'
+p1524
+(g156
+S'Orange County'
+p1525
+tp1526
+sS'51135'
+p1527
+(g156
+S'Nottoway County'
+p1528
+tp1529
+sS'40005'
+p1530
+(g44
+S'Atoka County'
+p1531
+tp1532
+sS'51139'
+p1533
+(g156
+g700
+tp1534
+sS'16057'
+p1535
+(g2
+S'Latah County'
+p1536
+tp1537
+sS'31177'
+p1538
+(g533
+g37
+tp1539
+sS'40007'
+p1540
+(g44
+S'Beaver County'
+p1541
+tp1542
+sS'72041'
+p1543
+(g89
+S'Cidra Municipio'
+p1544
+tp1545
+sS'13299'
+p1546
+(g118
+S'Ware County'
+p1547
+tp1548
+sS'22119'
+p1549
+(g102
+S'Webster Parish'
+p1550
+tp1551
+sS'13291'
+p1552
+(g118
+g286
+tp1553
+sS'13293'
+p1554
+(g118
+S'Upson County'
+p1555
+tp1556
+sS'13295'
+p1557
+(g118
+S'Walker County'
+p1558
+tp1559
+sS'51061'
+p1560
+(g156
+S'Fauquier County'
+p1561
+tp1562
+sS'13297'
+p1563
+(g118
+S'Walton County'
+p1564
+tp1565
+sS'12107'
+p1566
+(g215
+g1183
+tp1567
+sS'12105'
+p1568
+(g215
+g83
+tp1569
+sS'12103'
+p1570
+(g215
+S'Pinellas County'
+p1571
+tp1572
+sS'12101'
+p1573
+(g215
+S'Pasco County'
+p1574
+tp1575
+sS'02240'
+p1576
+(g48
+S'Southeast Fairbanks Census Area'
+p1577
+tp1578
+sS'12109'
+p1579
+(g215
+S'St. Johns County'
+p1580
+tp1581
+sS'26049'
+p1582
+(g200
+S'Genesee County'
+p1583
+tp1584
+sS'05029'
+p1585
+(g285
+S'Conway County'
+p1586
+tp1587
+sS'26041'
+p1588
+(g200
+S'Delta County'
+p1589
+tp1590
+sS'05021'
+p1591
+(g285
+g216
+tp1592
+sS'26043'
+p1593
+(g200
+S'Dickinson County'
+p1594
+tp1595
+sS'05023'
+p1596
+(g285
+g365
+tp1597
+sS'26045'
+p1598
+(g200
+S'Eaton County'
+p1599
+tp1600
+sS'05025'
+p1601
+(g285
+g106
+tp1602
+sS'26047'
+p1603
+(g200
+S'Emmet County'
+p1604
+tp1605
+sS'05027'
+p1606
+(g285
+g403
+tp1607
+sS'20099'
+p1608
+(g351
+S'Labette County'
+p1609
+tp1610
+sS'48239'
+p1611
+(g22
+g176
+tp1612
+sS'20091'
+p1613
+(g351
+g596
+tp1614
+sS'20093'
+p1615
+(g351
+S'Kearny County'
+p1616
+tp1617
+sS'20095'
+p1618
+(g351
+S'Kingman County'
+p1619
+tp1620
+sS'20097'
+p1621
+(g351
+g1212
+tp1622
+sS'13185'
+p1623
+(g118
+S'Lowndes County'
+p1624
+tp1625
+sS'13187'
+p1626
+(g118
+S'Lumpkin County'
+p1627
+tp1628
+sS'13181'
+p1629
+(g118
+g188
+tp1630
+sS'13183'
+p1631
+(g118
+S'Long County'
+p1632
+tp1633
+sS'72093'
+p1634
+(g89
+S'Maricao Municipio'
+p1635
+tp1636
+sS'01049'
+p1637
+(g36
+g1348
+tp1638
+sS'13189'
+p1639
+(g118
+S'McDuffie County'
+p1640
+tp1641
+sS'12129'
+p1642
+(g215
+S'Wakulla County'
+p1643
+tp1644
+sS'36003'
+p1645
+(g390
+S'Allegany County'
+p1646
+tp1647
+sS'36005'
+p1648
+(g390
+S'Bronx County'
+p1649
+tp1650
+sS'36007'
+p1651
+(g390
+S'Broome County'
+p1652
+tp1653
+sS'36009'
+p1654
+(g390
+S'Cattaraugus County'
+p1655
+tp1656
+sS'45019'
+p1657
+(g460
+S'Charleston County'
+p1658
+tp1659
+sS'05115'
+p1660
+(g285
+S'Pope County'
+p1661
+tp1662
+sS'05117'
+p1663
+(g285
+S'Prairie County'
+p1664
+tp1665
+sS'05111'
+p1666
+(g285
+S'Poinsett County'
+p1667
+tp1668
+sS'05113'
+p1669
+(g285
+g83
+tp1670
+sS'48309'
+p1671
+(g22
+S'McLennan County'
+p1672
+tp1673
+sS'05119'
+p1674
+(g285
+S'Pulaski County'
+p1675
+tp1676
+sS'48435'
+p1677
+(g22
+S'Sutton County'
+p1678
+tp1679
+sS'48437'
+p1680
+(g22
+S'Swisher County'
+p1681
+tp1682
+sS'48431'
+p1683
+(g22
+S'Sterling County'
+p1684
+tp1685
+sS'48433'
+p1686
+(g22
+S'Stonewall County'
+p1687
+tp1688
+sS'48439'
+p1689
+(g22
+S'Tarrant County'
+p1690
+tp1691
+sS'72153'
+p1692
+(g89
+S'Yauco Municipio'
+p1693
+tp1694
+sS'53027'
+p1695
+(g265
+S'Grays Harbor County'
+p1696
+tp1697
+sS'48129'
+p1698
+(g22
+S'Donley County'
+p1699
+tp1700
+sS'72099'
+p1701
+(g89
+S'Moca Municipio'
+p1702
+tp1703
+sS'48123'
+p1704
+(g22
+S'DeWitt County'
+p1705
+tp1706
+sS'30045'
+p1707
+(g722
+S'Judith Basin County'
+p1708
+tp1709
+sS'26029'
+p1710
+(g200
+S'Charlevoix County'
+p1711
+tp1712
+sS'48125'
+p1713
+(g22
+S'Dickens County'
+p1714
+tp1715
+sS'13071'
+p1716
+(g118
+S'Colquitt County'
+p1717
+tp1718
+sS'13073'
+p1719
+(g118
+g403
+tp1720
+sS'13075'
+p1721
+(g118
+g273
+tp1722
+sS'13077'
+p1723
+(g118
+S'Coweta County'
+p1724
+tp1725
+sS'13079'
+p1726
+(g118
+g276
+tp1727
+sS'13277'
+p1728
+(g118
+S'Tift County'
+p1729
+tp1730
+sS'13275'
+p1731
+(g118
+S'Thomas County'
+p1732
+tp1733
+sS'13273'
+p1734
+(g118
+S'Terrell County'
+p1735
+tp1736
+sS'13271'
+p1737
+(g118
+S'Telfair County'
+p1738
+tp1739
+sS'45087'
+p1740
+(g460
+g286
+tp1741
+sS'45085'
+p1742
+(g460
+g457
+tp1743
+sS'45083'
+p1744
+(g460
+S'Spartanburg County'
+p1745
+tp1746
+sS'13279'
+p1747
+(g118
+S'Toombs County'
+p1748
+tp1749
+sS'18099'
+p1750
+(g549
+S'Marshall County'
+p1751
+tp1752
+sS'18093'
+p1753
+(g549
+g584
+tp1754
+sS'18091'
+p1755
+(g549
+S'LaPorte County'
+p1756
+tp1757
+sS'18097'
+p1758
+(g549
+g80
+tp1759
+sS'18095'
+p1760
+(g549
+g256
+tp1761
+sS'27113'
+p1762
+(g149
+S'Pennington County'
+p1763
+tp1764
+sS'48057'
+p1765
+(g22
+g240
+tp1766
+sS'40099'
+p1767
+(g44
+S'Murray County'
+p1768
+tp1769
+sS'48053'
+p1770
+(g22
+S'Burnet County'
+p1771
+tp1772
+sS'48051'
+p1773
+(g22
+S'Burleson County'
+p1774
+tp1775
+sS'40093'
+p1776
+(g44
+S'Major County'
+p1777
+tp1778
+sS'40091'
+p1779
+(g44
+g1035
+tp1780
+sS'40097'
+p1781
+(g44
+S'Mayes County'
+p1782
+tp1783
+sS'40095'
+p1784
+(g44
+g1751
+tp1785
+sS'20077'
+p1786
+(g351
+S'Harper County'
+p1787
+tp1788
+sS'20075'
+p1789
+(g351
+S'Hamilton County'
+p1790
+tp1791
+sS'37199'
+p1792
+(g371
+S'Yancey County'
+p1793
+tp1794
+sS'20073'
+p1795
+(g351
+S'Greenwood County'
+p1796
+tp1797
+sS'20071'
+p1798
+(g351
+S'Greeley County'
+p1799
+tp1800
+sS'37195'
+p1801
+(g371
+S'Wilson County'
+p1802
+tp1803
+sS'37197'
+p1804
+(g371
+S'Yadkin County'
+p1805
+tp1806
+sS'37191'
+p1807
+(g371
+g1354
+tp1808
+sS'37193'
+p1809
+(g371
+S'Wilkes County'
+p1810
+tp1811
+sS'20079'
+p1812
+(g351
+S'Harvey County'
+p1813
+tp1814
+sS'08079'
+p1815
+(g509
+g927
+tp1816
+sS'48369'
+p1817
+(g22
+S'Parmer County'
+p1818
+tp1819
+sS'08071'
+p1820
+(g509
+S'Las Animas County'
+p1821
+tp1822
+sS'08073'
+p1823
+(g509
+g188
+tp1824
+sS'08075'
+p1825
+(g509
+g1150
+tp1826
+sS'08077'
+p1827
+(g509
+S'Mesa County'
+p1828
+tp1829
+sS'18167'
+p1830
+(g549
+S'Vigo County'
+p1831
+tp1832
+sS'28021'
+p1833
+(S'MS'
+p1834
+g1335
+tp1835
+sS'18165'
+p1836
+(g549
+S'Vermillion County'
+p1837
+tp1838
+sS'18163'
+p1839
+(g549
+S'Vanderburgh County'
+p1840
+tp1841
+sS'18161'
+p1842
+(g549
+g286
+tp1843
+sS'28023'
+p1844
+(g1834
+g355
+tp1845
+sS'18169'
+p1846
+(g549
+S'Wabash County'
+p1847
+tp1848
+sS'08097'
+p1849
+(g509
+S'Pitkin County'
+p1850
+tp1851
+sS'08095'
+p1852
+(g509
+g897
+tp1853
+sS'08093'
+p1854
+(g509
+g986
+tp1855
+sS'08091'
+p1856
+(g509
+S'Ouray County'
+p1857
+tp1858
+sS'28025'
+p1859
+(g1834
+g216
+tp1860
+sS'08099'
+p1861
+(g509
+S'Prowers County'
+p1862
+tp1863
+sS'29127'
+p1864
+(g583
+g80
+tp1865
+sS'48399'
+p1866
+(g22
+S'Runnels County'
+p1867
+tp1868
+sS'29125'
+p1869
+(g583
+S'Maries County'
+p1870
+tp1871
+sS'16023'
+p1872
+(g2
+g1394
+tp1873
+sS'29123'
+p1874
+(g583
+g256
+tp1875
+sS'28027'
+p1876
+(g1834
+S'Coahoma County'
+p1877
+tp1878
+sS'29121'
+p1879
+(g583
+g1029
+tp1880
+sS'51595'
+p1881
+(g156
+S'Emporia city'
+p1882
+tp1883
+sS'20139'
+p1884
+(g351
+S'Osage County'
+p1885
+tp1886
+sS'29129'
+p1887
+(g583
+g74
+tp1888
+sS'16025'
+p1889
+(g2
+S'Camas County'
+p1890
+tp1891
+sS'16027'
+p1892
+(g2
+S'Canyon County'
+p1893
+tp1894
+sS'35049'
+p1895
+(S'NM'
+p1896
+S'Santa Fe County'
+p1897
+tp1898
+sS'35045'
+p1899
+(g1896
+S'San Juan County'
+p1900
+tp1901
+sS'72031'
+p1902
+(g89
+S'Carolina Municipio'
+p1903
+tp1904
+sS'35047'
+p1905
+(g1896
+S'San Miguel County'
+p1906
+tp1907
+sS'35041'
+p1908
+(g1896
+S'Roosevelt County'
+p1909
+tp1910
+sS'35043'
+p1911
+(g1896
+S'Sandoval County'
+p1912
+tp1913
+sS'48391'
+p1914
+(g22
+S'Refugio County'
+p1915
+tp1916
+sS'48393'
+p1917
+(g22
+S'Roberts County'
+p1918
+tp1919
+sS'55139'
+p1920
+(g249
+S'Winnebago County'
+p1921
+tp1922
+sS'72023'
+p1923
+(g89
+S'Cabo Rojo Municipio'
+p1924
+tp1925
+sS'55137'
+p1926
+(g249
+S'Waushara County'
+p1927
+tp1928
+sS'20137'
+p1929
+(g351
+S'Norton County'
+p1930
+tp1931
+sS'55135'
+p1932
+(g249
+S'Waupaca County'
+p1933
+tp1934
+sS'55133'
+p1935
+(g249
+S'Waukesha County'
+p1936
+tp1937
+sS'55131'
+p1938
+(g249
+g37
+tp1939
+sS'31105'
+p1940
+(g533
+S'Kimball County'
+p1941
+tp1942
+sS'78030'
+p1943
+(g1200
+S'St. Thomas Island'
+p1944
+tp1945
+sS'31107'
+p1946
+(g533
+g599
+tp1947
+sS'31101'
+p1948
+(g533
+S'Keith County'
+p1949
+tp1950
+sS'31103'
+p1951
+(g533
+S'Keya Paha County'
+p1952
+tp1953
+sS'31109'
+p1954
+(g533
+g876
+tp1955
+sS'37103'
+p1956
+(g371
+S'Jones County'
+p1957
+tp1958
+sS'72025'
+p1959
+(g89
+S'Caguas Municipio'
+p1960
+tp1961
+sS'47013'
+p1962
+(g194
+g1287
+tp1963
+sS'47011'
+p1964
+(g194
+S'Bradley County'
+p1965
+tp1966
+sS'47017'
+p1967
+(g194
+g1314
+tp1968
+sS'47015'
+p1969
+(g194
+S'Cannon County'
+p1970
+tp1971
+sS'47019'
+p1972
+(g194
+S'Carter County'
+p1973
+tp1974
+sS'39157'
+p1975
+(g61
+S'Tuscarawas County'
+p1976
+tp1977
+sS'19165'
+p1978
+(g57
+g431
+tp1979
+sS'39155'
+p1980
+(g61
+S'Trumbull County'
+p1981
+tp1982
+sS'19167'
+p1983
+(g57
+S'Sioux County'
+p1984
+tp1985
+sS'27019'
+p1986
+(g149
+S'Carver County'
+p1987
+tp1988
+sS'19161'
+p1989
+(g57
+S'Sac County'
+p1990
+tp1991
+sS'39151'
+p1992
+(g61
+S'Stark County'
+p1993
+tp1994
+sS'19163'
+p1995
+(g57
+g562
+tp1996
+sS'27015'
+p1997
+(g149
+g635
+tp1998
+sS'27017'
+p1999
+(g149
+S'Carlton County'
+p2000
+tp2001
+sS'27011'
+p2002
+(g149
+S'Big Stone County'
+p2003
+tp2004
+sS'19169'
+p2005
+(g57
+S'Story County'
+p2006
+tp2007
+sS'27013'
+p2008
+(g149
+S'Blue Earth County'
+p2009
+tp2010
+sS'53011'
+p2011
+(g265
+g831
+tp2012
+sS'55009'
+p2013
+(g249
+g635
+tp2014
+sS'51041'
+p2015
+(g156
+S'Chesterfield County'
+p2016
+tp2017
+sS'55003'
+p2018
+(g249
+S'Ashland County'
+p2019
+tp2020
+sS'51580'
+p2021
+(g156
+S'Covington city'
+p2022
+tp2023
+sS'37109'
+p2024
+(g371
+g188
+tp2025
+sS'55007'
+p2026
+(g249
+S'Bayfield County'
+p2027
+tp2028
+sS'55005'
+p2029
+(g249
+S'Barron County'
+p2030
+tp2031
+sS'22031'
+p2032
+(g102
+S'De Soto Parish'
+p2033
+tp2034
+sS'22033'
+p2035
+(g102
+S'East Baton Rouge Parish'
+p2036
+tp2037
+sS'22035'
+p2038
+(g102
+S'East Carroll Parish'
+p2039
+tp2040
+sS'22037'
+p2041
+(g102
+S'East Feliciana Parish'
+p2042
+tp2043
+sS'22039'
+p2044
+(g102
+S'Evangeline Parish'
+p2045
+tp2046
+sS'06011'
+p2047
+(g26
+S'Colusa County'
+p2048
+tp2049
+sS'06013'
+p2050
+(g26
+S'Contra Costa County'
+p2051
+tp2052
+sS'06015'
+p2053
+(g26
+S'Del Norte County'
+p2054
+tp2055
+sS'06017'
+p2056
+(g26
+S'El Dorado County'
+p2057
+tp2058
+sS'06019'
+p2059
+(g26
+S'Fresno County'
+p2060
+tp2061
+sS'51630'
+p2062
+(g156
+S'Fredericksburg city'
+p2063
+tp2064
+sS'02068'
+p2065
+(g48
+S'Denali Borough'
+p2066
+tp2067
+sS'02060'
+p2068
+(g48
+S'Bristol Bay Borough'
+p2069
+tp2070
+sS'06087'
+p2071
+(g26
+S'Santa Cruz County'
+p2072
+tp2073
+sS'27129'
+p2074
+(g149
+S'Renville County'
+p2075
+tp2076
+sS'16003'
+p2077
+(g2
+S'Adams County'
+p2078
+tp2079
+sS'39021'
+p2080
+(g61
+S'Champaign County'
+p2081
+tp2082
+sS'16001'
+p2083
+(g2
+S'Ada County'
+p2084
+tp2085
+sS'39027'
+p2086
+(g61
+g959
+tp2087
+sS'16007'
+p2088
+(g2
+S'Bear Lake County'
+p2089
+tp2090
+sS'39025'
+p2091
+(g61
+S'Clermont County'
+p2092
+tp2093
+sS'16005'
+p2094
+(g2
+S'Bannock County'
+p2095
+tp2096
+sS'27121'
+p2097
+(g149
+g1661
+tp2098
+sS'27123'
+p2099
+(g149
+S'Ramsey County'
+p2100
+tp2101
+sS'16009'
+p2102
+(g2
+S'Benewah County'
+p2103
+tp2104
+sS'27125'
+p2105
+(g149
+S'Red Lake County'
+p2106
+tp2107
+sS'27127'
+p2108
+(g149
+S'Redwood County'
+p2109
+tp2110
+sS'48361'
+p2111
+(g22
+g1525
+tp2112
+sS'21139'
+p2113
+(g163
+g1275
+tp2114
+sS'21131'
+p2115
+(g163
+S'Leslie County'
+p2116
+tp2117
+sS'21133'
+p2118
+(g163
+S'Letcher County'
+p2119
+tp2120
+sS'21135'
+p2121
+(g163
+g773
+tp2122
+sS'21137'
+p2123
+(g163
+g188
+tp2124
+sS'12027'
+p2125
+(g215
+S'DeSoto County'
+p2126
+tp2127
+sS'12021'
+p2128
+(g215
+S'Collier County'
+p2129
+tp2130
+sS'12023'
+p2131
+(g215
+g403
+tp2132
+sS'46115'
+p2133
+(g40
+S'Spink County'
+p2134
+tp2135
+sS'19087'
+p2136
+(g57
+g167
+tp2137
+sS'12029'
+p2138
+(g215
+S'Dixie County'
+p2139
+tp2140
+sS'46073'
+p2141
+(g40
+S'Jerauld County'
+p2142
+tp2143
+sS'42127'
+p2144
+(g211
+g1354
+tp2145
+sS'30081'
+p2146
+(g722
+S'Ravalli County'
+p2147
+tp2148
+sS'42009'
+p2149
+(g211
+S'Bedford County'
+p2150
+tp2151
+sS'46075'
+p2152
+(g40
+g1957
+tp2153
+sS'06085'
+p2154
+(g26
+S'Santa Clara County'
+p2155
+tp2156
+sS'42005'
+p2157
+(g211
+S'Armstrong County'
+p2158
+tp2159
+sS'46079'
+p2160
+(g40
+g747
+tp2161
+sS'42003'
+p2162
+(g211
+S'Allegheny County'
+p2163
+tp2164
+sS'42001'
+p2165
+(g211
+g2078
+tp2166
+sS'42121'
+p2167
+(g211
+S'Venango County'
+p2168
+tp2169
+sS'51125'
+p2170
+(g156
+S'Nelson County'
+p2171
+tp2172
+sS'42123'
+p2173
+(g211
+g632
+tp2174
+sS'51121'
+p2175
+(g156
+g602
+tp2176
+sS'48027'
+p2177
+(g22
+S'Bell County'
+p2178
+tp2179
+sS'46053'
+p2180
+(g40
+S'Gregory County'
+p2181
+tp2182
+sS'40069'
+p2183
+(g44
+S'Johnston County'
+p2184
+tp2185
+sS'48023'
+p2186
+(g22
+S'Baylor County'
+p2187
+tp2188
+sS'12111'
+p2189
+(g215
+S'St. Lucie County'
+p2190
+tp2191
+sS'12113'
+p2192
+(g215
+S'Santa Rosa County'
+p2193
+tp2194
+sS'12115'
+p2195
+(g215
+S'Sarasota County'
+p2196
+tp2197
+sS'12117'
+p2198
+(g215
+S'Seminole County'
+p2199
+tp2200
+sS'12119'
+p2201
+(g215
+g457
+tp2202
+sS'40063'
+p2203
+(g44
+g1495
+tp2204
+sS'26059'
+p2205
+(g200
+S'Hillsdale County'
+p2206
+tp2207
+sS'17199'
+p2208
+(g272
+S'Williamson County'
+p2209
+tp2210
+sS'17197'
+p2211
+(g272
+S'Will County'
+p2212
+tp2213
+sS'26053'
+p2214
+(g200
+S'Gogebic County'
+p2215
+tp2216
+sS'17195'
+p2217
+(g272
+S'Whiteside County'
+p2218
+tp2219
+sS'26051'
+p2220
+(g200
+S'Gladwin County'
+p2221
+tp2222
+sS'17193'
+p2223
+(g272
+S'White County'
+p2224
+tp2225
+sS'26057'
+p2226
+(g200
+S'Gratiot County'
+p2227
+tp2228
+sS'17191'
+p2229
+(g272
+g1354
+tp2230
+sS'26055'
+p2231
+(g200
+S'Grand Traverse County'
+p2232
+tp2233
+sS'48209'
+p2234
+(g22
+S'Hays County'
+p2235
+tp2236
+sS'48203'
+p2237
+(g22
+S'Harrison County'
+p2238
+tp2239
+sS'40067'
+p2240
+(g44
+g524
+tp2241
+sS'41069'
+p2242
+(g204
+S'Wheeler County'
+p2243
+tp2244
+sS'48207'
+p2245
+(g22
+g992
+tp2246
+sS'48205'
+p2247
+(g22
+S'Hartley County'
+p2248
+tp2249
+sS'17175'
+p2250
+(g272
+g1993
+tp2251
+sS'17177'
+p2252
+(g272
+S'Stephenson County'
+p2253
+tp2254
+sS'17171'
+p2255
+(g272
+g562
+tp2256
+sS'40065'
+p2257
+(g44
+g176
+tp2258
+sS'17173'
+p2259
+(g272
+g431
+tp2260
+sS'01077'
+p2261
+(g36
+S'Lauderdale County'
+p2262
+tp2263
+sS'01075'
+p2264
+(g36
+S'Lamar County'
+p2265
+tp2266
+sS'17179'
+p2267
+(g272
+S'Tazewell County'
+p2268
+tp2269
+sS'01071'
+p2270
+(g36
+g176
+tp2271
+sS'51141'
+p2272
+(g156
+S'Patrick County'
+p2273
+tp2274
+sS'48339'
+p2275
+(g22
+g602
+tp2276
+sS'48337'
+p2277
+(g22
+S'Montague County'
+p2278
+tp2279
+sS'48335'
+p2280
+(g22
+g580
+tp2281
+sS'48333'
+p2282
+(g22
+S'Mills County'
+p2283
+tp2284
+sS'48331'
+p2285
+(g22
+S'Milam County'
+p2286
+tp2287
+sS'48117'
+p2288
+(g22
+S'Deaf Smith County'
+p2289
+tp2290
+sS'48115'
+p2291
+(g22
+S'Dawson County'
+p2292
+tp2293
+sS'48113'
+p2294
+(g22
+g944
+tp2295
+sS'48111'
+p2296
+(g22
+S'Dallam County'
+p2297
+tp2298
+sS'40153'
+p2299
+(g44
+S'Woodward County'
+p2300
+tp2301
+sS'40151'
+p2302
+(g44
+S'Woods County'
+p2303
+tp2304
+sS'48119'
+p2305
+(g22
+g1589
+tp2306
+sS'36001'
+p2307
+(g390
+S'Albany County'
+p2308
+tp2309
+sS'48417'
+p2310
+(g22
+S'Shackelford County'
+p2311
+tp2312
+sS'48415'
+p2313
+(g22
+S'Scurry County'
+p2314
+tp2315
+sS'13089'
+p2316
+(g118
+g1348
+tp2317
+sS'13085'
+p2318
+(g118
+g2292
+tp2319
+sS'13087'
+p2320
+(g118
+g673
+tp2321
+sS'13081'
+p2322
+(g118
+S'Crisp County'
+p2323
+tp2324
+sS'13083'
+p2325
+(g118
+S'Dade County'
+p2326
+tp2327
+sS'26147'
+p2328
+(g200
+g452
+tp2329
+sS'13243'
+p2330
+(g118
+g446
+tp2331
+sS'13241'
+p2332
+(g118
+S'Rabun County'
+p2333
+tp2334
+sS'13247'
+p2335
+(g118
+S'Rockdale County'
+p2336
+tp2337
+sS'13245'
+p2338
+(g118
+S'Richmond County'
+p2339
+tp2340
+sS'36101'
+p2341
+(g390
+g1250
+tp2342
+sS'13249'
+p2343
+(g118
+S'Schley County'
+p2344
+tp2345
+sS'48411'
+p2346
+(g22
+S'San Saba County'
+p2347
+tp2348
+sS'36105'
+p2349
+(g390
+g1247
+tp2350
+sS'36107'
+p2351
+(g390
+S'Tioga County'
+p2352
+tp2353
+sS'34031'
+p2354
+(g631
+S'Passaic County'
+p2355
+tp2356
+sS'48063'
+p2357
+(g22
+S'Camp County'
+p2358
+tp2359
+sS'48061'
+p2360
+(g22
+g840
+tp2361
+sS'48067'
+p2362
+(g22
+g323
+tp2363
+sS'48065'
+p2364
+(g22
+S'Carson County'
+p2365
+tp2366
+sS'48069'
+p2367
+(g22
+S'Castro County'
+p2368
+tp2369
+sS'20043'
+p2370
+(g351
+S'Doniphan County'
+p2371
+tp2372
+sS'20041'
+p2373
+(g351
+g1594
+tp2374
+sS'20047'
+p2375
+(g351
+g1079
+tp2376
+sS'20045'
+p2377
+(g351
+g822
+tp2378
+sS'02275'
+p2379
+(g48
+S'Wrangell City and Borough'
+p2380
+tp2381
+sS'37187'
+p2382
+(g371
+g37
+tp2383
+sS'20049'
+p2384
+(g351
+S'Elk County'
+p2385
+tp2386
+sS'37185'
+p2387
+(g371
+g632
+tp2388
+sS'37183'
+p2389
+(g371
+S'Wake County'
+p2390
+tp2391
+sS'37181'
+p2392
+(g371
+S'Vance County'
+p2393
+tp2394
+sS'01095'
+p2395
+(g36
+g1751
+tp2396
+sS'01097'
+p2397
+(g36
+S'Mobile County'
+p2398
+tp2399
+sS'01091'
+p2400
+(g36
+S'Marengo County'
+p2401
+tp2402
+sS'34039'
+p2403
+(g631
+g286
+tp2404
+sS'01093'
+p2405
+(g36
+g80
+tp2406
+sS'01099'
+p2407
+(g36
+S'Monroe County'
+p2408
+tp2409
+sS'18171'
+p2410
+(g549
+g632
+tp2411
+sS'18173'
+p2412
+(g549
+S'Warrick County'
+p2413
+tp2414
+sS'18175'
+p2415
+(g549
+g37
+tp2416
+sS'18177'
+p2417
+(g549
+g1354
+tp2418
+sS'18179'
+p2419
+(g549
+S'Wells County'
+p2420
+tp2421
+sS'54035'
+p2422
+(g307
+g176
+tp2423
+sS'54037'
+p2424
+(g307
+g524
+tp2425
+sS'54031'
+p2426
+(g307
+S'Hardy County'
+p2427
+tp2428
+sS'54033'
+p2429
+(g307
+g2238
+tp2430
+sS'54039'
+p2431
+(g307
+S'Kanawha County'
+p2432
+tp2433
+sS'29131'
+p2434
+(g583
+S'Miller County'
+p2435
+tp2436
+sS'29133'
+p2437
+(g583
+g590
+tp2438
+sS'29135'
+p2439
+(g583
+S'Moniteau County'
+p2440
+tp2441
+sS'29137'
+p2442
+(g583
+g2408
+tp2443
+sS'29139'
+p2444
+(g583
+g602
+tp2445
+sS'18085'
+p2446
+(g549
+S'Kosciusko County'
+p2447
+tp2448
+sS'18087'
+p2449
+(g549
+S'LaGrange County'
+p2450
+tp2451
+sS'18081'
+p2452
+(g549
+g596
+tp2453
+sS'18083'
+p2454
+(g549
+g599
+tp2455
+sS'18089'
+p2456
+(g549
+g747
+tp2457
+sS'48097'
+p2458
+(g22
+S'Cooke County'
+p2459
+tp2460
+sS'31009'
+p2461
+(g533
+g1427
+tp2462
+sS'40119'
+p2463
+(g44
+S'Payne County'
+p2464
+tp2465
+sS'35059'
+p2466
+(g1896
+g286
+tp2467
+sS'31005'
+p2468
+(g533
+S'Arthur County'
+p2469
+tp2470
+sS'06083'
+p2471
+(g26
+S'Santa Barbara County'
+p2472
+tp2473
+sS'31007'
+p2474
+(g533
+S'Banner County'
+p2475
+tp2476
+sS'35055'
+p2477
+(g1896
+S'Taos County'
+p2478
+tp2479
+sS'31001'
+p2480
+(g533
+g2078
+tp2481
+sS'35053'
+p2482
+(g1896
+S'Socorro County'
+p2483
+tp2484
+sS'31003'
+p2485
+(g533
+S'Antelope County'
+p2486
+tp2487
+sS'35051'
+p2488
+(g1896
+S'Sierra County'
+p2489
+tp2490
+sS'06081'
+p2491
+(g26
+S'San Mateo County'
+p2492
+tp2493
+sS'45069'
+p2494
+(g460
+S'Marlboro County'
+p2495
+tp2496
+sS'40115'
+p2497
+(g44
+S'Ottawa County'
+p2498
+tp2499
+sS'55129'
+p2500
+(g249
+S'Washburn County'
+p2501
+tp2502
+sS'11001'
+p2503
+(S'DC'
+p2504
+S'District of Columbia'
+p2505
+tp2506
+sS'48099'
+p2507
+(g22
+S'Coryell County'
+p2508
+tp2509
+sS'55121'
+p2510
+(g249
+S'Trempealeau County'
+p2511
+tp2512
+sS'55123'
+p2513
+(g249
+S'Vernon County'
+p2514
+tp2515
+sS'55125'
+p2516
+(g249
+S'Vilas County'
+p2517
+tp2518
+sS'55127'
+p2519
+(g249
+g741
+tp2520
+sS'28087'
+p2521
+(g1834
+g1624
+tp2522
+sS'28085'
+p2523
+(g1834
+g188
+tp2524
+sS'28083'
+p2525
+(g1834
+S'Leflore County'
+p2526
+tp2527
+sS'28081'
+p2528
+(g1834
+g461
+tp2529
+sS'31179'
+p2530
+(g533
+g1354
+tp2531
+sS'28089'
+p2532
+(g1834
+g256
+tp2533
+sS'48083'
+p2534
+(g22
+S'Coleman County'
+p2535
+tp2536
+sS'51079'
+p2537
+(g156
+g237
+tp2538
+sS'47009'
+p2539
+(g194
+S'Blount County'
+p2540
+tp2541
+sS'47005'
+p2542
+(g194
+g326
+tp2543
+sS'47007'
+p2544
+(g194
+S'Bledsoe County'
+p2545
+tp2546
+sS'47001'
+p2547
+(g194
+S'Anderson County'
+p2548
+tp2549
+sS'47003'
+p2550
+(g194
+g2150
+tp2551
+sS'19111'
+p2552
+(g57
+g461
+tp2553
+sS'39141'
+p2554
+(g61
+S'Ross County'
+p2555
+tp2556
+sS'19113'
+p2557
+(g57
+g1278
+tp2558
+sS'39143'
+p2559
+(g61
+S'Sandusky County'
+p2560
+tp2561
+sS'19115'
+p2562
+(g57
+g885
+tp2563
+sS'39145'
+p2564
+(g61
+S'Scioto County'
+p2565
+tp2566
+sS'19117'
+p2567
+(g57
+S'Lucas County'
+p2568
+tp2569
+sS'27009'
+p2570
+(g149
+g326
+tp2571
+sS'19119'
+p2572
+(g57
+g197
+tp2573
+sS'27007'
+p2574
+(g149
+S'Beltrami County'
+p2575
+tp2576
+sS'27005'
+p2577
+(g149
+S'Becker County'
+p2578
+tp2579
+sS'27003'
+p2580
+(g149
+S'Anoka County'
+p2581
+tp2582
+sS'27001'
+p2583
+(g149
+S'Aitkin County'
+p2584
+tp2585
+sS'30097'
+p2586
+(g722
+S'Sweet Grass County'
+p2587
+tp2588
+sS'51077'
+p2589
+(g156
+S'Grayson County'
+p2590
+tp2591
+sS'49037'
+p2592
+(g947
+g1900
+tp2593
+sS'51057'
+p2594
+(g156
+S'Essex County'
+p2595
+tp2596
+sS'39153'
+p2597
+(g61
+g995
+tp2598
+sS'49035'
+p2599
+(g947
+S'Salt Lake County'
+p2600
+tp2601
+sS'51051'
+p2602
+(g156
+S'Dickenson County'
+p2603
+tp2604
+sS'49033'
+p2605
+(g947
+S'Rich County'
+p2606
+tp2607
+sS'02070'
+p2608
+(g48
+S'Dillingham Census Area'
+p2609
+tp2610
+sS'51053'
+p2611
+(g156
+S'Dinwiddie County'
+p2612
+tp2613
+sS'27139'
+p2614
+(g149
+g562
+tp2615
+sS'19029'
+p2616
+(g57
+g323
+tp2617
+sS'39039'
+p2618
+(g61
+S'Defiance County'
+p2619
+tp2620
+sS'16039'
+p2621
+(g2
+g998
+tp2622
+sS'19025'
+p2623
+(g57
+g240
+tp2624
+sS'27133'
+p2625
+(g149
+g1308
+tp2626
+sS'16035'
+p2627
+(g2
+S'Clearwater County'
+p2628
+tp2629
+sS'27131'
+p2630
+(g149
+S'Rice County'
+p2631
+tp2632
+sS'19021'
+p2633
+(g57
+S'Buena Vista County'
+p2634
+tp2635
+sS'27137'
+p2636
+(g149
+S'St. Louis County'
+p2637
+tp2638
+sS'19023'
+p2639
+(g57
+g1424
+tp2640
+sS'27135'
+p2641
+(g149
+S'Roseau County'
+p2642
+tp2643
+sS'37139'
+p2644
+(g371
+S'Pasquotank County'
+p2645
+tp2646
+sS'51800'
+p2647
+(g156
+S'Suffolk city'
+p2648
+tp2649
+sS'51059'
+p2650
+(g156
+S'Fairfax County'
+p2651
+tp2652
+sS'12051'
+p2653
+(g215
+S'Hendry County'
+p2654
+tp2655
+sS'12053'
+p2656
+(g215
+S'Hernando County'
+p2657
+tp2658
+sS'12055'
+p2659
+(g215
+S'Highlands County'
+p2660
+tp2661
+sS'39159'
+p2662
+(g61
+g286
+tp2663
+sS'12057'
+p2664
+(g215
+S'Hillsborough County'
+p2665
+tp2666
+sS'12059'
+p2667
+(g215
+S'Holmes County'
+p2668
+tp2669
+sS'42019'
+p2670
+(g211
+g1424
+tp2671
+sS'46049'
+p2672
+(g40
+S'Faulk County'
+p2673
+tp2674
+sS'46047'
+p2675
+(g40
+S'Fall River County'
+p2676
+tp2677
+sS'42011'
+p2678
+(g211
+S'Berks County'
+p2679
+tp2680
+sS'46045'
+p2681
+(g40
+S'Edmunds County'
+p2682
+tp2683
+sS'42013'
+p2684
+(g211
+S'Blair County'
+p2685
+tp2686
+sS'46043'
+p2687
+(g40
+g822
+tp2688
+sS'42015'
+p2689
+(g211
+S'Bradford County'
+p2690
+tp2691
+sS'46041'
+p2692
+(g40
+S'Dewey County'
+p2693
+tp2694
+sS'42017'
+p2695
+(g211
+S'Bucks County'
+p2696
+tp2697
+sS'51159'
+p2698
+(g156
+g2339
+tp2699
+sS'48347'
+p2700
+(g22
+S'Nacogdoches County'
+p2701
+tp2702
+sS'51153'
+p2703
+(g156
+S'Prince William County'
+p2704
+tp2705
+sS'51155'
+p2706
+(g156
+g1675
+tp2707
+sS'51157'
+p2708
+(g156
+S'Rappahannock County'
+p2709
+tp2710
+sS'48345'
+p2711
+(g22
+S'Motley County'
+p2712
+tp2713
+sS'60040'
+p2714
+(S'AS'
+p2715
+S'Swains Island'
+p2716
+tp2717
+sS'48343'
+p2718
+(g22
+S'Morris County'
+p2719
+tp2720
+sS'21097'
+p2721
+(g163
+g2238
+tp2722
+sS'21095'
+p2723
+(g163
+S'Harlan County'
+p2724
+tp2725
+sS'21093'
+p2726
+(g163
+S'Hardin County'
+p2727
+tp2728
+sS'21091'
+p2729
+(g163
+S'Hancock County'
+p2730
+tp2731
+sS'48341'
+p2732
+(g22
+g556
+tp2733
+sS'55001'
+p2734
+(g249
+g2078
+tp2735
+sS'21099'
+p2736
+(g163
+S'Hart County'
+p2737
+tp2738
+sS'26067'
+p2739
+(g200
+S'Ionia County'
+p2740
+tp2741
+sS'05099'
+p2742
+(g285
+S'Nevada County'
+p2743
+tp2744
+sS'26065'
+p2745
+(g200
+S'Ingham County'
+p2746
+tp2747
+sS'26063'
+p2748
+(g200
+S'Huron County'
+p2749
+tp2750
+sS'26061'
+p2751
+(g200
+S'Houghton County'
+p2752
+tp2753
+sS'02261'
+p2754
+(g48
+S'Valdez-Cordova Census Area'
+p2755
+tp2756
+sS'26069'
+p2757
+(g200
+S'Iosco County'
+p2758
+tp2759
+sS'17189'
+p2760
+(g272
+g37
+tp2761
+sS'17181'
+p2762
+(g272
+g286
+tp2763
+sS'17183'
+p2764
+(g272
+S'Vermilion County'
+p2765
+tp2766
+sS'17185'
+p2767
+(g272
+g1847
+tp2768
+sS'17187'
+p2769
+(g272
+g632
+tp2770
+sS'01069'
+p2771
+(g36
+S'Houston County'
+p2772
+tp2773
+sS'17165'
+p2774
+(g272
+S'Saline County'
+p2775
+tp2776
+sS'17163'
+p2777
+(g272
+g452
+tp2778
+sS'17161'
+p2779
+(g272
+S'Rock Island County'
+p2780
+tp2781
+sS'01061'
+p2782
+(g36
+S'Geneva County'
+p2783
+tp2784
+sS'01063'
+p2785
+(g36
+g237
+tp2786
+sS'01065'
+p2787
+(g36
+S'Hale County'
+p2788
+tp2789
+sS'01067'
+p2790
+(g36
+g167
+tp2791
+sS'74300'
+p2792
+(S'UM'
+p2793
+S'Midway Islands'
+p2794
+tp2795
+sS'49023'
+p2796
+(g947
+S'Juab County'
+p2797
+tp2798
+sS'48329'
+p2799
+(g22
+S'Midland County'
+p2800
+tp2801
+sS'54087'
+p2802
+(g307
+S'Roane County'
+p2803
+tp2804
+sS'48321'
+p2805
+(g22
+S'Matagorda County'
+p2806
+tp2807
+sS'48323'
+p2808
+(g22
+S'Maverick County'
+p2809
+tp2810
+sS'48325'
+p2811
+(g22
+g86
+tp2812
+sS'48327'
+p2813
+(g22
+S'Menard County'
+p2814
+tp2815
+sS'48101'
+p2816
+(g22
+S'Cottle County'
+p2817
+tp2818
+sS'48103'
+p2819
+(g22
+S'Crane County'
+p2820
+tp2821
+sS'48105'
+p2822
+(g22
+g661
+tp2823
+sS'48107'
+p2824
+(g22
+S'Crosby County'
+p2825
+tp2826
+sS'48109'
+p2827
+(g22
+S'Culberson County'
+p2828
+tp2829
+sS'48459'
+p2830
+(g22
+S'Upshur County'
+p2831
+tp2832
+sS'13099'
+p2833
+(g118
+S'Early County'
+p2834
+tp2835
+sS'13097'
+p2836
+(g118
+g822
+tp2837
+sS'13095'
+p2838
+(g118
+S'Dougherty County'
+p2839
+tp2840
+sS'13093'
+p2841
+(g118
+S'Dooly County'
+p2842
+tp2843
+sS'13091'
+p2844
+(g118
+S'Dodge County'
+p2845
+tp2846
+sS'48215'
+p2847
+(g22
+S'Hidalgo County'
+p2848
+tp2849
+sS'36119'
+p2850
+(g390
+S'Westchester County'
+p2851
+tp2852
+sS'13259'
+p2853
+(g118
+S'Stewart County'
+p2854
+tp2855
+sS'48213'
+p2856
+(g22
+g164
+tp2857
+sS'13255'
+p2858
+(g118
+S'Spalding County'
+p2859
+tp2860
+sS'13257'
+p2861
+(g118
+g1067
+tp2862
+sS'13251'
+p2863
+(g118
+S'Screven County'
+p2864
+tp2865
+sS'13253'
+p2866
+(g118
+g2199
+tp2867
+sS'37097'
+p2868
+(g371
+S'Iredell County'
+p2869
+tp2870
+sS'48079'
+p2871
+(g22
+S'Cochran County'
+p2872
+tp2873
+sS'48075'
+p2874
+(g22
+S'Childress County'
+p2875
+tp2876
+sS'48077'
+p2877
+(g22
+g216
+tp2878
+sS'48071'
+p2879
+(g22
+S'Chambers County'
+p2880
+tp2881
+sS'48073'
+p2882
+(g22
+g477
+tp2883
+sS'24025'
+p2884
+(S'MD'
+p2885
+S'Harford County'
+p2886
+tp2887
+sS'53001'
+p2888
+(g265
+g2078
+tp2889
+sS'24027'
+p2890
+(g2885
+S'Howard County'
+p2891
+tp2892
+sS'24021'
+p2893
+(g2885
+S'Frederick County'
+p2894
+tp2895
+sS'20059'
+p2896
+(g351
+g1009
+tp2897
+sS'24023'
+p2898
+(g2885
+S'Garrett County'
+p2899
+tp2900
+sS'20055'
+p2901
+(g351
+S'Finney County'
+p2902
+tp2903
+sS'20057'
+p2904
+(g351
+S'Ford County'
+p2905
+tp2906
+sS'24029'
+p2907
+(g2885
+S'Kent County'
+p2908
+tp2909
+sS'20051'
+p2910
+(g351
+g1064
+tp2911
+sS'20053'
+p2912
+(g351
+S'Ellsworth County'
+p2913
+tp2914
+sS'01087'
+p2915
+(g36
+g1029
+tp2916
+sS'01085'
+p2917
+(g36
+g1624
+tp2918
+sS'01083'
+p2919
+(g36
+S'Limestone County'
+p2920
+tp2921
+sS'01081'
+p2922
+(g36
+g461
+tp2923
+sS'53005'
+p2924
+(g265
+g326
+tp2925
+sS'40149'
+p2926
+(g44
+S'Washita County'
+p2927
+tp2928
+sS'01089'
+p2929
+(g36
+g256
+tp2930
+sS'72079'
+p2931
+(g89
+S'Lajas Municipio'
+p2932
+tp2933
+sS'05149'
+p2934
+(g285
+S'Yell County'
+p2935
+tp2936
+sS'72075'
+p2937
+(g89
+S'Juana Diaz Municipio'
+p2938
+tp2939
+sS'72077'
+p2940
+(g89
+S'Juncos Municipio'
+p2941
+tp2942
+sS'18181'
+p2943
+(g549
+g2224
+tp2944
+sS'18183'
+p2945
+(g549
+S'Whitley County'
+p2946
+tp2947
+sS'05147'
+p2948
+(g285
+S'Woodruff County'
+p2949
+tp2950
+sS'54025'
+p2951
+(g307
+S'Greenbrier County'
+p2952
+tp2953
+sS'54023'
+p2954
+(g307
+g1165
+tp2955
+sS'54021'
+p2956
+(g307
+S'Gilmer County'
+p2957
+tp2958
+sS'55037'
+p2959
+(g249
+S'Florence County'
+p2960
+tp2961
+sS'54029'
+p2962
+(g307
+g2730
+tp2963
+sS'53003'
+p2964
+(g265
+S'Asotin County'
+p2965
+tp2966
+sS'30015'
+p2967
+(g722
+S'Chouteau County'
+p2968
+tp2969
+sS'30017'
+p2970
+(g722
+S'Custer County'
+p2971
+tp2972
+sS'30011'
+p2973
+(g722
+g1973
+tp2974
+sS'30013'
+p2975
+(g722
+S'Cascade County'
+p2976
+tp2977
+sS'31019'
+p2978
+(g533
+g1097
+tp2979
+sS'31017'
+p2980
+(g533
+g635
+tp2981
+sS'35061'
+p2982
+(g1896
+S'Valencia County'
+p2983
+tp2984
+sS'31015'
+p2985
+(g533
+S'Boyd County'
+p2986
+tp2987
+sS'30019'
+p2988
+(g722
+S'Daniels County'
+p2989
+tp2990
+sS'31013'
+p2991
+(g533
+S'Box Butte County'
+p2992
+tp2993
+sS'31011'
+p2994
+(g533
+g340
+tp2995
+sS'15007'
+p2996
+(S'HI'
+p2997
+S'Kauai County'
+p2998
+tp2999
+sS'15005'
+p3000
+(g2997
+S'Kalawao County'
+p3001
+tp3002
+sS'48507'
+p3003
+(g22
+S'Zavala County'
+p3004
+tp3005
+sS'15003'
+p3006
+(g2997
+S'Honolulu County'
+p3007
+tp3008
+sS'30065'
+p3009
+(g722
+S'Musselshell County'
+p3010
+tp3011
+sS'15001'
+p3012
+(g2997
+S'Hawaii County'
+p3013
+tp3014
+sS'15009'
+p3015
+(g2997
+S'Maui County'
+p3016
+tp3017
+sS'51069'
+p3018
+(g156
+g2894
+tp3019
+sS'39023'
+p3020
+(g61
+g831
+tp3021
+sS'23011'
+p3022
+(S'ME'
+p3023
+S'Kennebec County'
+p3024
+tp3025
+sS'28091'
+p3026
+(g1834
+g80
+tp3027
+sS'23013'
+p3028
+(g3023
+g599
+tp3029
+sS'28093'
+p3030
+(g1834
+g1751
+tp3031
+sS'23015'
+p3032
+(g3023
+g188
+tp3033
+sS'28095'
+p3034
+(g1834
+g2408
+tp3035
+sS'23017'
+p3036
+(g3023
+S'Oxford County'
+p3037
+tp3038
+sS'28097'
+p3039
+(g1834
+g602
+tp3040
+sS'23019'
+p3041
+(g3023
+S'Penobscot County'
+p3042
+tp3043
+sS'28099'
+p3044
+(g1834
+S'Neshoba County'
+p3045
+tp3046
+sS'31169'
+p3047
+(g533
+S'Thayer County'
+p3048
+tp3049
+sS'54053'
+p3050
+(g307
+g1061
+tp3051
+sS'02020'
+p3052
+(g48
+S'Anchorage Municipality'
+p3053
+tp3054
+sS'47079'
+p3055
+(g194
+g167
+tp3056
+sS'49025'
+p3057
+(g947
+S'Kane County'
+p3058
+tp3059
+sS'47071'
+p3060
+(g194
+g2727
+tp3061
+sS'47073'
+p3062
+(g194
+S'Hawkins County'
+p3063
+tp3064
+sS'47075'
+p3065
+(g194
+S'Haywood County'
+p3066
+tp3067
+sS'39029'
+p3068
+(g61
+S'Columbiana County'
+p3069
+tp3070
+sS'47077'
+p3071
+(g194
+g164
+tp3072
+sS'55061'
+p3073
+(g249
+S'Kewaunee County'
+p3074
+tp3075
+sS'19103'
+p3076
+(g57
+g596
+tp3077
+sS'27039'
+p3078
+(g149
+g2845
+tp3079
+sS'19101'
+p3080
+(g57
+g524
+tp3081
+sS'51036'
+p3082
+(g156
+S'Charles City County'
+p3083
+tp3084
+sS'19107'
+p3085
+(g57
+S'Keokuk County'
+p3086
+tp3087
+sS'55067'
+p3088
+(g249
+S'Langlade County'
+p3089
+tp3090
+sS'19105'
+p3091
+(g57
+g1957
+tp3092
+sS'27033'
+p3093
+(g149
+S'Cottonwood County'
+p3094
+tp3095
+sS'51735'
+p3096
+(g156
+S'Poquoson city'
+p3097
+tp3098
+sS'27031'
+p3099
+(g149
+g273
+tp3100
+sS'19109'
+p3101
+(g57
+S'Kossuth County'
+p3102
+tp3103
+sS'27037'
+p3104
+(g149
+S'Dakota County'
+p3105
+tp3106
+sS'27035'
+p3107
+(g149
+S'Crow Wing County'
+p3108
+tp3109
+sS'55031'
+p3110
+(g249
+g822
+tp3111
+sS'47105'
+p3112
+(g194
+S'Loudon County'
+p3113
+tp3114
+sS'47107'
+p3115
+(g194
+S'McMinn County'
+p3116
+tp3117
+sS'47101'
+p3118
+(g194
+g773
+tp3119
+sS'47103'
+p3120
+(g194
+g188
+tp3121
+sS'47109'
+p3122
+(g194
+S'McNairy County'
+p3123
+tp3124
+sS'27107'
+p3125
+(g149
+S'Norman County'
+p3126
+tp3127
+sS'27105'
+p3128
+(g149
+S'Nobles County'
+p3129
+tp3130
+sS'27103'
+p3131
+(g149
+S'Nicollet County'
+p3132
+tp3133
+sS'27101'
+p3134
+(g149
+g1768
+tp3135
+sS'29067'
+p3136
+(g583
+g822
+tp3137
+sS'27109'
+p3138
+(g149
+S'Olmsted County'
+p3139
+tp3140
+sS'39049'
+p3141
+(g61
+g1009
+tp3142
+sS'16029'
+p3143
+(g2
+S'Caribou County'
+p3144
+tp3145
+sS'72047'
+p3146
+(g89
+S'Corozal Municipio'
+p3147
+tp3148
+sS'19039'
+p3149
+(g57
+g355
+tp3150
+sS'39041'
+p3151
+(g61
+g409
+tp3152
+sS'19037'
+p3153
+(g57
+S'Chickasaw County'
+p3154
+tp3155
+sS'39043'
+p3156
+(g61
+g391
+tp3157
+sS'19035'
+p3158
+(g57
+g477
+tp3159
+sS'39045'
+p3160
+(g61
+S'Fairfield County'
+p3161
+tp3162
+sS'19033'
+p3163
+(g57
+S'Cerro Gordo County'
+p3164
+tp3165
+sS'39047'
+p3166
+(g61
+g219
+tp3167
+sS'19031'
+p3168
+(g57
+S'Cedar County'
+p3169
+tp3170
+sS'51810'
+p3171
+(g156
+S'Virginia Beach city'
+p3172
+tp3173
+sS'33015'
+p3174
+(g6
+S'Rockingham County'
+p3175
+tp3176
+sS'48373'
+p3177
+(g22
+g83
+tp3178
+sS'72043'
+p3179
+(g89
+S'Coamo Municipio'
+p3180
+tp3181
+sS'12043'
+p3182
+(g215
+S'Glades County'
+p3183
+tp3184
+sS'12041'
+p3185
+(g215
+S'Gilchrist County'
+p3186
+tp3187
+sS'12047'
+p3188
+(g215
+g1790
+tp3189
+sS'48395'
+p3190
+(g22
+S'Robertson County'
+p3191
+tp3192
+sS'12045'
+p3193
+(g215
+S'Gulf County'
+p3194
+tp3195
+sS'12049'
+p3196
+(g215
+S'Hardee County'
+p3197
+tp3198
+sS'72125'
+p3199
+(g89
+S'San German Municipio'
+p3200
+tp3201
+sS'33011'
+p3202
+(g6
+g2665
+tp3203
+sS'46059'
+p3204
+(g40
+S'Hand County'
+p3205
+tp3206
+sS'46051'
+p3207
+(g40
+g1165
+tp3208
+sS'01009'
+p3209
+(g36
+g2540
+tp3210
+sS'46055'
+p3211
+(g40
+S'Haakon County'
+p3212
+tp3213
+sS'46057'
+p3214
+(g40
+S'Hamlin County'
+p3215
+tp3216
+sS'37029'
+p3217
+(g371
+S'Camden County'
+p3218
+tp3219
+sS'51149'
+p3220
+(g156
+S'Prince George County'
+p3221
+tp3222
+sS'72121'
+p3223
+(g89
+S'Sabana Grande Municipio'
+p3224
+tp3225
+sS'13149'
+p3226
+(g118
+S'Heard County'
+p3227
+tp3228
+sS'51143'
+p3229
+(g156
+S'Pittsylvania County'
+p3230
+tp3231
+sS'29069'
+p3232
+(g583
+S'Dunklin County'
+p3233
+tp3234
+sS'51147'
+p3235
+(g156
+S'Prince Edward County'
+p3236
+tp3237
+sS'56021'
+p3238
+(g815
+S'Laramie County'
+p3239
+tp3240
+sS'51145'
+p3241
+(g156
+S'Powhatan County'
+p3242
+tp3243
+sS'60050'
+p3244
+(g2715
+S'Western District'
+p3245
+tp3246
+sS'33019'
+p3247
+(g6
+g1247
+tp3248
+sS'21081'
+p3249
+(g163
+g1165
+tp3250
+sS'48397'
+p3251
+(g22
+S'Rockwall County'
+p3252
+tp3253
+sS'21083'
+p3254
+(g163
+S'Graves County'
+p3255
+tp3256
+sS'02270'
+p3257
+(g48
+S'Wade Hampton Census Area'
+p3258
+tp3259
+sS'21085'
+p3260
+(g163
+g2590
+tp3261
+sS'21087'
+p3262
+(g163
+S'Green County'
+p3263
+tp3264
+sS'21089'
+p3265
+(g163
+S'Greenup County'
+p3266
+tp3267
+sS'51830'
+p3268
+(g156
+S'Williamsburg city'
+p3269
+tp3270
+sS'26071'
+p3271
+(g200
+S'Iron County'
+p3272
+tp3273
+sS'26073'
+p3274
+(g200
+S'Isabella County'
+p3275
+tp3276
+sS'26075'
+p3277
+(g200
+g176
+tp3278
+sS'26077'
+p3279
+(g200
+S'Kalamazoo County'
+p3280
+tp3281
+sS'26079'
+p3282
+(g200
+S'Kalkaska County'
+p3283
+tp3284
+sS'47047'
+p3285
+(g194
+g219
+tp3286
+sS'42103'
+p3287
+(g211
+g888
+tp3288
+sS'51063'
+p3289
+(g156
+S'Floyd County'
+p3290
+tp3291
+sS'17153'
+p3292
+(g272
+g1675
+tp3293
+sS'48269'
+p3294
+(g22
+S'King County'
+p3295
+tp3296
+sS'17151'
+p3297
+(g272
+g1661
+tp3298
+sS'46071'
+p3299
+(g40
+g176
+tp3300
+sS'17157'
+p3301
+(g272
+g446
+tp3302
+sS'17155'
+p3303
+(g272
+g1183
+tp3304
+sS'48181'
+p3305
+(g22
+g2590
+tp3306
+sS'05091'
+p3307
+(g285
+g2435
+tp3308
+sS'17159'
+p3309
+(g272
+g1297
+tp3310
+sS'05095'
+p3311
+(g285
+g2408
+tp3312
+sS'05097'
+p3313
+(g285
+g602
+tp3314
+sS'46077'
+p3315
+(g40
+S'Kingsbury County'
+p3316
+tp3317
+sS'36047'
+p3318
+(g390
+g750
+tp3319
+sS'13319'
+p3320
+(g118
+S'Wilkinson County'
+p3321
+tp3322
+sS'13315'
+p3323
+(g118
+S'Wilcox County'
+p3324
+tp3325
+sS'13317'
+p3326
+(g118
+g1810
+tp3327
+sS'13311'
+p3328
+(g118
+g2224
+tp3329
+sS'13313'
+p3330
+(g118
+S'Whitfield County'
+p3331
+tp3332
+sS'48185'
+p3333
+(g22
+S'Grimes County'
+p3334
+tp3335
+sS'17081'
+p3336
+(g272
+g524
+tp3337
+sS'42007'
+p3338
+(g211
+g1541
+tp3339
+sS'17083'
+p3340
+(g272
+S'Jersey County'
+p3341
+tp3342
+sS'17085'
+p3343
+(g272
+S'Jo Daviess County'
+p3344
+tp3345
+sS'17087'
+p3346
+(g272
+g596
+tp3347
+sS'17089'
+p3348
+(g272
+g3058
+tp3349
+sS'05145'
+p3350
+(g285
+g2224
+tp3351
+sS'42109'
+p3352
+(g211
+S'Snyder County'
+p3353
+tp3354
+sS'05143'
+p3355
+(g285
+g37
+tp3356
+sS'05141'
+p3357
+(g285
+g1082
+tp3358
+sS'49027'
+p3359
+(g947
+S'Millard County'
+p3360
+tp3361
+sS'48469'
+p3362
+(g22
+S'Victoria County'
+p3363
+tp3364
+sS'48467'
+p3365
+(g22
+S'Van Zandt County'
+p3366
+tp3367
+sS'48465'
+p3368
+(g22
+S'Val Verde County'
+p3369
+tp3370
+sS'45063'
+p3371
+(g460
+S'Lexington County'
+p3372
+tp3373
+sS'48463'
+p3374
+(g22
+S'Uvalde County'
+p3375
+tp3376
+sS'48461'
+p3377
+(g22
+S'Upton County'
+p3378
+tp3379
+sS'20119'
+p3380
+(g351
+S'Meade County'
+p3381
+tp3382
+sS'20115'
+p3383
+(g351
+g80
+tp3384
+sS'20117'
+p3385
+(g351
+g1751
+tp3386
+sS'20111'
+p3387
+(g351
+g197
+tp3388
+sS'20113'
+p3389
+(g351
+g1221
+tp3390
+sS'36123'
+p3391
+(g390
+S'Yates County'
+p3392
+tp3393
+sS'36121'
+p3394
+(g390
+S'Wyoming County'
+p3395
+tp3396
+sS'13229'
+p3397
+(g118
+S'Pierce County'
+p3398
+tp3399
+sS'48263'
+p3400
+(g22
+g2908
+tp3401
+sS'48265'
+p3402
+(g22
+S'Kerr County'
+p3403
+tp3404
+sS'48267'
+p3405
+(g22
+S'Kimble County'
+p3406
+tp3407
+sS'13221'
+p3408
+(g118
+S'Oglethorpe County'
+p3409
+tp3410
+sS'13223'
+p3411
+(g118
+S'Paulding County'
+p3412
+tp3413
+sS'13225'
+p3414
+(g118
+S'Peach County'
+p3415
+tp3416
+sS'13227'
+p3417
+(g118
+S'Pickens County'
+p3418
+tp3419
+sS'55091'
+p3420
+(g249
+S'Pepin County'
+p3421
+tp3422
+sS'40049'
+p3423
+(g44
+S'Garvin County'
+p3424
+tp3425
+sS'55059'
+p3426
+(g249
+S'Kenosha County'
+p3427
+tp3428
+sS'40045'
+p3429
+(g44
+g1064
+tp3430
+sS'40047'
+p3431
+(g44
+S'Garfield County'
+p3432
+tp3433
+sS'40041'
+p3434
+(g44
+g409
+tp3435
+sS'40043'
+p3436
+(g44
+g2693
+tp3437
+sS'48009'
+p3438
+(g22
+S'Archer County'
+p3439
+tp3440
+sS'48001'
+p3441
+(g22
+g2548
+tp3442
+sS'48003'
+p3443
+(g22
+S'Andrews County'
+p3444
+tp3445
+sS'48005'
+p3446
+(g22
+S'Angelina County'
+p3447
+tp3448
+sS'48007'
+p3449
+(g22
+S'Aransas County'
+p3450
+tp3451
+sS'20029'
+p3452
+(g351
+S'Cloud County'
+p3453
+tp3454
+sS'24037'
+p3455
+(g2885
+S"St. Mary's County"
+p3456
+tp3457
+sS'24035'
+p3458
+(g2885
+S"Queen Anne's County"
+p3459
+tp3460
+sS'24033'
+p3461
+(g2885
+S"Prince George's County"
+p3462
+tp3463
+sS'24031'
+p3464
+(g2885
+g602
+tp3465
+sS'20021'
+p3466
+(g351
+g477
+tp3467
+sS'20023'
+p3468
+(g351
+S'Cheyenne County'
+p3469
+tp3470
+sS'20025'
+p3471
+(g351
+g831
+tp3472
+sS'20027'
+p3473
+(g351
+g216
+tp3474
+sS'24039'
+p3475
+(g2885
+S'Somerset County'
+p3476
+tp3477
+sS'13135'
+p3478
+(g118
+S'Gwinnett County'
+p3479
+tp3480
+sS'13137'
+p3481
+(g118
+S'Habersham County'
+p3482
+tp3483
+sS'13131'
+p3484
+(g118
+S'Grady County'
+p3485
+tp3486
+sS'13133'
+p3487
+(g118
+g237
+tp3488
+sS'55051'
+p3489
+(g249
+g3272
+tp3490
+sS'40139'
+p3491
+(g44
+S'Texas County'
+p3492
+tp3493
+sS'13139'
+p3494
+(g118
+S'Hall County'
+p3495
+tp3496
+sS'72141'
+p3497
+(g89
+S'Utuado Municipio'
+p3498
+tp3499
+sS'55053'
+p3500
+(g249
+g176
+tp3501
+sS'72069'
+p3502
+(g89
+S'Humacao Municipio'
+p3503
+tp3504
+sS'72067'
+p3505
+(g89
+S'Hormigueros Municipio'
+p3506
+tp3507
+sS'72065'
+p3508
+(g89
+S'Hatillo Municipio'
+p3509
+tp3510
+sS'56017'
+p3511
+(g815
+S'Hot Springs County'
+p3512
+tp3513
+sS'72061'
+p3514
+(g89
+S'Guaynabo Municipio'
+p3515
+tp3516
+sS'54013'
+p3517
+(g307
+g240
+tp3518
+sS'54011'
+p3519
+(g307
+S'Cabell County'
+p3520
+tp3521
+sS'54017'
+p3522
+(g307
+S'Doddridge County'
+p3523
+tp3524
+sS'54015'
+p3525
+(g307
+g216
+tp3526
+sS'54019'
+p3527
+(g307
+g219
+tp3528
+sS'48485'
+p3529
+(g22
+S'Wichita County'
+p3530
+tp3531
+sS'48487'
+p3532
+(g22
+S'Wilbarger County'
+p3533
+tp3534
+sS'38019'
+p3535
+(g1328
+S'Cavalier County'
+p3536
+tp3537
+sS'48483'
+p3538
+(g22
+g2243
+tp3539
+sS'38015'
+p3540
+(g1328
+S'Burleigh County'
+p3541
+tp3542
+sS'38017'
+p3543
+(g1328
+g323
+tp3544
+sS'05049'
+p3545
+(g285
+g212
+tp3546
+sS'38011'
+p3547
+(g1328
+S'Bowman County'
+p3548
+tp3549
+sS'38013'
+p3550
+(g1328
+S'Burke County'
+p3551
+tp3552
+sS'05047'
+p3553
+(g285
+g1009
+tp3554
+sS'48169'
+p3555
+(g22
+S'Garza County'
+p3556
+tp3557
+sS'30007'
+p3558
+(g722
+S'Broadwater County'
+p3559
+tp3560
+sS'31029'
+p3561
+(g533
+S'Chase County'
+p3562
+tp3563
+sS'30005'
+p3564
+(g722
+g1427
+tp3565
+sS'30003'
+p3566
+(g722
+S'Big Horn County'
+p3567
+tp3568
+sS'30001'
+p3569
+(g722
+S'Beaverhead County'
+p3570
+tp3571
+sS'31023'
+p3572
+(g533
+g1424
+tp3573
+sS'56019'
+p3574
+(g815
+g596
+tp3575
+sS'31021'
+p3576
+(g533
+S'Burt County'
+p3577
+tp3578
+sS'31027'
+p3579
+(g533
+g3169
+tp3580
+sS'31025'
+p3581
+(g533
+g323
+tp3582
+sS'30009'
+p3583
+(g722
+g846
+tp3584
+sS'55027'
+p3585
+(g249
+g2845
+tp3586
+sS'51540'
+p3587
+(g156
+S'Charlottesville city'
+p3588
+tp3589
+sS'23003'
+p3590
+(g3023
+S'Aroostook County'
+p3591
+tp3592
+sS'23001'
+p3593
+(g3023
+S'Androscoggin County'
+p3594
+tp3595
+sS'28069'
+p3596
+(g1834
+S'Kemper County'
+p3597
+tp3598
+sS'23007'
+p3599
+(g3023
+g1009
+tp3600
+sS'31159'
+p3601
+(g533
+S'Seward County'
+p3602
+tp3603
+sS'23005'
+p3604
+(g3023
+g282
+tp3605
+sS'28065'
+p3606
+(g1834
+S'Jefferson Davis County'
+p3607
+tp3608
+sS'28067'
+p3609
+(g1834
+g1957
+tp3610
+sS'23009'
+p3611
+(g3023
+g2730
+tp3612
+sS'28061'
+p3613
+(g1834
+S'Jasper County'
+p3614
+tp3615
+sS'28063'
+p3616
+(g1834
+g524
+tp3617
+sS'27025'
+p3618
+(g149
+S'Chisago County'
+p3619
+tp3620
+sS'27027'
+p3621
+(g149
+g216
+tp3622
+sS'27021'
+p3623
+(g149
+g323
+tp3624
+sS'27023'
+p3625
+(g149
+g970
+tp3626
+sS'47063'
+p3627
+(g194
+S'Hamblen County'
+p3628
+tp3629
+sS'47061'
+p3630
+(g194
+S'Grundy County'
+p3631
+tp3632
+sS'27029'
+p3633
+(g149
+g2628
+tp3634
+sS'47065'
+p3635
+(g194
+g1790
+tp3636
+sS'40131'
+p3637
+(g44
+S'Rogers County'
+p3638
+tp3639
+sS'55071'
+p3640
+(g249
+S'Manitowoc County'
+p3641
+tp3642
+sS'55077'
+p3643
+(g249
+S'Marquette County'
+p3644
+tp3645
+sS'19139'
+p3646
+(g57
+S'Muscatine County'
+p3647
+tp3648
+sS'55075'
+p3649
+(g249
+S'Marinette County'
+p3650
+tp3651
+sS'19137'
+p3652
+(g57
+g602
+tp3653
+sS'19135'
+p3654
+(g57
+g2408
+tp3655
+sS'55079'
+p3656
+(g249
+S'Milwaukee County'
+p3657
+tp3658
+sS'19133'
+p3659
+(g57
+S'Monona County'
+p3660
+tp3661
+sS'40133'
+p3662
+(g44
+g2199
+tp3663
+sS'19131'
+p3664
+(g57
+g580
+tp3665
+sS'40135'
+p3666
+(g44
+S'Sequoyah County'
+p3667
+tp3668
+sS'50021'
+p3669
+(S'VT'
+p3670
+S'Rutland County'
+p3671
+tp3672
+sS'50027'
+p3673
+(g3670
+S'Windsor County'
+p3674
+tp3675
+sS'50025'
+p3676
+(g3670
+S'Windham County'
+p3677
+tp3678
+sS'40137'
+p3679
+(g44
+g1067
+tp3680
+sS'02050'
+p3681
+(g48
+S'Bethel Census Area'
+p3682
+tp3683
+sS'47117'
+p3684
+(g194
+g1751
+tp3685
+sS'47115'
+p3686
+(g194
+g80
+tp3687
+sS'47113'
+p3688
+(g194
+g256
+tp3689
+sS'13035'
+p3690
+(g118
+S'Butts County'
+p3691
+tp3692
+sS'47119'
+p3693
+(g194
+S'Maury County'
+p3694
+tp3695
+sS'27111'
+p3696
+(g149
+S'Otter Tail County'
+p3697
+tp3698
+sS'13037'
+p3699
+(g118
+g240
+tp3700
+sS'27115'
+p3701
+(g149
+S'Pine County'
+p3702
+tp3703
+sS'27117'
+p3704
+(g149
+S'Pipestone County'
+p3705
+tp3706
+sS'27119'
+p3707
+(g149
+g83
+tp3708
+sS'40035'
+p3709
+(g44
+S'Craig County'
+p3710
+tp3711
+sS'28115'
+p3712
+(g1834
+S'Pontotoc County'
+p3713
+tp3714
+sS'19009'
+p3715
+(g57
+S'Audubon County'
+p3716
+tp3717
+sS'39059'
+p3718
+(g61
+S'Guernsey County'
+p3719
+tp3720
+sS'28111'
+p3721
+(g1834
+g900
+tp3722
+sS'28113'
+p3723
+(g1834
+g888
+tp3724
+sS'19003'
+p3725
+(g57
+g2078
+tp3726
+sS'39053'
+p3727
+(g61
+S'Gallia County'
+p3728
+tp3729
+sS'19001'
+p3730
+(g57
+g1486
+tp3731
+sS'39051'
+p3732
+(g61
+g212
+tp3733
+sS'19007'
+p3734
+(g57
+S'Appanoose County'
+p3735
+tp3736
+sS'39057'
+p3737
+(g61
+g237
+tp3738
+sS'19005'
+p3739
+(g57
+S'Allamakee County'
+p3740
+tp3741
+sS'39055'
+p3742
+(g61
+S'Geauga County'
+p3743
+tp3744
+sS'02130'
+p3745
+(g48
+S'Ketchikan Gateway Borough'
+p3746
+tp3747
+sS'12079'
+p3748
+(g215
+g256
+tp3749
+sS'12077'
+p3750
+(g215
+S'Liberty County'
+p3751
+tp3752
+sS'12075'
+p3753
+(g215
+S'Levy County'
+p3754
+tp3755
+sS'12073'
+p3756
+(g215
+S'Leon County'
+p3757
+tp3758
+sS'12071'
+p3759
+(g215
+g461
+tp3760
+sS'51177'
+p3761
+(g156
+S'Spotsylvania County'
+p3762
+tp3763
+sS'49011'
+p3764
+(g947
+S'Davis County'
+p3765
+tp3766
+sS'51175'
+p3767
+(g156
+S'Southampton County'
+p3768
+tp3769
+sS'51173'
+p3770
+(g156
+S'Smyth County'
+p3771
+tp3772
+sS'51171'
+p3773
+(g156
+S'Shenandoah County'
+p3774
+tp3775
+sS'49013'
+p3776
+(g947
+S'Duchesne County'
+p3777
+tp3778
+sS'51179'
+p3779
+(g156
+S'Stafford County'
+p3780
+tp3781
+sS'51775'
+p3782
+(g156
+S'Salem city'
+p3783
+tp3784
+sS'42093'
+p3785
+(g211
+S'Montour County'
+p3786
+tp3787
+sS'51770'
+p3788
+(g156
+S'Roanoke city'
+p3789
+tp3790
+sS'48449'
+p3791
+(g22
+S'Titus County'
+p3792
+tp3793
+sS'49015'
+p3794
+(g947
+S'Emery County'
+p3795
+tp3796
+sS'46083'
+p3797
+(g40
+g188
+tp3798
+sS'46081'
+p3799
+(g40
+g584
+tp3800
+sS'46087'
+p3801
+(g40
+S'McCook County'
+p3802
+tp3803
+sS'49017'
+p3804
+(g947
+g3432
+tp3805
+sS'46085'
+p3806
+(g40
+S'Lyman County'
+p3807
+tp3808
+sS'49055'
+p3809
+(g947
+g1354
+tp3810
+sS'46089'
+p3811
+(g40
+g1221
+tp3812
+sS'49051'
+p3813
+(g947
+S'Wasatch County'
+p3814
+tp3815
+sS'72003'
+p3816
+(g89
+S'Aguada Municipio'
+p3817
+tp3818
+sS'49053'
+p3819
+(g947
+g37
+tp3820
+sS'72063'
+p3821
+(g89
+S'Gurabo Municipio'
+p3822
+tp3823
+sS'69110'
+p3824
+(g576
+S'Saipan Municipality'
+p3825
+tp3826
+sS'21079'
+p3827
+(g163
+S'Garrard County'
+p3828
+tp3829
+sS'21075'
+p3830
+(g163
+g212
+tp3831
+sS'21077'
+p3832
+(g163
+S'Gallatin County'
+p3833
+tp3834
+sS'21071'
+p3835
+(g163
+g3290
+tp3836
+sS'21073'
+p3837
+(g163
+g1009
+tp3838
+sS'26089'
+p3839
+(g200
+S'Leelanau County'
+p3840
+tp3841
+sS'26085'
+p3842
+(g200
+g747
+tp3843
+sS'26087'
+p3844
+(g200
+S'Lapeer County'
+p3845
+tp3846
+sS'26081'
+p3847
+(g200
+g2908
+tp3848
+sS'26083'
+p3849
+(g200
+S'Keweenaw County'
+p3850
+tp3851
+sS'21219'
+p3852
+(g163
+g1456
+tp3853
+sS'05089'
+p3854
+(g285
+g80
+tp3855
+sS'17149'
+p3856
+(g272
+g888
+tp3857
+sS'21211'
+p3858
+(g163
+g431
+tp3859
+sS'05083'
+p3860
+(g285
+g1150
+tp3861
+sS'21213'
+p3862
+(g163
+S'Simpson County'
+p3863
+tp3864
+sS'05081'
+p3865
+(g285
+S'Little River County'
+p3866
+tp3867
+sS'21215'
+p3868
+(g163
+g567
+tp3869
+sS'05087'
+p3870
+(g285
+g256
+tp3871
+sS'21217'
+p3872
+(g163
+g337
+tp3873
+sS'05085'
+p3874
+(g285
+S'Lonoke County'
+p3875
+tp3876
+sS'21189'
+p3877
+(g163
+S'Owsley County'
+p3878
+tp3879
+sS'13309'
+p3880
+(g118
+g2243
+tp3881
+sS'21181'
+p3882
+(g163
+S'Nicholas County'
+p3883
+tp3884
+sS'13307'
+p3885
+(g118
+S'Webster County'
+p3886
+tp3887
+sS'21183'
+p3888
+(g163
+S'Ohio County'
+p3889
+tp3890
+sS'13305'
+p3891
+(g118
+g1354
+tp3892
+sS'21185'
+p3893
+(g163
+S'Oldham County'
+p3894
+tp3895
+sS'13303'
+p3896
+(g118
+g37
+tp3897
+sS'21187'
+p3898
+(g163
+S'Owen County'
+p3899
+tp3900
+sS'13301'
+p3901
+(g118
+g632
+tp3902
+sS'12095'
+p3903
+(g215
+g1525
+tp3904
+sS'17093'
+p3905
+(g272
+S'Kendall County'
+p3906
+tp3907
+sS'12097'
+p3908
+(g215
+g706
+tp3909
+sS'17091'
+p3910
+(g272
+S'Kankakee County'
+p3911
+tp3912
+sS'12091'
+p3913
+(g215
+S'Okaloosa County'
+p3914
+tp3915
+sS'17097'
+p3916
+(g272
+g747
+tp3917
+sS'12093'
+p3918
+(g215
+S'Okeechobee County'
+p3919
+tp3920
+sS'17095'
+p3921
+(g272
+g599
+tp3922
+sS'17099'
+p3923
+(g272
+S'LaSalle County'
+p3924
+tp3925
+sS'12099'
+p3926
+(g215
+S'Palm Beach County'
+p3927
+tp3928
+sS'48201'
+p3929
+(g22
+S'Harris County'
+p3930
+tp3931
+sS'48479'
+p3932
+(g22
+S'Webb County'
+p3933
+tp3934
+sS'48471'
+p3935
+(g22
+g1558
+tp3936
+sS'48473'
+p3937
+(g22
+S'Waller County'
+p3938
+tp3939
+sS'48475'
+p3940
+(g22
+S'Ward County'
+p3941
+tp3942
+sS'48477'
+p3943
+(g22
+g37
+tp3944
+sS'55025'
+p3945
+(g249
+S'Dane County'
+p3946
+tp3947
+sS'20109'
+p3948
+(g351
+g1150
+tp3949
+sS'20107'
+p3950
+(g351
+g1278
+tp3951
+sS'20105'
+p3952
+(g351
+g188
+tp3953
+sS'20103'
+p3954
+(g351
+S'Leavenworth County'
+p3955
+tp3956
+sS'20101'
+p3957
+(g351
+S'Lane County'
+p3958
+tp3959
+sS'51075'
+p3960
+(g156
+S'Goochland County'
+p3961
+tp3962
+sS'55021'
+p3963
+(g249
+g403
+tp3964
+sS'51073'
+p3965
+(g156
+S'Gloucester County'
+p3966
+tp3967
+sS'48273'
+p3968
+(g22
+S'Kleberg County'
+p3969
+tp3970
+sS'13239'
+p3971
+(g118
+S'Quitman County'
+p3972
+tp3973
+sS'48277'
+p3974
+(g22
+g2265
+tp3975
+sS'48275'
+p3976
+(g22
+g599
+tp3977
+sS'13233'
+p3978
+(g118
+g83
+tp3979
+sS'13231'
+p3980
+(g118
+g888
+tp3981
+sS'13237'
+p3982
+(g118
+g1183
+tp3983
+sS'13235'
+p3984
+(g118
+g1675
+tp3985
+sS'41055'
+p3986
+(g204
+S'Sherman County'
+p3987
+tp3988
+sS'41057'
+p3989
+(g204
+S'Tillamook County'
+p3990
+tp3991
+sS'41051'
+p3992
+(g204
+S'Multnomah County'
+p3993
+tp3994
+sS'01079'
+p3995
+(g36
+g584
+tp3996
+sS'41053'
+p3997
+(g204
+g83
+tp3998
+sS'40059'
+p3999
+(g44
+g1787
+tp4000
+sS'44005'
+p4001
+(S'RI'
+p4002
+S'Newport County'
+p4003
+tp4004
+sS'40057'
+p4005
+(g44
+S'Harmon County'
+p4006
+tp4007
+sS'44007'
+p4008
+(g4002
+S'Providence County'
+p4009
+tp4010
+sS'08125'
+p4011
+(g509
+S'Yuma County'
+p4012
+tp4013
+sS'41059'
+p4014
+(g204
+S'Umatilla County'
+p4015
+tp4016
+sS'08123'
+p4017
+(g509
+S'Weld County'
+p4018
+tp4019
+sS'44003'
+p4020
+(g4002
+g2908
+tp4021
+sS'08121'
+p4022
+(g509
+g37
+tp4023
+sS'48019'
+p4024
+(g22
+S'Bandera County'
+p4025
+tp4026
+sS'29099'
+p4027
+(g583
+g524
+tp4028
+sS'29097'
+p4029
+(g583
+g3614
+tp4030
+sS'48013'
+p4031
+(g22
+S'Atascosa County'
+p4032
+tp4033
+sS'29095'
+p4034
+(g583
+g176
+tp4035
+sS'48011'
+p4036
+(g22
+g2158
+tp4037
+sS'29093'
+p4038
+(g583
+g3272
+tp4039
+sS'48017'
+p4040
+(g22
+S'Bailey County'
+p4041
+tp4042
+sS'29091'
+p4043
+(g583
+S'Howell County'
+p4044
+tp4045
+sS'48015'
+p4046
+(g22
+S'Austin County'
+p4047
+tp4048
+sS'24003'
+p4049
+(g2885
+S'Anne Arundel County'
+p4050
+tp4051
+sS'24001'
+p4052
+(g2885
+g1646
+tp4053
+sS'20039'
+p4054
+(g351
+g673
+tp4055
+sS'24005'
+p4056
+(g2885
+S'Baltimore County'
+p4057
+tp4058
+sS'20033'
+p4059
+(g351
+g23
+tp4060
+sS'24009'
+p4061
+(g2885
+S'Calvert County'
+p4062
+tp4063
+sS'20031'
+p4064
+(g351
+S'Coffey County'
+p4065
+tp4066
+sS'20037'
+p4067
+(g351
+g276
+tp4068
+sS'20035'
+p4069
+(g351
+S'Cowley County'
+p4070
+tp4071
+sS'37087'
+p4072
+(g371
+g3066
+tp4073
+sS'13127'
+p4074
+(g118
+S'Glynn County'
+p4075
+tp4076
+sS'37085'
+p4077
+(g371
+S'Harnett County'
+p4078
+tp4079
+sS'13125'
+p4080
+(g118
+S'Glascock County'
+p4081
+tp4082
+sS'37083'
+p4083
+(g371
+S'Halifax County'
+p4084
+tp4085
+sS'13123'
+p4086
+(g118
+g2957
+tp4087
+sS'37081'
+p4088
+(g371
+S'Guilford County'
+p4089
+tp4090
+sS'13121'
+p4091
+(g118
+g212
+tp4092
+sS'40129'
+p4093
+(g44
+S'Roger Mills County'
+p4094
+tp4095
+sS'37089'
+p4096
+(g371
+g164
+tp4097
+sS'13129'
+p4098
+(g118
+S'Gordon County'
+p4099
+tp4100
+sS'72059'
+p4101
+(g89
+S'Guayanilla Municipio'
+p4102
+tp4103
+sS'72053'
+p4104
+(g89
+S'Fajardo Municipio'
+p4105
+tp4106
+sS'72051'
+p4107
+(g89
+S'Dorado Municipio'
+p4108
+tp4109
+sS'72057'
+p4110
+(g89
+S'Guayama Municipio'
+p4111
+tp4112
+sS'72055'
+p4113
+(g89
+S'Guanica Municipio'
+p4114
+tp4115
+sS'72054'
+p4116
+(g89
+S'Florida Municipio'
+p4117
+tp4118
+sS'54009'
+p4119
+(g307
+S'Brooke County'
+p4120
+tp4121
+sS'54005'
+p4122
+(g307
+g340
+tp4123
+sS'54007'
+p4124
+(g307
+S'Braxton County'
+p4125
+tp4126
+sS'54001'
+p4127
+(g307
+S'Barbour County'
+p4128
+tp4129
+sS'54003'
+p4130
+(g307
+S'Berkeley County'
+p4131
+tp4132
+sS'48497'
+p4133
+(g22
+S'Wise County'
+p4134
+tp4135
+sS'48495'
+p4136
+(g22
+S'Winkler County'
+p4137
+tp4138
+sS'48493'
+p4139
+(g22
+g1802
+tp4140
+sS'38009'
+p4141
+(g1328
+S'Bottineau County'
+p4142
+tp4143
+sS'38007'
+p4144
+(g1328
+S'Billings County'
+p4145
+tp4146
+sS'48167'
+p4147
+(g22
+S'Galveston County'
+p4148
+tp4149
+sS'38005'
+p4150
+(g1328
+S'Benson County'
+p4151
+tp4152
+sS'38003'
+p4153
+(g1328
+S'Barnes County'
+p4154
+tp4155
+sS'38001'
+p4156
+(g1328
+g2078
+tp4157
+sS'30033'
+p4158
+(g722
+g3432
+tp4159
+sS'30031'
+p4160
+(g722
+g3833
+tp4161
+sS'30037'
+p4162
+(g722
+S'Golden Valley County'
+p4163
+tp4164
+sS'30035'
+p4165
+(g722
+S'Glacier County'
+p4166
+tp4167
+sS'30039'
+p4168
+(g722
+S'Granite County'
+p4169
+tp4170
+sS'18035'
+p4171
+(g549
+g409
+tp4172
+sS'18037'
+p4173
+(g549
+S'Dubois County'
+p4174
+tp4175
+sS'18031'
+p4176
+(g549
+g673
+tp4177
+sS'18033'
+p4178
+(g549
+g1348
+tp4179
+sS'48489'
+p4180
+(g22
+S'Willacy County'
+p4181
+tp4182
+sS'18039'
+p4183
+(g549
+S'Elkhart County'
+p4184
+tp4185
+sS'72133'
+p4186
+(g89
+S'Santa Isabel Municipio'
+p4187
+tp4188
+sS'29075'
+p4189
+(g583
+S'Gentry County'
+p4190
+tp4191
+sS'31149'
+p4192
+(g533
+g1308
+tp4193
+sS'29077'
+p4194
+(g583
+g237
+tp4195
+sS'29071'
+p4196
+(g583
+g1009
+tp4197
+sS'29073'
+p4198
+(g583
+S'Gasconade County'
+p4199
+tp4200
+sS'28079'
+p4201
+(g1834
+S'Leake County'
+p4202
+tp4203
+sS'28077'
+p4204
+(g1834
+g584
+tp4205
+sS'28075'
+p4206
+(g1834
+g2262
+tp4207
+sS'29079'
+p4208
+(g583
+g3631
+tp4209
+sS'28073'
+p4210
+(g1834
+g2265
+tp4211
+sS'23031'
+p4212
+(g3023
+S'York County'
+p4213
+tp4214
+sS'28071'
+p4215
+(g1834
+g608
+tp4216
+sS'47057'
+p4217
+(g194
+S'Grainger County'
+p4218
+tp4219
+sS'47055'
+p4220
+(g194
+S'Giles County'
+p4221
+tp4222
+sS'02195'
+p4223
+(g48
+S'Petersburg Census Area'
+p4224
+tp4225
+sS'47051'
+p4226
+(g194
+g1009
+tp4227
+sS'02198'
+p4228
+(g48
+S'Prince of Wales-Hyder Census Area'
+p4229
+tp4230
+sS'47059'
+p4231
+(g194
+g237
+tp4232
+sS'27051'
+p4233
+(g149
+g1165
+tp4234
+sS'40021'
+p4235
+(g44
+g477
+tp4236
+sS'27053'
+p4237
+(g149
+S'Hennepin County'
+p4238
+tp4239
+sS'27055'
+p4240
+(g149
+g2772
+tp4241
+sS'27057'
+p4242
+(g149
+S'Hubbard County'
+p4243
+tp4244
+sS'27059'
+p4245
+(g149
+S'Isanti County'
+p4246
+tp4247
+sS'50017'
+p4248
+(g3670
+g1525
+tp4249
+sS'19129'
+p4250
+(g57
+g2283
+tp4251
+sS'50015'
+p4252
+(g3670
+S'Lamoille County'
+p4253
+tp4254
+sS'50013'
+p4255
+(g3670
+S'Grand Isle County'
+p4256
+tp4257
+sS'50011'
+p4258
+(g3670
+g1009
+tp4259
+sS'55047'
+p4260
+(g249
+S'Green Lake County'
+p4261
+tp4262
+sS'19121'
+p4263
+(g57
+g256
+tp4264
+sS'55045'
+p4265
+(g249
+g3263
+tp4266
+sS'19123'
+p4267
+(g57
+S'Mahaska County'
+p4268
+tp4269
+sS'55043'
+p4270
+(g249
+g1165
+tp4271
+sS'19125'
+p4272
+(g57
+g80
+tp4273
+sS'50019'
+p4274
+(g3670
+S'Orleans County'
+p4275
+tp4276
+sS'19127'
+p4277
+(g57
+g1751
+tp4278
+sS'35001'
+p4279
+(g1896
+S'Bernalillo County'
+p4280
+tp4281
+sS'31035'
+p4282
+(g533
+g216
+tp4283
+sS'35003'
+p4284
+(g1896
+S'Catron County'
+p4285
+tp4286
+sS'31037'
+p4287
+(g533
+S'Colfax County'
+p4288
+tp4289
+sS'35005'
+p4290
+(g1896
+S'Chaves County'
+p4291
+tp4292
+sS'31031'
+p4293
+(g533
+S'Cherry County'
+p4294
+tp4295
+sS'35007'
+p4296
+(g1896
+g4288
+tp4297
+sS'31033'
+p4298
+(g533
+g3469
+tp4299
+sS'35009'
+p4300
+(g1896
+S'Curry County'
+p4301
+tp4302
+sS'31039'
+p4303
+(g533
+S'Cuming County'
+p4304
+tp4305
+sS'48441'
+p4306
+(g22
+g337
+tp4307
+sS'46123'
+p4308
+(g40
+S'Tripp County'
+p4309
+tp4310
+sS'48443'
+p4311
+(g22
+g1735
+tp4312
+sS'46125'
+p4313
+(g40
+g906
+tp4314
+sS'47123'
+p4315
+(g194
+g2408
+tp4316
+sS'47121'
+p4317
+(g194
+g68
+tp4318
+sS'47127'
+p4319
+(g194
+g556
+tp4320
+sS'47125'
+p4321
+(g194
+g602
+tp4322
+sS'48445'
+p4323
+(g22
+S'Terry County'
+p4324
+tp4325
+sS'47129'
+p4326
+(g194
+g1233
+tp4327
+sS'46127'
+p4328
+(g40
+g286
+tp4329
+sS'72145'
+p4330
+(g89
+S'Vega Baja Municipio'
+p4331
+tp4332
+sS'39067'
+p4333
+(g61
+g2238
+tp4334
+sS'19015'
+p4335
+(g57
+g340
+tp4336
+sS'39065'
+p4337
+(g61
+g2727
+tp4338
+sS'19017'
+p4339
+(g57
+S'Bremer County'
+p4340
+tp4341
+sS'39063'
+p4342
+(g61
+g2730
+tp4343
+sS'19011'
+p4344
+(g57
+g326
+tp4345
+sS'39061'
+p4346
+(g61
+g1790
+tp4347
+sS'19013'
+p4348
+(g57
+S'Black Hawk County'
+p4349
+tp4350
+sS'19019'
+p4351
+(g57
+S'Buchanan County'
+p4352
+tp4353
+sS'39069'
+p4354
+(g61
+g167
+tp4355
+sS'28107'
+p4356
+(g1834
+g387
+tp4357
+sS'28105'
+p4358
+(g1834
+S'Oktibbeha County'
+p4359
+tp4360
+sS'28103'
+p4361
+(g1834
+S'Noxubee County'
+p4362
+tp4363
+sS'28101'
+p4364
+(g1834
+g894
+tp4365
+sS'39001'
+p4366
+(g61
+g2078
+tp4367
+sS'28109'
+p4368
+(g1834
+S'Pearl River County'
+p4369
+tp4370
+sS'39003'
+p4371
+(g61
+S'Allen County'
+p4372
+tp4373
+sS'72083'
+p4374
+(g89
+S'Las Marias Municipio'
+p4375
+tp4376
+sS'45017'
+p4377
+(g460
+g240
+tp4378
+sS'12069'
+p4379
+(g215
+g747
+tp4380
+sS'01043'
+p4381
+(g36
+S'Cullman County'
+p4382
+tp4383
+sS'12061'
+p4384
+(g215
+S'Indian River County'
+p4385
+tp4386
+sS'12063'
+p4387
+(g215
+g176
+tp4388
+sS'12065'
+p4389
+(g215
+g524
+tp4390
+sS'12067'
+p4391
+(g215
+g608
+tp4392
+sS'29211'
+p4393
+(g583
+g1247
+tp4394
+sS'51163'
+p4395
+(g156
+S'Rockbridge County'
+p4396
+tp4397
+sS'51165'
+p4398
+(g156
+g3175
+tp4399
+sS'51167'
+p4400
+(g156
+g449
+tp4401
+sS'51169'
+p4402
+(g156
+g562
+tp4403
+sS'29213'
+p4404
+(g583
+S'Taney County'
+p4405
+tp4406
+sS'48451'
+p4407
+(g22
+S'Tom Green County'
+p4408
+tp4409
+sS'51760'
+p4410
+(g156
+S'Richmond city'
+p4411
+tp4412
+sS'29215'
+p4413
+(g583
+g3492
+tp4414
+sS'48045'
+p4415
+(g22
+S'Briscoe County'
+p4416
+tp4417
+sS'29217'
+p4418
+(g583
+g2514
+tp4419
+sS'49049'
+p4420
+(g947
+S'Utah County'
+p4421
+tp4422
+sS'46095'
+p4423
+(g40
+S'Mellette County'
+p4424
+tp4425
+sS'46097'
+p4426
+(g40
+S'Miner County'
+p4427
+tp4428
+sS'46091'
+p4429
+(g40
+g1751
+tp4430
+sS'46093'
+p4431
+(g40
+g3381
+tp4432
+sS'21069'
+p4433
+(g163
+S'Fleming County'
+p4434
+tp4435
+sS'21067'
+p4436
+(g163
+g219
+tp4437
+sS'21065'
+p4438
+(g163
+S'Estill County'
+p4439
+tp4440
+sS'21063'
+p4441
+(g163
+S'Elliott County'
+p4442
+tp4443
+sS'21061'
+p4444
+(g163
+S'Edmonson County'
+p4445
+tp4446
+sS'72101'
+p4447
+(g89
+S'Morovis Municipio'
+p4448
+tp4449
+sS'48297'
+p4450
+(g22
+S'Live Oak County'
+p4451
+tp4452
+sS'26099'
+p4453
+(g200
+S'Macomb County'
+p4454
+tp4455
+sS'26097'
+p4456
+(g200
+S'Mackinac County'
+p4457
+tp4458
+sS'26095'
+p4459
+(g200
+S'Luce County'
+p4460
+tp4461
+sS'26093'
+p4462
+(g200
+g1275
+tp4463
+sS'26091'
+p4464
+(g200
+S'Lenawee County'
+p4465
+tp4466
+sS'56043'
+p4467
+(g815
+S'Washakie County'
+p4468
+tp4469
+sS'30099'
+p4470
+(g722
+S'Teton County'
+p4471
+tp4472
+sS'46015'
+p4473
+(g40
+S'Brule County'
+p4474
+tp4475
+sS'56041'
+p4476
+(g815
+S'Uinta County'
+p4477
+tp4478
+sS'69100'
+p4479
+(g576
+S'Rota Municipality'
+p4480
+tp4481
+sS'17139'
+p4482
+(g272
+S'Moultrie County'
+p4483
+tp4484
+sS'31157'
+p4485
+(g533
+S'Scotts Bluff County'
+p4486
+tp4487
+sS'21209'
+p4488
+(g163
+g562
+tp4489
+sS'17131'
+p4490
+(g272
+g74
+tp4491
+sS'21203'
+p4492
+(g163
+S'Rockcastle County'
+p4493
+tp4494
+sS'17133'
+p4495
+(g272
+g2408
+tp4496
+sS'21201'
+p4497
+(g163
+g3191
+tp4498
+sS'17135'
+p4499
+(g272
+g602
+tp4500
+sS'21207'
+p4501
+(g163
+g449
+tp4502
+sS'17137'
+p4503
+(g272
+g1233
+tp4504
+sS'21205'
+p4505
+(g163
+S'Rowan County'
+p4506
+tp4507
+sS'21199'
+p4508
+(g163
+g1675
+tp4509
+sS'21193'
+p4510
+(g163
+g900
+tp4511
+sS'21191'
+p4512
+(g163
+S'Pendleton County'
+p4513
+tp4514
+sS'21197'
+p4515
+(g163
+S'Powell County'
+p4516
+tp4517
+sS'21195'
+p4518
+(g163
+g888
+tp4519
+sS'12086'
+p4520
+(g215
+S'Miami-Dade County'
+p4521
+tp4522
+sS'12087'
+p4523
+(g215
+g2408
+tp4524
+sS'12085'
+p4525
+(g215
+g1058
+tp4526
+sS'12083'
+p4527
+(g215
+g80
+tp4528
+sS'12081'
+p4529
+(g215
+S'Manatee County'
+p4530
+tp4531
+sS'12089'
+p4532
+(g215
+S'Nassau County'
+p4533
+tp4534
+sS'17045'
+p4535
+(g272
+S'Edgar County'
+p4536
+tp4537
+sS'17047'
+p4538
+(g272
+g1079
+tp4539
+sS'36103'
+p4540
+(g390
+S'Suffolk County'
+p4541
+tp4542
+sS'17041'
+p4543
+(g272
+g822
+tp4544
+sS'17043'
+p4545
+(g272
+S'DuPage County'
+p4546
+tp4547
+sS'20133'
+p4548
+(g351
+S'Neosho County'
+p4549
+tp4550
+sS'20131'
+p4551
+(g351
+g537
+tp4552
+sS'17049'
+p4553
+(g272
+S'Effingham County'
+p4554
+tp4555
+sS'20135'
+p4556
+(g351
+S'Ness County'
+p4557
+tp4558
+sS'13207'
+p4559
+(g118
+g2408
+tp4560
+sS'36109'
+p4561
+(g390
+S'Tompkins County'
+p4562
+tp4563
+sS'13205'
+p4564
+(g118
+g580
+tp4565
+sS'13201'
+p4566
+(g118
+g2435
+tp4567
+sS'13209'
+p4568
+(g118
+g602
+tp4569
+sS'36065'
+p4570
+(g390
+g13
+tp4571
+sS'48249'
+p4572
+(g22
+S'Jim Wells County'
+p4573
+tp4574
+sS'48247'
+p4575
+(g22
+S'Jim Hogg County'
+p4576
+tp4577
+sS'48245'
+p4578
+(g22
+g524
+tp4579
+sS'48243'
+p4580
+(g22
+S'Jeff Davis County'
+p4581
+tp4582
+sS'48241'
+p4583
+(g22
+g3614
+tp4584
+sS'45015'
+p4585
+(g460
+g4131
+tp4586
+sS'41047'
+p4587
+(g204
+g80
+tp4588
+sS'08119'
+p4589
+(g509
+S'Teller County'
+p4590
+tp4591
+sS'41045'
+p4592
+(g204
+S'Malheur County'
+p4593
+tp4594
+sS'45011'
+p4595
+(g460
+S'Barnwell County'
+p4596
+tp4597
+sS'41043'
+p4598
+(g204
+g1278
+tp4599
+sS'45013'
+p4600
+(g460
+g1038
+tp4601
+sS'41041'
+p4602
+(g204
+g188
+tp4603
+sS'08113'
+p4604
+(g509
+g1906
+tp4605
+sS'08111'
+p4606
+(g509
+g1900
+tp4607
+sS'08117'
+p4608
+(g509
+g995
+tp4609
+sS'08115'
+p4610
+(g509
+S'Sedgwick County'
+p4611
+tp4612
+sS'41049'
+p4613
+(g204
+S'Morrow County'
+p4614
+tp4615
+sS'20007'
+p4616
+(g351
+S'Barber County'
+p4617
+tp4618
+sS'29089'
+p4619
+(g583
+g2891
+tp4620
+sS'20005'
+p4621
+(g351
+S'Atchison County'
+p4622
+tp4623
+sS'46017'
+p4624
+(g40
+g1097
+tp4625
+sS'20003'
+p4626
+(g351
+g2548
+tp4627
+sS'20001'
+p4628
+(g351
+g4372
+tp4629
+sS'29081'
+p4630
+(g583
+g2238
+tp4631
+sS'29083'
+p4632
+(g583
+g167
+tp4633
+sS'29085'
+p4634
+(g583
+S'Hickory County'
+p4635
+tp4636
+sS'20009'
+p4637
+(g351
+S'Barton County'
+p4638
+tp4639
+sS'29087'
+p4640
+(g583
+S'Holt County'
+p4641
+tp4642
+sS'24019'
+p4643
+(g2885
+S'Dorchester County'
+p4644
+tp4645
+sS'24015'
+p4646
+(g2885
+S'Cecil County'
+p4647
+tp4648
+sS'24017'
+p4649
+(g2885
+S'Charles County'
+p4650
+tp4651
+sS'24011'
+p4652
+(g2885
+g1281
+tp4653
+sS'24013'
+p4654
+(g2885
+g1314
+tp4655
+sS'13113'
+p4656
+(g118
+g219
+tp4657
+sS'37091'
+p4658
+(g371
+S'Hertford County'
+p4659
+tp4660
+sS'13111'
+p4661
+(g118
+g437
+tp4662
+sS'37093'
+p4663
+(g371
+S'Hoke County'
+p4664
+tp4665
+sS'13117'
+p4666
+(g118
+S'Forsyth County'
+p4667
+tp4668
+sS'37095'
+p4669
+(g371
+S'Hyde County'
+p4670
+tp4671
+sS'13115'
+p4672
+(g118
+g3290
+tp4673
+sS'12007'
+p4674
+(g215
+g2690
+tp4675
+sS'40117'
+p4676
+(g44
+S'Pawnee County'
+p4677
+tp4678
+sS'37099'
+p4679
+(g371
+g176
+tp4680
+sS'13119'
+p4681
+(g118
+g1009
+tp4682
+sS'36069'
+p4683
+(g390
+S'Ontario County'
+p4684
+tp4685
+sS'40113'
+p4686
+(g44
+g1885
+tp4687
+sS'40111'
+p4688
+(g44
+S'Okmulgee County'
+p4689
+tp4690
+sS'09015'
+p4691
+(S'CT'
+p4692
+g3677
+tp4693
+sS'46019'
+p4694
+(g40
+g1394
+tp4695
+sS'54079'
+p4696
+(g307
+g1183
+tp4697
+sS'54071'
+p4698
+(g307
+g4513
+tp4699
+sS'09011'
+p4700
+(g4692
+S'New London County'
+p4701
+tp4702
+sS'54073'
+p4703
+(g307
+S'Pleasants County'
+p4704
+tp4705
+sS'54075'
+p4706
+(g307
+g77
+tp4707
+sS'54077'
+p4708
+(g307
+S'Preston County'
+p4709
+tp4710
+sS'38039'
+p4711
+(g1328
+S'Griggs County'
+p4712
+tp4713
+sS'09013'
+p4714
+(g4692
+S'Tolland County'
+p4715
+tp4716
+sS'38033'
+p4717
+(g1328
+g4163
+tp4718
+sS'38031'
+p4719
+(g1328
+S'Foster County'
+p4720
+tp4721
+sS'54047'
+p4722
+(g307
+S'McDowell County'
+p4723
+tp4724
+sS'38037'
+p4725
+(g1328
+g1165
+tp4726
+sS'38035'
+p4727
+(g1328
+S'Grand Forks County'
+p4728
+tp4729
+sS'47067'
+p4730
+(g194
+g2730
+tp4731
+sS'54049'
+p4732
+(g307
+g80
+tp4733
+sS'51790'
+p4734
+(g156
+S'Staunton city'
+p4735
+tp4736
+sS'34019'
+p4737
+(g631
+S'Hunterdon County'
+p4738
+tp4739
+sS'30029'
+p4740
+(g722
+S'Flathead County'
+p4741
+tp4742
+sS'55073'
+p4743
+(g249
+S'Marathon County'
+p4744
+tp4745
+sS'34011'
+p4746
+(g631
+g282
+tp4747
+sS'30025'
+p4748
+(g722
+S'Fallon County'
+p4749
+tp4750
+sS'34013'
+p4751
+(g631
+g2595
+tp4752
+sS'30027'
+p4753
+(g722
+S'Fergus County'
+p4754
+tp4755
+sS'34015'
+p4756
+(g631
+g3966
+tp4757
+sS'30021'
+p4758
+(g722
+g2292
+tp4759
+sS'34017'
+p4760
+(g631
+S'Hudson County'
+p4761
+tp4762
+sS'30023'
+p4763
+(g722
+S'Deer Lodge County'
+p4764
+tp4765
+sS'54105'
+p4766
+(g307
+S'Wirt County'
+p4767
+tp4768
+sS'18027'
+p4769
+(g549
+S'Daviess County'
+p4770
+tp4771
+sS'54107'
+p4772
+(g307
+g697
+tp4773
+sS'18025'
+p4774
+(g549
+g276
+tp4775
+sS'54101'
+p4776
+(g307
+g3886
+tp4777
+sS'18023'
+p4778
+(g549
+g959
+tp4779
+sS'54103'
+p4780
+(g307
+S'Wetzel County'
+p4781
+tp4782
+sS'18021'
+p4783
+(g549
+g216
+tp4784
+sS'54109'
+p4785
+(g307
+g3395
+tp4786
+sS'18029'
+p4787
+(g549
+S'Dearborn County'
+p4788
+tp4789
+sS'38105'
+p4790
+(g1328
+g691
+tp4791
+sS'38103'
+p4792
+(g1328
+g2420
+tp4793
+sS'51009'
+p4794
+(g156
+S'Amherst County'
+p4795
+tp4796
+sS'38101'
+p4797
+(g1328
+g3941
+tp4798
+sS'23029'
+p4799
+(g3023
+g37
+tp4800
+sS'28049'
+p4801
+(g1834
+S'Hinds County'
+p4802
+tp4803
+sS'29065'
+p4804
+(g583
+S'Dent County'
+p4805
+tp4806
+sS'29063'
+p4807
+(g583
+g1348
+tp4808
+sS'29061'
+p4809
+(g583
+g4770
+tp4810
+sS'28043'
+p4811
+(g1834
+S'Grenada County'
+p4812
+tp4813
+sS'23021'
+p4814
+(g3023
+S'Piscataquis County'
+p4815
+tp4816
+sS'28041'
+p4817
+(g1834
+g237
+tp4818
+sS'23023'
+p4819
+(g3023
+S'Sagadahoc County'
+p4820
+tp4821
+sS'28047'
+p4822
+(g1834
+g2238
+tp4823
+sS'23025'
+p4824
+(g3023
+g3476
+tp4825
+sS'28045'
+p4826
+(g1834
+g2730
+tp4827
+sS'23027'
+p4828
+(g3023
+S'Waldo County'
+p4829
+tp4830
+sS'47041'
+p4831
+(g194
+g1348
+tp4832
+sS'02180'
+p4833
+(g48
+S'Nome Census Area'
+p4834
+tp4835
+sS'47043'
+p4836
+(g194
+S'Dickson County'
+p4837
+tp4838
+sS'47045'
+p4839
+(g194
+S'Dyer County'
+p4840
+tp4841
+sS'02185'
+p4842
+(g48
+S'North Slope Borough'
+p4843
+tp4844
+sS'47049'
+p4845
+(g194
+S'Fentress County'
+p4846
+tp4847
+sS'02188'
+p4848
+(g48
+S'Northwest Arctic Borough'
+p4849
+tp4850
+sS'01073'
+p4851
+(g36
+g524
+tp4852
+sS'51550'
+p4853
+(g156
+S'Chesapeake city'
+p4854
+tp4855
+sS'27043'
+p4856
+(g149
+S'Faribault County'
+p4857
+tp4858
+sS'27041'
+p4859
+(g149
+g822
+tp4860
+sS'27047'
+p4861
+(g149
+S'Freeborn County'
+p4862
+tp4863
+sS'27045'
+p4864
+(g149
+S'Fillmore County'
+p4865
+tp4866
+sS'53049'
+p4867
+(g265
+S'Pacific County'
+p4868
+tp4869
+sS'27049'
+p4870
+(g149
+S'Goodhue County'
+p4871
+tp4872
+sS'50001'
+p4873
+(g3670
+S'Addison County'
+p4874
+tp4875
+sS'50003'
+p4876
+(g3670
+S'Bennington County'
+p4877
+tp4878
+sS'50005'
+p4879
+(g3670
+S'Caledonia County'
+p4880
+tp4881
+sS'50007'
+p4882
+(g3670
+S'Chittenden County'
+p4883
+tp4884
+sS'50009'
+p4885
+(g3670
+g2595
+tp4886
+sS'51570'
+p4887
+(g156
+S'Colonial Heights city'
+p4888
+tp4889
+sS'55055'
+p4890
+(g249
+g524
+tp4891
+sS'55057'
+p4892
+(g249
+S'Juneau County'
+p4893
+tp4894
+sS'31041'
+p4895
+(g533
+g2971
+tp4896
+sS'35013'
+p4897
+(g1896
+S'Dona Ana County'
+p4898
+tp4899
+sS'31043'
+p4900
+(g533
+g3105
+tp4901
+sS'35011'
+p4902
+(g1896
+S'De Baca County'
+p4903
+tp4904
+sS'31045'
+p4905
+(g533
+S'Dawes County'
+p4906
+tp4907
+sS'35017'
+p4908
+(g1896
+g1165
+tp4909
+sS'31047'
+p4910
+(g533
+g2292
+tp4911
+sS'35015'
+p4912
+(g1896
+S'Eddy County'
+p4913
+tp4914
+sS'31049'
+p4915
+(g533
+S'Deuel County'
+p4916
+tp4917
+sS'35019'
+p4918
+(g1896
+S'Guadalupe County'
+p4919
+tp4920
+sS'51680'
+p4921
+(g156
+S'Lynchburg city'
+p4922
+tp4923
+sS'51683'
+p4924
+(g156
+S'Manassas city'
+p4925
+tp4926
+sS'51685'
+p4927
+(g156
+S'Manassas Park city'
+p4928
+tp4929
+sS'47139'
+p4930
+(g194
+g83
+tp4931
+sS'50023'
+p4932
+(g3670
+g37
+tp4933
+sS'47135'
+p4934
+(g194
+g900
+tp4935
+sS'47137'
+p4936
+(g194
+S'Pickett County'
+p4937
+tp4938
+sS'47131'
+p4939
+(g194
+S'Obion County'
+p4940
+tp4941
+sS'47133'
+p4942
+(g194
+S'Overton County'
+p4943
+tp4944
+sS'19061'
+p4945
+(g57
+S'Dubuque County'
+p4946
+tp4947
+sS'39071'
+p4948
+(g61
+S'Highland County'
+p4949
+tp4950
+sS'19063'
+p4951
+(g57
+g1604
+tp4952
+sS'39073'
+p4953
+(g61
+S'Hocking County'
+p4954
+tp4955
+sS'19065'
+p4956
+(g57
+g219
+tp4957
+sS'39075'
+p4958
+(g61
+g2668
+tp4959
+sS'19067'
+p4960
+(g57
+g3290
+tp4961
+sS'39077'
+p4962
+(g61
+g2749
+tp4963
+sS'19069'
+p4964
+(g57
+g1009
+tp4965
+sS'39079'
+p4966
+(g61
+g176
+tp4967
+sS'37189'
+p4968
+(g371
+S'Watauga County'
+p4969
+tp4970
+sS'28133'
+p4971
+(g1834
+S'Sunflower County'
+p4972
+tp4973
+sS'28131'
+p4974
+(g1834
+g289
+tp4975
+sS'28137'
+p4976
+(g1834
+S'Tate County'
+p4977
+tp4978
+sS'28135'
+p4979
+(g1834
+S'Tallahatchie County'
+p4980
+tp4981
+sS'28139'
+p4982
+(g1834
+S'Tippah County'
+p4983
+tp4984
+sS'55017'
+p4985
+(g249
+g970
+tp4986
+sS'22105'
+p4987
+(g102
+S'Tangipahoa Parish'
+p4988
+tp4989
+sS'51199'
+p4990
+(g156
+g4213
+tp4991
+sS'53021'
+p4992
+(g265
+g1009
+tp4993
+sS'40013'
+p4994
+(g44
+g119
+tp4995
+sS'51195'
+p4996
+(g156
+g4134
+tp4997
+sS'60010'
+p4998
+(g2715
+S'Eastern District'
+p4999
+tp5000
+sS'51197'
+p5001
+(g156
+S'Wythe County'
+p5002
+tp5003
+sS'16049'
+p5004
+(g2
+S'Idaho County'
+p5005
+tp5006
+sS'51191'
+p5007
+(g156
+g37
+tp5008
+sS'51193'
+p5009
+(g156
+g394
+tp5010
+sS'22081'
+p5011
+(g102
+S'Red River Parish'
+p5012
+tp5013
+sS'22083'
+p5014
+(g102
+S'Richland Parish'
+p5015
+tp5016
+sS'40011'
+p5017
+(g44
+g1427
+tp5018
+sS'22085'
+p5019
+(g102
+S'Sabine Parish'
+p5020
+tp5021
+sS'22087'
+p5022
+(g102
+S'St. Bernard Parish'
+p5023
+tp5024
+sS'19095'
+p5025
+(g57
+S'Iowa County'
+p5026
+tp5027
+sS'22089'
+p5028
+(g102
+S'St. Charles Parish'
+p5029
+tp5030
+sS'40017'
+p5031
+(g44
+S'Canadian County'
+p5032
+tp5033
+sS'19097'
+p5034
+(g57
+g176
+tp5035
+sS'40015'
+p5036
+(g44
+S'Caddo County'
+p5037
+tp5038
+sS'26035'
+p5039
+(g200
+S'Clare County'
+p5040
+tp5041
+sS'16043'
+p5042
+(g2
+S'Fremont County'
+p5043
+tp5044
+sS'21059'
+p5045
+(g163
+g4770
+tp5046
+sS'21053'
+p5047
+(g163
+g959
+tp5048
+sS'21051'
+p5049
+(g163
+g216
+tp5050
+sS'16041'
+p5051
+(g2
+g1009
+tp5052
+sS'21057'
+p5053
+(g163
+g282
+tp5054
+sS'21055'
+p5055
+(g163
+g956
+tp5056
+sS'02220'
+p5057
+(g48
+S'Sitka City and Borough'
+p5058
+tp5059
+sS'21237'
+p5060
+(g163
+S'Wolfe County'
+p5061
+tp5062
+sS'21235'
+p5063
+(g163
+g2946
+tp5064
+sS'21233'
+p5065
+(g163
+g3886
+tp5066
+sS'21231'
+p5067
+(g163
+g1354
+tp5068
+sS'72081'
+p5069
+(g89
+S'Lares Municipio'
+p5070
+tp5071
+sS'53045'
+p5072
+(g265
+g1061
+tp5073
+sS'53047'
+p5074
+(g265
+S'Okanogan County'
+p5075
+tp5076
+sS'47111'
+p5077
+(g194
+g1029
+tp5078
+sS'53041'
+p5079
+(g265
+g773
+tp5080
+sS'21239'
+p5081
+(g163
+S'Woodford County'
+p5082
+tp5083
+sS'17129'
+p5084
+(g272
+g2814
+tp5085
+sS'13321'
+p5086
+(g118
+S'Worth County'
+p5087
+tp5088
+sS'17123'
+p5089
+(g272
+g1751
+tp5090
+sS'17121'
+p5091
+(g272
+g80
+tp5092
+sS'17127'
+p5093
+(g272
+S'Massac County'
+p5094
+tp5095
+sS'17125'
+p5096
+(g272
+g1061
+tp5097
+sS'48179'
+p5098
+(g22
+g1186
+tp5099
+sS'72087'
+p5100
+(g89
+S'Loiza Municipio'
+p5101
+tp5102
+sS'26135'
+p5103
+(g200
+S'Oscoda County'
+p5104
+tp5105
+sS'26137'
+p5106
+(g200
+S'Otsego County'
+p5107
+tp5108
+sS'26131'
+p5109
+(g200
+S'Ontonagon County'
+p5110
+tp5111
+sS'26133'
+p5112
+(g200
+g706
+tp5113
+sS'72089'
+p5114
+(g89
+S'Luquillo Municipio'
+p5115
+tp5116
+sS'26139'
+p5117
+(g200
+g2498
+tp5118
+sS'20125'
+p5119
+(g351
+g602
+tp5120
+sS'20127'
+p5121
+(g351
+g2719
+tp5122
+sS'20121'
+p5123
+(g351
+g62
+tp5124
+sS'20123'
+p5125
+(g351
+g580
+tp5126
+sS'20129'
+p5127
+(g351
+g1329
+tp5128
+sS'17057'
+p5129
+(g272
+g212
+tp5130
+sS'17055'
+p5131
+(g272
+g1009
+tp5132
+sS'17053'
+p5133
+(g272
+g2905
+tp5134
+sS'17051'
+p5135
+(g272
+g219
+tp5136
+sS'48383'
+p5137
+(g22
+S'Reagan County'
+p5138
+tp5139
+sS'48381'
+p5140
+(g22
+S'Randall County'
+p5141
+tp5142
+sS'48187'
+p5143
+(g22
+g4919
+tp5144
+sS'48387'
+p5145
+(g22
+S'Red River County'
+p5146
+tp5147
+sS'17059'
+p5148
+(g272
+g3833
+tp5149
+sS'13211'
+p5150
+(g118
+g1233
+tp5151
+sS'12131'
+p5152
+(g215
+g1564
+tp5153
+sS'13215'
+p5154
+(g118
+S'Muscogee County'
+p5155
+tp5156
+sS'13217'
+p5157
+(g118
+g894
+tp5158
+sS'13219'
+p5159
+(g118
+S'Oconee County'
+p5160
+tp5161
+sS'01041'
+p5162
+(g36
+S'Crenshaw County'
+p5163
+tp5164
+sS'53035'
+p5165
+(g265
+S'Kitsap County'
+p5166
+tp5167
+sS'48259'
+p5168
+(g22
+g3906
+tp5169
+sS'48251'
+p5170
+(g22
+g596
+tp5171
+sS'48253'
+p5172
+(g22
+g1957
+tp5173
+sS'48255'
+p5174
+(g22
+S'Karnes County'
+p5175
+tp5176
+sS'48257'
+p5177
+(g22
+S'Kaufman County'
+p5178
+tp5179
+sS'45007'
+p5180
+(g460
+g2548
+tp5181
+sS'41071'
+p5182
+(g204
+S'Yamhill County'
+p5183
+tp5184
+sS'45005'
+p5185
+(g460
+S'Allendale County'
+p5186
+tp5187
+sS'45003'
+p5188
+(g460
+S'Aiken County'
+p5189
+tp5190
+sS'45001'
+p5191
+(g460
+S'Abbeville County'
+p5192
+tp5193
+sS'48039'
+p5194
+(g22
+S'Brazoria County'
+p5195
+tp5196
+sS'45009'
+p5197
+(g460
+S'Bamberg County'
+p5198
+tp5199
+sS'20011'
+p5200
+(g351
+S'Bourbon County'
+p5201
+tp5202
+sS'20013'
+p5203
+(g351
+g635
+tp5204
+sS'20015'
+p5205
+(g351
+g1424
+tp5206
+sS'20017'
+p5207
+(g351
+g3562
+tp5208
+sS'20019'
+p5209
+(g351
+g1023
+tp5210
+sS'01047'
+p5211
+(g36
+g944
+tp5212
+sS'28117'
+p5213
+(g1834
+S'Prentiss County'
+p5214
+tp5215
+sS'40109'
+p5216
+(g44
+S'Oklahoma County'
+p5217
+tp5218
+sS'37069'
+p5219
+(g371
+g1009
+tp5220
+sS'13109'
+p5221
+(g118
+S'Evans County'
+p5222
+tp5223
+sS'37065'
+p5224
+(g371
+S'Edgecombe County'
+p5225
+tp5226
+sS'13105'
+p5227
+(g118
+S'Elbert County'
+p5228
+tp5229
+sS'37067'
+p5230
+(g371
+g4667
+tp5231
+sS'13107'
+p5232
+(g118
+S'Emanuel County'
+p5233
+tp5234
+sS'37061'
+p5235
+(g371
+S'Duplin County'
+p5236
+tp5237
+sS'13101'
+p5238
+(g118
+S'Echols County'
+p5239
+tp5240
+sS'37063'
+p5241
+(g371
+S'Durham County'
+p5242
+tp5243
+sS'13103'
+p5244
+(g118
+g4554
+tp5245
+sS'48221'
+p5246
+(g22
+S'Hood County'
+p5247
+tp5248
+sS'04009'
+p5249
+(S'AZ'
+p5250
+g1159
+tp5251
+sS'38025'
+p5252
+(g1328
+S'Dunn County'
+p5253
+tp5254
+sS'29183'
+p5255
+(g583
+S'St. Charles County'
+p5256
+tp5257
+sS'38027'
+p5258
+(g1328
+g4913
+tp5259
+sS'29185'
+p5260
+(g583
+g452
+tp5261
+sS'38021'
+p5262
+(g1328
+S'Dickey County'
+p5263
+tp5264
+sS'29187'
+p5265
+(g583
+S'St. Francois County'
+p5266
+tp5267
+sS'29186'
+p5268
+(g583
+S'Ste. Genevieve County'
+p5269
+tp5270
+sS'04001'
+p5271
+(g5250
+S'Apache County'
+p5272
+tp5273
+sS'54063'
+p5274
+(g307
+g2408
+tp5275
+sS'04003'
+p5276
+(g5250
+S'Cochise County'
+p5277
+tp5278
+sS'54061'
+p5279
+(g307
+S'Monongalia County'
+p5280
+tp5281
+sS'04005'
+p5282
+(g5250
+S'Coconino County'
+p5283
+tp5284
+sS'38029'
+p5285
+(g1328
+S'Emmons County'
+p5286
+tp5287
+sS'04007'
+p5288
+(g5250
+S'Gila County'
+p5289
+tp5290
+sS'54065'
+p5291
+(g307
+g1233
+tp5292
+sS'28119'
+p5293
+(g1834
+g3972
+tp5294
+sS'08105'
+p5295
+(g509
+S'Rio Grande County'
+p5296
+tp5297
+sS'08107'
+p5298
+(g509
+S'Routt County'
+p5299
+tp5300
+sS'08101'
+p5301
+(g509
+S'Pueblo County'
+p5302
+tp5303
+sS'08103'
+p5304
+(g509
+S'Rio Blanco County'
+p5305
+tp5306
+sS'48059'
+p5307
+(g22
+S'Callahan County'
+p5308
+tp5309
+sS'08109'
+p5310
+(g509
+S'Saguache County'
+p5311
+tp5312
+sS'30059'
+p5313
+(g722
+S'Meagher County'
+p5314
+tp5315
+sS'34009'
+p5316
+(g631
+S'Cape May County'
+p5317
+tp5318
+sS'72149'
+p5319
+(g89
+S'Villalba Municipio'
+p5320
+tp5321
+sS'30051'
+p5322
+(g722
+g3751
+tp5323
+sS'34003'
+p5324
+(g631
+S'Bergen County'
+p5325
+tp5326
+sS'30053'
+p5327
+(g722
+g188
+tp5328
+sS'34001'
+p5329
+(g631
+S'Atlantic County'
+p5330
+tp5331
+sS'30055'
+p5332
+(g722
+S'McCone County'
+p5333
+tp5334
+sS'34007'
+p5335
+(g631
+g3218
+tp5336
+sS'30057'
+p5337
+(g722
+g256
+tp5338
+sS'34005'
+p5339
+(g631
+S'Burlington County'
+p5340
+tp5341
+sS'18013'
+p5342
+(g549
+g635
+tp5343
+sS'16021'
+p5344
+(g2
+S'Boundary County'
+p5345
+tp5346
+sS'18011'
+p5347
+(g549
+g340
+tp5348
+sS'18017'
+p5349
+(g549
+g323
+tp5350
+sS'18015'
+p5351
+(g549
+g1314
+tp5352
+sS'18019'
+p5353
+(g549
+g831
+tp5354
+sS'28055'
+p5355
+(g1834
+S'Issaquena County'
+p5356
+tp5357
+sS'28057'
+p5358
+(g1834
+S'Itawamba County'
+p5359
+tp5360
+sS'28051'
+p5361
+(g1834
+g2668
+tp5362
+sS'28053'
+p5363
+(g1834
+S'Humphreys County'
+p5364
+tp5365
+sS'28059'
+p5366
+(g1834
+g176
+tp5367
+sS'29053'
+p5368
+(g583
+S'Cooper County'
+p5369
+tp5370
+sS'29051'
+p5371
+(g583
+S'Cole County'
+p5372
+tp5373
+sS'29057'
+p5374
+(g583
+g2326
+tp5375
+sS'29055'
+p5376
+(g583
+g276
+tp5377
+sS'72039'
+p5378
+(g89
+S'Ciales Municipio'
+p5379
+tp5380
+sS'29059'
+p5381
+(g583
+g944
+tp5382
+sS'48385'
+p5383
+(g22
+S'Real County'
+p5384
+tp5385
+sS'37119'
+p5386
+(g371
+g1262
+tp5387
+sS'72019'
+p5388
+(g89
+S'Barranquitas Municipio'
+p5389
+tp5390
+sS'66010'
+p5391
+(S'GU'
+p5392
+S'Guam'
+p5393
+tp5394
+sS'36015'
+p5395
+(g390
+S'Chemung County'
+p5396
+tp5397
+sS'72017'
+p5398
+(g89
+S'Barceloneta Municipio'
+p5399
+tp5400
+sS'13213'
+p5401
+(g118
+g1768
+tp5402
+sS'27079'
+p5403
+(g149
+S'Le Sueur County'
+p5404
+tp5405
+sS'27077'
+p5406
+(g149
+S'Lake of the Woods County'
+p5407
+tp5408
+sS'31185'
+p5409
+(g533
+g4213
+tp5410
+sS'27075'
+p5411
+(g149
+g747
+tp5412
+sS'27073'
+p5413
+(g149
+S'Lac qui Parle County'
+p5414
+tp5415
+sS'31181'
+p5416
+(g533
+g3886
+tp5417
+sS'27071'
+p5418
+(g149
+S'Koochiching County'
+p5419
+tp5420
+sS'31183'
+p5421
+(g533
+g2243
+tp5422
+sS'48481'
+p5423
+(g22
+S'Wharton County'
+p5424
+tp5425
+sS'72013'
+p5426
+(g89
+S'Arecibo Municipio'
+p5427
+tp5428
+sS'31053'
+p5429
+(g533
+g2845
+tp5430
+sS'31051'
+p5431
+(g533
+S'Dixon County'
+p5432
+tp5433
+sS'31057'
+p5434
+(g533
+S'Dundy County'
+p5435
+tp5436
+sS'35029'
+p5437
+(g1896
+S'Luna County'
+p5438
+tp5439
+sS'31055'
+p5440
+(g533
+g822
+tp5441
+sS'35027'
+p5442
+(g1896
+g188
+tp5443
+sS'35025'
+p5444
+(g1896
+S'Lea County'
+p5445
+tp5446
+sS'31059'
+p5447
+(g533
+g4865
+tp5448
+sS'35023'
+p5449
+(g1896
+g2848
+tp5450
+sS'35021'
+p5451
+(g1896
+S'Harding County'
+p5452
+tp5453
+sS'55083'
+p5454
+(g249
+S'Oconto County'
+p5455
+tp5456
+sS'55081'
+p5457
+(g249
+g2408
+tp5458
+sS'55087'
+p5459
+(g249
+S'Outagamie County'
+p5460
+tp5461
+sS'55085'
+p5462
+(g249
+g13
+tp5463
+sS'55089'
+p5464
+(g249
+S'Ozaukee County'
+p5465
+tp5466
+sS'47149'
+p5467
+(g194
+g1162
+tp5468
+sS'51690'
+p5469
+(g156
+S'Martinsville city'
+p5470
+tp5471
+sS'36019'
+p5472
+(g390
+g959
+tp5473
+sS'47141'
+p5474
+(g194
+g1183
+tp5475
+sS'47143'
+p5476
+(g194
+S'Rhea County'
+p5477
+tp5478
+sS'47145'
+p5479
+(g194
+g2803
+tp5480
+sS'47147'
+p5481
+(g194
+g3191
+tp5482
+sS'19073'
+p5483
+(g57
+g237
+tp5484
+sS'19071'
+p5485
+(g57
+g5043
+tp5486
+sS'39089'
+p5487
+(g61
+S'Licking County'
+p5488
+tp5489
+sS'19077'
+p5490
+(g57
+S'Guthrie County'
+p5491
+tp5492
+sS'19075'
+p5493
+(g57
+g3631
+tp5494
+sS'39085'
+p5495
+(g61
+g747
+tp5496
+sS'39087'
+p5497
+(g61
+g584
+tp5498
+sS'19079'
+p5499
+(g57
+g1790
+tp5500
+sS'39081'
+p5501
+(g61
+g524
+tp5502
+sS'39083'
+p5503
+(g61
+g599
+tp5504
+sS'28129'
+p5505
+(g1834
+S'Smith County'
+p5506
+tp5507
+sS'35057'
+p5508
+(g1896
+S'Torrance County'
+p5509
+tp5510
+sS'28125'
+p5511
+(g1834
+S'Sharkey County'
+p5512
+tp5513
+sS'28127'
+p5514
+(g1834
+g3863
+tp5515
+sS'28121'
+p5516
+(g1834
+S'Rankin County'
+p5517
+tp5518
+sS'28123'
+p5519
+(g1834
+g562
+tp5520
+sS'16083'
+p5521
+(g2
+S'Twin Falls County'
+p5522
+tp5523
+sS'16081'
+p5524
+(g2
+g4471
+tp5525
+sS'16087'
+p5526
+(g2
+g37
+tp5527
+sS'16085'
+p5528
+(g2
+S'Valley County'
+p5529
+tp5530
+sS'02150'
+p5531
+(g48
+S'Kodiak Island Borough'
+p5532
+tp5533
+sS'51610'
+p5534
+(g156
+S'Falls Church city'
+p5535
+tp5536
+sS'51187'
+p5537
+(g156
+g632
+tp5538
+sS'51185'
+p5539
+(g156
+g2268
+tp5540
+sS'51183'
+p5541
+(g156
+S'Sussex County'
+p5542
+tp5543
+sS'51181'
+p5544
+(g156
+g504
+tp5545
+sS'27095'
+p5546
+(g149
+S'Mille Lacs County'
+p5547
+tp5548
+sS'22093'
+p5549
+(g102
+S'St. James Parish'
+p5550
+tp5551
+sS'27097'
+p5552
+(g149
+S'Morrison County'
+p5553
+tp5554
+sS'22091'
+p5555
+(g102
+S'St. Helena Parish'
+p5556
+tp5557
+sS'27091'
+p5558
+(g149
+g1058
+tp5559
+sS'22097'
+p5560
+(g102
+S'St. Landry Parish'
+p5561
+tp5562
+sS'27093'
+p5563
+(g149
+S'Meeker County'
+p5564
+tp5565
+sS'22095'
+p5566
+(g102
+S'St. John the Baptist Parish'
+p5567
+tp5568
+sS'22099'
+p5569
+(g102
+S'St. Martin Parish'
+p5570
+tp5571
+sS'27099'
+p5572
+(g149
+S'Mower County'
+p5573
+tp5574
+sS'21045'
+p5575
+(g163
+S'Casey County'
+p5576
+tp5577
+sS'21047'
+p5578
+(g163
+S'Christian County'
+p5579
+tp5580
+sS'21041'
+p5581
+(g163
+g1314
+tp5582
+sS'21043'
+p5583
+(g163
+g1973
+tp5584
+sS'17203'
+p5585
+(g272
+g5082
+tp5586
+sS'17201'
+p5587
+(g272
+g1921
+tp5588
+sS'21049'
+p5589
+(g163
+g831
+tp5590
+sS'53023'
+p5591
+(g265
+g3432
+tp5592
+sS'48033'
+p5593
+(g22
+S'Borden County'
+p5594
+tp5595
+sS'02230'
+p5596
+(g48
+S'Skagway Municipality'
+p5597
+tp5598
+sS'48035'
+p5599
+(g22
+S'Bosque County'
+p5600
+tp5601
+sS'72005'
+p5602
+(g89
+S'Aguadilla Municipio'
+p5603
+tp5604
+sS'48037'
+p5605
+(g22
+S'Bowie County'
+p5606
+tp5607
+sS'39033'
+p5608
+(g61
+g276
+tp5609
+sS'51678'
+p5610
+(g156
+S'Lexington city'
+p5611
+tp5612
+sS'17117'
+p5613
+(g272
+S'Macoupin County'
+p5614
+tp5615
+sS'21221'
+p5616
+(g163
+S'Trigg County'
+p5617
+tp5618
+sS'17115'
+p5619
+(g272
+g1029
+tp5620
+sS'21223'
+p5621
+(g163
+S'Trimble County'
+p5622
+tp5623
+sS'05059'
+p5624
+(g285
+S'Hot Spring County'
+p5625
+tp5626
+sS'21225'
+p5627
+(g163
+g286
+tp5628
+sS'17111'
+p5629
+(g272
+S'McHenry County'
+p5630
+tp5631
+sS'21227'
+p5632
+(g163
+g632
+tp5633
+sS'05055'
+p5634
+(g285
+g237
+tp5635
+sS'21229'
+p5636
+(g163
+g37
+tp5637
+sS'05057'
+p5638
+(g285
+S'Hempstead County'
+p5639
+tp5640
+sS'53055'
+p5641
+(g265
+g1900
+tp5642
+sS'05051'
+p5643
+(g285
+S'Garland County'
+p5644
+tp5645
+sS'53053'
+p5646
+(g265
+g3398
+tp5647
+sS'05053'
+p5648
+(g285
+g1165
+tp5649
+sS'53051'
+p5650
+(g265
+S'Pend Oreille County'
+p5651
+tp5652
+sS'36099'
+p5653
+(g390
+S'Seneca County'
+p5654
+tp5655
+sS'36097'
+p5656
+(g390
+S'Schuyler County'
+p5657
+tp5658
+sS'36095'
+p5659
+(g390
+S'Schoharie County'
+p5660
+tp5661
+sS'36093'
+p5662
+(g390
+S'Schenectady County'
+p5663
+tp5664
+sS'36091'
+p5665
+(g390
+S'Saratoga County'
+p5666
+tp5667
+sS'51670'
+p5668
+(g156
+S'Hopewell city'
+p5669
+tp5670
+sS'42087'
+p5671
+(g211
+S'Mifflin County'
+p5672
+tp5673
+sS'26127'
+p5674
+(g200
+S'Oceana County'
+p5675
+tp5676
+sS'42085'
+p5677
+(g211
+g74
+tp5678
+sS'26125'
+p5679
+(g200
+S'Oakland County'
+p5680
+tp5681
+sS'42083'
+p5682
+(g211
+S'McKean County'
+p5683
+tp5684
+sS'26123'
+p5685
+(g200
+S'Newaygo County'
+p5686
+tp5687
+sS'42081'
+p5688
+(g211
+S'Lycoming County'
+p5689
+tp5690
+sS'26121'
+p5691
+(g200
+S'Muskegon County'
+p5692
+tp5693
+sS'42089'
+p5694
+(g211
+g2408
+tp5695
+sS'26129'
+p5696
+(g200
+S'Ogemaw County'
+p5697
+tp5698
+sS'20151'
+p5699
+(g351
+S'Pratt County'
+p5700
+tp5701
+sS'10005'
+p5702
+(S'DE'
+p5703
+g5542
+tp5704
+sS'16047'
+p5705
+(g2
+S'Gooding County'
+p5706
+tp5707
+sS'20155'
+p5708
+(g351
+S'Reno County'
+p5709
+tp5710
+sS'10001'
+p5711
+(g5703
+g2908
+tp5712
+sS'20157'
+p5713
+(g351
+S'Republic County'
+p5714
+tp5715
+sS'10003'
+p5716
+(g5703
+S'New Castle County'
+p5717
+tp5718
+sS'20159'
+p5719
+(g351
+g2631
+tp5720
+sS'17063'
+p5721
+(g272
+g3631
+tp5722
+sS'48423'
+p5723
+(g22
+g5506
+tp5724
+sS'17061'
+p5725
+(g272
+g237
+tp5726
+sS'17067'
+p5727
+(g272
+g2730
+tp5728
+sS'17065'
+p5729
+(g272
+g1790
+tp5730
+sS'17069'
+p5731
+(g272
+g2727
+tp5732
+sS'48421'
+p5733
+(g22
+g3987
+tp5734
+sS'56029'
+p5735
+(g815
+g986
+tp5736
+sS'30077'
+p5737
+(g722
+g4516
+tp5738
+sS'34021'
+p5739
+(g631
+g74
+tp5740
+sS'48427'
+p5741
+(g22
+S'Starr County'
+p5742
+tp5743
+sS'30075'
+p5744
+(g722
+S'Powder River County'
+p5745
+tp5746
+sS'48425'
+p5747
+(g22
+S'Somervell County'
+p5748
+tp5749
+sS'30073'
+p5750
+(g722
+S'Pondera County'
+p5751
+tp5752
+sS'49057'
+p5753
+(g947
+S'Weber County'
+p5754
+tp5755
+sS'34025'
+p5756
+(g631
+S'Monmouth County'
+p5757
+tp5758
+sS'45033'
+p5759
+(g460
+S'Dillon County'
+p5760
+tp5761
+sS'45031'
+p5762
+(g460
+S'Darlington County'
+p5763
+tp5764
+sS'45037'
+p5765
+(g460
+S'Edgefield County'
+p5766
+tp5767
+sS'30071'
+p5768
+(g722
+g897
+tp5769
+sS'45035'
+p5770
+(g460
+g4644
+tp5771
+sS'41065'
+p5772
+(g204
+S'Wasco County'
+p5773
+tp5774
+sS'45039'
+p5775
+(g460
+g3161
+tp5776
+sS'41067'
+p5777
+(g204
+g37
+tp5778
+sS'41061'
+p5779
+(g204
+g286
+tp5780
+sS'41063'
+p5781
+(g204
+S'Wallowa County'
+p5782
+tp5783
+sS'48283'
+p5784
+(g22
+S'La Salle County'
+p5785
+tp5786
+sS'48281'
+p5787
+(g22
+S'Lampasas County'
+p5788
+tp5789
+sS'48287'
+p5790
+(g22
+g461
+tp5791
+sS'48285'
+p5792
+(g22
+S'Lavaca County'
+p5793
+tp5794
+sS'34029'
+p5795
+(g631
+S'Ocean County'
+p5796
+tp5797
+sS'48289'
+p5798
+(g22
+g3757
+tp5799
+sS'13179'
+p5800
+(g118
+g3751
+tp5801
+sS'36077'
+p5802
+(g390
+g5107
+tp5803
+sS'36071'
+p5804
+(g390
+g1525
+tp5805
+sS'36073'
+p5806
+(g390
+g4275
+tp5807
+sS'37079'
+p5808
+(g371
+g237
+tp5809
+sS'13171'
+p5810
+(g118
+g2265
+tp5811
+sS'37077'
+p5812
+(g371
+S'Granville County'
+p5813
+tp5814
+sS'13173'
+p5815
+(g118
+S'Lanier County'
+p5816
+tp5817
+sS'37075'
+p5818
+(g371
+g1159
+tp5819
+sS'13175'
+p5820
+(g118
+S'Laurens County'
+p5821
+tp5822
+sS'37073'
+p5823
+(g371
+S'Gates County'
+p5824
+tp5825
+sS'13177'
+p5826
+(g118
+g461
+tp5827
+sS'37071'
+p5828
+(g371
+S'Gaston County'
+p5829
+tp5830
+sS'54057'
+p5831
+(g307
+g927
+tp5832
+sS'54055'
+p5833
+(g307
+g74
+tp5834
+sS'08009'
+p5835
+(g509
+S'Baca County'
+p5836
+tp5837
+sS'54051'
+p5838
+(g307
+g1751
+tp5839
+sS'08005'
+p5840
+(g509
+S'Arapahoe County'
+p5841
+tp5842
+sS'08007'
+p5843
+(g509
+S'Archuleta County'
+p5844
+tp5845
+sS'32021'
+p5846
+(g179
+g927
+tp5847
+sS'08001'
+p5848
+(g509
+g2078
+tp5849
+sS'08003'
+p5850
+(g509
+S'Alamosa County'
+p5851
+tp5852
+sS'38051'
+p5853
+(g1328
+g1035
+tp5854
+sS'38053'
+p5855
+(g1328
+S'McKenzie County'
+p5856
+tp5857
+sS'04019'
+p5858
+(g5250
+S'Pima County'
+p5859
+tp5860
+sS'38055'
+p5861
+(g1328
+S'McLean County'
+p5862
+tp5863
+sS'29197'
+p5864
+(g583
+g5657
+tp5865
+sS'38057'
+p5866
+(g1328
+g74
+tp5867
+sS'29195'
+p5868
+(g583
+g2775
+tp5869
+sS'04012'
+p5870
+(g5250
+S'La Paz County'
+p5871
+tp5872
+sS'04013'
+p5873
+(g5250
+S'Maricopa County'
+p5874
+tp5875
+sS'04011'
+p5876
+(g5250
+S'Greenlee County'
+p5877
+tp5878
+sS'04017'
+p5879
+(g5250
+S'Navajo County'
+p5880
+tp5881
+sS'04015'
+p5882
+(g5250
+S'Mohave County'
+p5883
+tp5884
+sS'42117'
+p5885
+(g211
+g2352
+tp5886
+sS'13005'
+p5887
+(g118
+S'Bacon County'
+p5888
+tp5889
+sS'13007'
+p5890
+(g118
+g205
+tp5891
+sS'13001'
+p5892
+(g118
+S'Appling County'
+p5893
+tp5894
+sS'13003'
+p5895
+(g118
+S'Atkinson County'
+p5896
+tp5897
+sS'19183'
+p5898
+(g57
+g37
+tp5899
+sS'40009'
+p5900
+(g44
+S'Beckham County'
+p5901
+tp5902
+sS'13009'
+p5903
+(g118
+S'Baldwin County'
+p5904
+tp5905
+sS'19181'
+p5906
+(g57
+g632
+tp5907
+sS'30043'
+p5908
+(g722
+g524
+tp5909
+sS'30041'
+p5910
+(g722
+g1136
+tp5911
+sS'30047'
+p5912
+(g722
+g747
+tp5913
+sS'19187'
+p5914
+(g57
+g3886
+tp5915
+sS'72007'
+p5916
+(g89
+S'Aguas Buenas Municipio'
+p5917
+tp5918
+sS'18009'
+p5919
+(g549
+S'Blackford County'
+p5920
+tp5921
+sS'40101'
+p5922
+(g44
+S'Muskogee County'
+p5923
+tp5924
+sS'18005'
+p5925
+(g549
+S'Bartholomew County'
+p5926
+tp5927
+sS'19185'
+p5928
+(g57
+g1354
+tp5929
+sS'18001'
+p5930
+(g549
+g2078
+tp5931
+sS'18003'
+p5932
+(g549
+g4372
+tp5933
+sS'20205'
+p5934
+(g351
+g1802
+tp5935
+sS'20207'
+p5936
+(g351
+S'Woodson County'
+p5937
+tp5938
+sS'40103'
+p5939
+(g44
+S'Noble County'
+p5940
+tp5941
+sS'20201'
+p5942
+(g351
+g37
+tp5943
+sS'20203'
+p5944
+(g351
+g3530
+tp5945
+sS'28029'
+p5946
+(g1834
+S'Copiah County'
+p5947
+tp5948
+sS'45091'
+p5949
+(g460
+g4213
+tp5950
+sS'37133'
+p5951
+(g371
+S'Onslow County'
+p5952
+tp5953
+sS'20209'
+p5954
+(g351
+S'Wyandotte County'
+p5955
+tp5956
+sS'40105'
+p5957
+(g44
+S'Nowata County'
+p5958
+tp5959
+sS'37107'
+p5960
+(g371
+S'Lenoir County'
+p5961
+tp5962
+sS'37105'
+p5963
+(g371
+g461
+tp5964
+sS'29049'
+p5965
+(g583
+g959
+tp5966
+sS'37101'
+p5967
+(g371
+g2184
+tp5968
+sS'29045'
+p5969
+(g583
+g831
+tp5970
+sS'29047'
+p5971
+(g583
+g216
+tp5972
+sS'72049'
+p5973
+(g89
+S'Culebra Municipio'
+p5974
+tp5975
+sS'29041'
+p5976
+(g583
+S'Chariton County'
+p5977
+tp5978
+sS'29510'
+p5979
+(g583
+S'St. Louis city'
+p5980
+tp5981
+sS'29043'
+p5982
+(g583
+g5579
+tp5983
+sS'27069'
+p5984
+(g149
+S'Kittson County'
+p5985
+tp5986
+sS'51515'
+p5987
+(g156
+S'Bedford city'
+p5988
+tp5989
+sS'27061'
+p5990
+(g149
+S'Itasca County'
+p5991
+tp5992
+sS'27063'
+p5993
+(g149
+g176
+tp5994
+sS'27065'
+p5995
+(g149
+S'Kanabec County'
+p5996
+tp5997
+sS'27067'
+p5998
+(g149
+S'Kandiyohi County'
+p5999
+tp6000
+sS'34037'
+p6001
+(g631
+g5542
+tp6002
+sS'35039'
+p6003
+(g1896
+S'Rio Arriba County'
+p6004
+tp6005
+sS'34035'
+p6006
+(g631
+g3476
+tp6007
+sS'34033'
+p6008
+(g631
+S'Salem County'
+p6009
+tp6010
+sS'31069'
+p6011
+(g533
+S'Garden County'
+p6012
+tp6013
+sS'31067'
+p6014
+(g533
+S'Gage County'
+p6015
+tp6016
+sS'35031'
+p6017
+(g1896
+S'McKinley County'
+p6018
+tp6019
+sS'31065'
+p6020
+(g533
+S'Furnas County'
+p6021
+tp6022
+sS'35033'
+p6023
+(g1896
+S'Mora County'
+p6024
+tp6025
+sS'31063'
+p6026
+(g533
+S'Frontier County'
+p6027
+tp6028
+sS'35035'
+p6029
+(g1896
+g1253
+tp6030
+sS'31061'
+p6031
+(g533
+g1009
+tp6032
+sS'35037'
+p6033
+(g1896
+S'Quay County'
+p6034
+tp6035
+sS'51021'
+p6036
+(g156
+S'Bland County'
+p6037
+tp6038
+sS'02090'
+p6039
+(g48
+S'Fairbanks North Star Borough'
+p6040
+tp6041
+sS'55099'
+p6042
+(g249
+S'Price County'
+p6043
+tp6044
+sS'06089'
+p6045
+(g26
+S'Shasta County'
+p6046
+tp6047
+sS'55015'
+p6048
+(g249
+S'Calumet County'
+p6049
+tp6050
+sS'19191'
+p6051
+(g57
+S'Winneshiek County'
+p6052
+tp6053
+sS'55095'
+p6054
+(g249
+g83
+tp6055
+sS'19193'
+p6056
+(g57
+S'Woodbury County'
+p6057
+tp6058
+sS'55097'
+p6059
+(g249
+S'Portage County'
+p6060
+tp6061
+sS'19195'
+p6062
+(g57
+g5087
+tp6063
+sS'51023'
+p6064
+(g156
+S'Botetourt County'
+p6065
+tp6066
+sS'19197'
+p6067
+(g57
+g153
+tp6068
+sS'55093'
+p6069
+(g249
+g3398
+tp6070
+sS'31085'
+p6071
+(g533
+S'Hayes County'
+p6072
+tp6073
+sS'31087'
+p6074
+(g533
+S'Hitchcock County'
+p6075
+tp6076
+sS'47159'
+p6077
+(g194
+g5506
+tp6078
+sS'31081'
+p6079
+(g533
+g1790
+tp6080
+sS'31083'
+p6081
+(g533
+g2724
+tp6082
+sS'46037'
+p6083
+(g40
+S'Day County'
+p6084
+tp6085
+sS'47153'
+p6086
+(g194
+S'Sequatchie County'
+p6087
+tp6088
+sS'47151'
+p6089
+(g194
+g562
+tp6090
+sS'31089'
+p6091
+(g533
+g4641
+tp6092
+sS'47157'
+p6093
+(g194
+g431
+tp6094
+sS'47155'
+p6095
+(g194
+g295
+tp6096
+sS'29181'
+p6097
+(g583
+S'Ripley County'
+p6098
+tp6099
+sS'46035'
+p6100
+(g40
+S'Davison County'
+p6101
+tp6102
+sS'51027'
+p6103
+(g156
+g4352
+tp6104
+sS'19049'
+p6105
+(g57
+g944
+tp6106
+sS'39099'
+p6107
+(g61
+S'Mahoning County'
+p6108
+tp6109
+sS'19047'
+p6110
+(g57
+g276
+tp6111
+sS'39097'
+p6112
+(g61
+g256
+tp6113
+sS'19045'
+p6114
+(g57
+g959
+tp6115
+sS'39095'
+p6116
+(g61
+g2568
+tp6117
+sS'19043'
+p6118
+(g57
+g1094
+tp6119
+sS'39093'
+p6120
+(g61
+S'Lorain County'
+p6121
+tp6122
+sS'19041'
+p6123
+(g57
+g216
+tp6124
+sS'39091'
+p6125
+(g61
+g1150
+tp6126
+sS'28159'
+p6127
+(g1834
+S'Winston County'
+p6128
+tp6129
+sS'51029'
+p6130
+(g156
+S'Buckingham County'
+p6131
+tp6132
+sS'54069'
+p6133
+(g307
+g3889
+tp6134
+sS'39149'
+p6135
+(g61
+g431
+tp6136
+sS'28151'
+p6137
+(g1834
+g37
+tp6138
+sS'28153'
+p6139
+(g1834
+g1354
+tp6140
+sS'46031'
+p6141
+(g40
+S'Corson County'
+p6142
+tp6143
+sS'28155'
+p6144
+(g1834
+g3886
+tp6145
+sS'28157'
+p6146
+(g1834
+g3321
+tp6147
+sS'38023'
+p6148
+(g1328
+S'Divide County'
+p6149
+tp6150
+sS'48379'
+p6151
+(g22
+S'Rains County'
+p6152
+tp6153
+sS'55019'
+p6154
+(g249
+g831
+tp6155
+sS'29189'
+p6156
+(g583
+g2637
+tp6157
+sS'05129'
+p6158
+(g285
+S'Searcy County'
+p6159
+tp6160
+sS'39147'
+p6161
+(g61
+g5654
+tp6162
+sS'36059'
+p6163
+(g390
+g4533
+tp6164
+sS'48049'
+p6165
+(g22
+g635
+tp6166
+sS'54067'
+p6167
+(g307
+g3883
+tp6168
+sS'27087'
+p6169
+(g149
+S'Mahnomen County'
+p6170
+tp6171
+sS'27085'
+p6172
+(g149
+S'McLeod County'
+p6173
+tp6174
+sS'27083'
+p6175
+(g149
+g197
+tp6176
+sS'27081'
+p6177
+(g149
+g188
+tp6178
+sS'51730'
+p6179
+(g156
+S'Petersburg city'
+p6180
+tp6181
+sS'40061'
+p6182
+(g44
+g992
+tp6183
+sS'48371'
+p6184
+(g22
+S'Pecos County'
+p6185
+tp6186
+sS'27089'
+p6187
+(g149
+g1751
+tp6188
+sS'21031'
+p6189
+(g163
+g1424
+tp6190
+sS'21033'
+p6191
+(g163
+g1322
+tp6192
+sS'21035'
+p6193
+(g163
+S'Calloway County'
+p6194
+tp6195
+sS'21037'
+p6196
+(g163
+g1287
+tp6197
+sS'21039'
+p6198
+(g163
+S'Carlisle County'
+p6199
+tp6200
+sS'48377'
+p6201
+(g22
+S'Presidio County'
+p6202
+tp6203
+sS'22045'
+p6204
+(g102
+S'Iberia Parish'
+p6205
+tp6206
+sS'39111'
+p6207
+(g61
+g2408
+tp6208
+sS'22047'
+p6209
+(g102
+S'Iberville Parish'
+p6210
+tp6211
+sS'22041'
+p6212
+(g102
+S'Franklin Parish'
+p6213
+tp6214
+sS'05123'
+p6215
+(g285
+S'St. Francis County'
+p6216
+tp6217
+sS'22043'
+p6218
+(g102
+S'Grant Parish'
+p6219
+tp6220
+sS'25027'
+p6221
+(S'MA'
+p6222
+S'Worcester County'
+p6223
+tp6224
+sS'25025'
+p6225
+(g6222
+g4541
+tp6226
+sS'22049'
+p6227
+(g102
+S'Jackson Parish'
+p6228
+tp6229
+sS'25023'
+p6230
+(g6222
+g688
+tp6231
+sS'25021'
+p6232
+(g6222
+S'Norfolk County'
+p6233
+tp6234
+sS'06065'
+p6235
+(g26
+S'Riverside County'
+p6236
+tp6237
+sS'06067'
+p6238
+(g26
+S'Sacramento County'
+p6239
+tp6240
+sS'06061'
+p6241
+(g26
+S'Placer County'
+p6242
+tp6243
+sS'06063'
+p6244
+(g26
+S'Plumas County'
+p6245
+tp6246
+sS'06069'
+p6247
+(g26
+S'San Benito County'
+p6248
+tp6249
+sS'51640'
+p6250
+(g156
+S'Galax city'
+p6251
+tp6252
+sS'37169'
+p6253
+(g371
+S'Stokes County'
+p6254
+tp6255
+sS'56015'
+p6256
+(g815
+S'Goshen County'
+p6257
+tp6258
+sS'17101'
+p6259
+(g272
+g584
+tp6260
+sS'53069'
+p6261
+(g265
+S'Wahkiakum County'
+p6262
+tp6263
+sS'17103'
+p6264
+(g272
+g461
+tp6265
+sS'56011'
+p6266
+(g815
+S'Crook County'
+p6267
+tp6268
+sS'17105'
+p6269
+(g272
+g1275
+tp6270
+sS'56013'
+p6271
+(g815
+g5043
+tp6272
+sS'17107'
+p6273
+(g272
+g1150
+tp6274
+sS'53063'
+p6275
+(g265
+S'Spokane County'
+p6276
+tp6277
+sS'17109'
+p6278
+(g272
+S'McDonough County'
+p6279
+tp6280
+sS'53061'
+p6281
+(g265
+S'Snohomish County'
+p6282
+tp6283
+sS'05045'
+p6284
+(g285
+S'Faulkner County'
+p6285
+tp6286
+sS'53067'
+p6287
+(g265
+S'Thurston County'
+p6288
+tp6289
+sS'05043'
+p6290
+(g285
+S'Drew County'
+p6291
+tp6292
+sS'53065'
+p6293
+(g265
+g784
+tp6294
+sS'05041'
+p6295
+(g285
+S'Desha County'
+p6296
+tp6297
+sS'36089'
+p6298
+(g390
+S'St. Lawrence County'
+p6299
+tp6300
+sS'21149'
+p6301
+(g163
+g5862
+tp6302
+sS'17145'
+p6303
+(g272
+g900
+tp6304
+sS'21145'
+p6305
+(g163
+S'McCracken County'
+p6306
+tp6307
+sS'36081'
+p6308
+(g390
+S'Queens County'
+p6309
+tp6310
+sS'21147'
+p6311
+(g163
+S'McCreary County'
+p6312
+tp6313
+sS'36083'
+p6314
+(g390
+S'Rensselaer County'
+p6315
+tp6316
+sS'21141'
+p6317
+(g163
+g1150
+tp6318
+sS'36085'
+p6319
+(g390
+g2339
+tp6320
+sS'21143'
+p6321
+(g163
+g197
+tp6322
+sS'36087'
+p6323
+(g390
+S'Rockland County'
+p6324
+tp6325
+sS'17147'
+p6326
+(g272
+S'Piatt County'
+p6327
+tp6328
+sS'40075'
+p6329
+(g44
+g1212
+tp6330
+sS'48291'
+p6331
+(g22
+g3751
+tp6332
+sS'17141'
+p6333
+(g272
+S'Ogle County'
+p6334
+tp6335
+sS'26113'
+p6336
+(g200
+S'Missaukee County'
+p6337
+tp6338
+sS'42091'
+p6339
+(g211
+g602
+tp6340
+sS'26111'
+p6341
+(g200
+g2800
+tp6342
+sS'40077'
+p6343
+(g44
+S'Latimer County'
+p6344
+tp6345
+sS'26117'
+p6346
+(g200
+S'Montcalm County'
+p6347
+tp6348
+sS'42095'
+p6349
+(g211
+g1522
+tp6350
+sS'26115'
+p6351
+(g200
+g2408
+tp6352
+sS'42097'
+p6353
+(g211
+g1519
+tp6354
+sS'49019'
+p6355
+(g947
+S'Grand County'
+p6356
+tp6357
+sS'42099'
+p6358
+(g211
+g900
+tp6359
+sS'26119'
+p6360
+(g200
+S'Montmorency County'
+p6361
+tp6362
+sS'17143'
+p6363
+(g272
+S'Peoria County'
+p6364
+tp6365
+sS'40071'
+p6366
+(g44
+S'Kay County'
+p6367
+tp6368
+sS'20143'
+p6369
+(g351
+g2498
+tp6370
+sS'20141'
+p6371
+(g351
+S'Osborne County'
+p6372
+tp6373
+sS'20147'
+p6374
+(g351
+g897
+tp6375
+sS'20145'
+p6376
+(g351
+g4677
+tp6377
+sS'46135'
+p6378
+(g40
+S'Yankton County'
+p6379
+tp6380
+sS'20149'
+p6381
+(g351
+S'Pottawatomie County'
+p6382
+tp6383
+sS'17079'
+p6384
+(g272
+g3614
+tp6385
+sS'17075'
+p6386
+(g272
+S'Iroquois County'
+p6387
+tp6388
+sS'17077'
+p6389
+(g272
+g176
+tp6390
+sS'17071'
+p6391
+(g272
+g164
+tp6392
+sS'17073'
+p6393
+(g272
+g167
+tp6394
+sS'51019'
+p6395
+(g156
+g2150
+tp6396
+sS'40079'
+p6397
+(g44
+S'Le Flore County'
+p6398
+tp6399
+sS'48413'
+p6400
+(g22
+S'Schleicher County'
+p6401
+tp6402
+sS'41019'
+p6403
+(g204
+g822
+tp6404
+sS'45029'
+p6405
+(g460
+S'Colleton County'
+p6406
+tp6407
+sS'41011'
+p6408
+(g204
+S'Coos County'
+p6409
+tp6410
+sS'45025'
+p6411
+(g460
+g2016
+tp6412
+sS'41013'
+p6413
+(g204
+g6267
+tp6414
+sS'45027'
+p6415
+(g460
+S'Clarendon County'
+p6416
+tp6417
+sS'41015'
+p6418
+(g204
+g4301
+tp6419
+sS'45021'
+p6420
+(g460
+g477
+tp6421
+sS'41017'
+p6422
+(g204
+S'Deschutes County'
+p6423
+tp6424
+sS'45023'
+p6425
+(g460
+g858
+tp6426
+sS'24047'
+p6427
+(g2885
+g6223
+tp6428
+sS'24045'
+p6429
+(g2885
+S'Wicomico County'
+p6430
+tp6431
+sS'24043'
+p6432
+(g2885
+g37
+tp6433
+sS'48299'
+p6434
+(g22
+S'Llano County'
+p6435
+tp6436
+sS'24041'
+p6437
+(g2885
+g1117
+tp6438
+sS'29219'
+p6439
+(g583
+g632
+tp6440
+sS'48295'
+p6441
+(g22
+S'Lipscomb County'
+p6442
+tp6443
+sS'40031'
+p6444
+(g44
+g23
+tp6445
+sS'53025'
+p6446
+(g265
+g1165
+tp6447
+sS'42133'
+p6448
+(g211
+g4213
+tp6449
+sS'48293'
+p6450
+(g22
+g2920
+tp6451
+sS'51045'
+p6452
+(g156
+g3710
+tp6453
+sS'53013'
+p6454
+(g265
+g403
+tp6455
+sS'36067'
+p6456
+(g390
+S'Onondaga County'
+p6457
+tp6458
+sS'37049'
+p6459
+(g371
+S'Craven County'
+p6460
+tp6461
+sS'13169'
+p6462
+(g118
+g1957
+tp6463
+sS'36063'
+p6464
+(g390
+S'Niagara County'
+p6465
+tp6466
+sS'36061'
+p6467
+(g390
+S'New York County'
+p6468
+tp6469
+sS'37043'
+p6470
+(g371
+g216
+tp6471
+sS'13163'
+p6472
+(g118
+g524
+tp6473
+sS'37041'
+p6474
+(g371
+S'Chowan County'
+p6475
+tp6476
+sS'13161'
+p6477
+(g118
+g4581
+tp6478
+sS'37047'
+p6479
+(g371
+S'Columbus County'
+p6480
+tp6481
+sS'13167'
+p6482
+(g118
+g596
+tp6483
+sS'37045'
+p6484
+(g371
+g106
+tp6485
+sS'13165'
+p6486
+(g118
+S'Jenkins County'
+p6487
+tp6488
+sS'04027'
+p6489
+(g5250
+g4012
+tp6490
+sS'54041'
+p6491
+(g307
+g773
+tp6492
+sS'04025'
+p6493
+(g5250
+S'Yavapai County'
+p6494
+tp6495
+sS'54043'
+p6496
+(g307
+g188
+tp6497
+sS'04023'
+p6498
+(g5250
+g2072
+tp6499
+sS'54045'
+p6500
+(g307
+g1150
+tp6501
+sS'04021'
+p6502
+(g5250
+S'Pinal County'
+p6503
+tp6504
+sS'08019'
+p6505
+(g509
+S'Clear Creek County'
+p6506
+tp6507
+sS'08017'
+p6508
+(g509
+g3469
+tp6509
+sS'08014'
+p6510
+(g509
+S'Broomfield County'
+p6511
+tp6512
+sS'08015'
+p6513
+(g509
+S'Chaffee County'
+p6514
+tp6515
+sS'08013'
+p6516
+(g509
+S'Boulder County'
+p6517
+tp6518
+sS'08011'
+p6519
+(g509
+S'Bent County'
+p6520
+tp6521
+sS'38043'
+p6522
+(g1328
+S'Kidder County'
+p6523
+tp6524
+sS'38041'
+p6525
+(g1328
+S'Hettinger County'
+p6526
+tp6527
+sS'38047'
+p6528
+(g1328
+g1150
+tp6529
+sS'38045'
+p6530
+(g1328
+S'LaMoure County'
+p6531
+tp6532
+sS'38049'
+p6533
+(g1328
+g5630
+tp6534
+sS'13017'
+p6535
+(g118
+S'Ben Hill County'
+p6536
+tp6537
+sS'13015'
+p6538
+(g118
+S'Bartow County'
+p6539
+tp6540
+sS'13013'
+p6541
+(g118
+S'Barrow County'
+p6542
+tp6543
+sS'30109'
+p6544
+(g722
+S'Wibaux County'
+p6545
+tp6546
+sS'13011'
+p6547
+(g118
+S'Banks County'
+p6548
+tp6549
+sS'30107'
+p6550
+(g722
+S'Wheatland County'
+p6551
+tp6552
+sS'30105'
+p6553
+(g722
+g5529
+tp6554
+sS'40019'
+p6555
+(g44
+g1973
+tp6556
+sS'30103'
+p6557
+(g722
+S'Treasure County'
+p6558
+tp6559
+sS'30101'
+p6560
+(g722
+S'Toole County'
+p6561
+tp6562
+sS'13019'
+p6563
+(g118
+g317
+tp6564
+sS'18079'
+p6565
+(g549
+S'Jennings County'
+p6566
+tp6567
+sS'18071'
+p6568
+(g549
+g176
+tp6569
+sS'18073'
+p6570
+(g549
+g3614
+tp6571
+sS'18075'
+p6572
+(g549
+S'Jay County'
+p6573
+tp6574
+sS'46107'
+p6575
+(g40
+S'Potter County'
+p6576
+tp6577
+sS'18077'
+p6578
+(g549
+g524
+tp6579
+sS'28033'
+p6580
+(g1834
+g2126
+tp6581
+sS'28031'
+p6582
+(g1834
+S'Covington County'
+p6583
+tp6584
+sS'28037'
+p6585
+(g1834
+g1009
+tp6586
+sS'28035'
+p6587
+(g1834
+S'Forrest County'
+p6588
+tp6589
+sS'48189'
+p6590
+(g22
+g2788
+tp6591
+sS'28039'
+p6592
+(g1834
+S'George County'
+p6593
+tp6594
+sS'29039'
+p6595
+(g583
+g3169
+tp6596
+sS'37131'
+p6597
+(g371
+g1522
+tp6598
+sS'37137'
+p6599
+(g371
+S'Pamlico County'
+p6600
+tp6601
+sS'37135'
+p6602
+(g371
+g1525
+tp6603
+sS'29031'
+p6604
+(g583
+S'Cape Girardeau County'
+p6605
+tp6606
+sS'29033'
+p6607
+(g583
+g1314
+tp6608
+sS'29035'
+p6609
+(g583
+g1973
+tp6610
+sS'29037'
+p6611
+(g583
+g323
+tp6612
+sS'47099'
+p6613
+(g194
+g584
+tp6614
+sS'47093'
+p6615
+(g194
+g599
+tp6616
+sS'47091'
+p6617
+(g194
+g596
+tp6618
+sS'47097'
+p6619
+(g194
+g2262
+tp6620
+sS'47095'
+p6621
+(g194
+g747
+tp6622
+sS'40037'
+p6623
+(g44
+S'Creek County'
+p6624
+tp6625
+sS'18105'
+p6626
+(g549
+g2408
+tp6627
+sS'16037'
+p6628
+(g2
+g2971
+tp6629
+sS'18107'
+p6630
+(g549
+g602
+tp6631
+sS'18101'
+p6632
+(g549
+g1058
+tp6633
+sS'18103'
+p6634
+(g549
+g62
+tp6635
+sS'39035'
+p6636
+(g61
+S'Cuyahoga County'
+p6637
+tp6638
+sS'18109'
+p6639
+(g549
+g1233
+tp6640
+sS'19027'
+p6641
+(g57
+g1314
+tp6642
+sS'51071'
+p6643
+(g156
+g4221
+tp6644
+sS'39037'
+p6645
+(g61
+S'Darke County'
+p6646
+tp6647
+sS'16033'
+p6648
+(g2
+g831
+tp6649
+sS'39031'
+p6650
+(g61
+S'Coshocton County'
+p6651
+tp6652
+sS'29145'
+p6653
+(g583
+g894
+tp6654
+sS'31079'
+p6655
+(g533
+g3495
+tp6656
+sS'29147'
+p6657
+(g583
+S'Nodaway County'
+p6658
+tp6659
+sS'34023'
+p6660
+(g631
+g1311
+tp6661
+sS'29141'
+p6662
+(g583
+g1233
+tp6663
+sS'16031'
+p6664
+(g2
+S'Cassia County'
+p6665
+tp6666
+sS'29143'
+p6667
+(g583
+S'New Madrid County'
+p6668
+tp6669
+sS'34027'
+p6670
+(g631
+g2719
+tp6671
+sS'31071'
+p6672
+(g533
+g3432
+tp6673
+sS'31073'
+p6674
+(g533
+S'Gosper County'
+p6675
+tp6676
+sS'29149'
+p6677
+(g583
+S'Oregon County'
+p6678
+tp6679
+sS'31075'
+p6680
+(g533
+g1165
+tp6681
+sS'30079'
+p6682
+(g722
+g1664
+tp6683
+sS'31077'
+p6684
+(g533
+g1799
+tp6685
+sS'47167'
+p6686
+(g194
+g1236
+tp6687
+sS'06099'
+p6688
+(g26
+S'Stanislaus County'
+p6689
+tp6690
+sS'47165'
+p6691
+(g194
+S'Sumner County'
+p6692
+tp6693
+sS'19189'
+p6694
+(g57
+g1921
+tp6695
+sS'47163'
+p6696
+(g194
+g1247
+tp6697
+sS'47161'
+p6698
+(g194
+g2854
+tp6699
+sS'06091'
+p6700
+(g26
+g2489
+tp6701
+sS'06093'
+p6702
+(g26
+S'Siskiyou County'
+p6703
+tp6704
+sS'06095'
+p6705
+(g26
+S'Solano County'
+p6706
+tp6707
+sS'47169'
+p6708
+(g194
+S'Trousdale County'
+p6709
+tp6710
+sS'06097'
+p6711
+(g26
+S'Sonoma County'
+p6712
+tp6713
+sS'31097'
+p6714
+(g533
+g596
+tp6715
+sS'31095'
+p6716
+(g533
+g524
+tp6717
+sS'31093'
+p6718
+(g533
+g2891
+tp6719
+sS'31091'
+p6720
+(g533
+S'Hooker County'
+p6721
+tp6722
+sS'31099'
+p6723
+(g533
+S'Kearney County'
+p6724
+tp6725
+sS'19059'
+p6726
+(g57
+g1594
+tp6727
+sS'55039'
+p6728
+(g249
+S'Fond du Lac County'
+p6729
+tp6730
+sS'49021'
+p6731
+(g947
+g3272
+tp6732
+sS'19051'
+p6733
+(g57
+g3765
+tp6734
+sS'19053'
+p6735
+(g57
+g673
+tp6736
+sS'19055'
+p6737
+(g57
+g409
+tp6738
+sS'19057'
+p6739
+(g57
+S'Des Moines County'
+p6740
+tp6741
+sS'31141'
+p6742
+(g533
+S'Platte County'
+p6743
+tp6744
+sS'28149'
+p6745
+(g1834
+g632
+tp6746
+sS'51740'
+p6747
+(g156
+S'Portsmouth city'
+p6748
+tp6749
+sS'28143'
+p6750
+(g1834
+S'Tunica County'
+p6751
+tp6752
+sS'28141'
+p6753
+(g1834
+S'Tishomingo County'
+p6754
+tp6755
+sS'28147'
+p6756
+(g1834
+S'Walthall County'
+p6757
+tp6758
+sS'28145'
+p6759
+(g1834
+g286
+tp6760
+sS'37113'
+p6761
+(g371
+g1029
+tp6762
+sS'37031'
+p6763
+(g371
+S'Carteret County'
+p6764
+tp6765
+sS'72131'
+p6766
+(g89
+S'San Sebastian Municipio'
+p6767
+tp6768
+sS'22123'
+p6769
+(g102
+S'West Carroll Parish'
+p6770
+tp6771
+sS'22121'
+p6772
+(g102
+S'West Baton Rouge Parish'
+p6773
+tp6774
+sS'22127'
+p6775
+(g102
+S'Winn Parish'
+p6776
+tp6777
+sS'22125'
+p6778
+(g102
+S'West Feliciana Parish'
+p6779
+tp6780
+sS'02170'
+p6781
+(g48
+S'Matanuska-Susitna Borough'
+p6782
+tp6783
+sS'31143'
+p6784
+(g533
+g83
+tp6785
+sS'72135'
+p6786
+(g89
+S'Toa Alta Municipio'
+p6787
+tp6788
+sS'39135'
+p6789
+(g61
+S'Preble County'
+p6790
+tp6791
+sS'39137'
+p6792
+(g61
+g1183
+tp6793
+sS'39131'
+p6794
+(g61
+g888
+tp6795
+sS'39133'
+p6796
+(g61
+g6060
+tp6797
+sS'51720'
+p6798
+(g156
+S'Norton city'
+p6799
+tp6800
+sS'72137'
+p6801
+(g89
+S'Toa Baja Municipio'
+p6802
+tp6803
+sS'39139'
+p6804
+(g61
+g1297
+tp6805
+sS'21023'
+p6806
+(g163
+S'Bracken County'
+p6807
+tp6808
+sS'21021'
+p6809
+(g163
+S'Boyle County'
+p6810
+tp6811
+sS'21027'
+p6812
+(g163
+S'Breckinridge County'
+p6813
+tp6814
+sS'21025'
+p6815
+(g163
+S'Breathitt County'
+p6816
+tp6817
+sS'21029'
+p6818
+(g163
+S'Bullitt County'
+p6819
+tp6820
+sS'22057'
+p6821
+(g102
+S'Lafourche Parish'
+p6822
+tp6823
+sS'25019'
+p6824
+(g6222
+S'Nantucket County'
+p6825
+tp6826
+sS'22055'
+p6827
+(g102
+S'Lafayette Parish'
+p6828
+tp6829
+sS'22053'
+p6830
+(g102
+S'Jefferson Davis Parish'
+p6831
+tp6832
+sS'22051'
+p6833
+(g102
+S'Jefferson Parish'
+p6834
+tp6835
+sS'25013'
+p6836
+(g6222
+S'Hampden County'
+p6837
+tp6838
+sS'25011'
+p6839
+(g6222
+g1009
+tp6840
+sS'25017'
+p6841
+(g6222
+g1311
+tp6842
+sS'25015'
+p6843
+(g6222
+g308
+tp6844
+sS'22059'
+p6845
+(g102
+S'La Salle Parish'
+p6846
+tp6847
+sS'06077'
+p6848
+(g26
+S'San Joaquin County'
+p6849
+tp6850
+sS'06075'
+p6851
+(g26
+S'San Francisco County'
+p6852
+tp6853
+sS'06073'
+p6854
+(g26
+S'San Diego County'
+p6855
+tp6856
+sS'06071'
+p6857
+(g26
+S'San Bernardino County'
+p6858
+tp6859
+sS'31145'
+p6860
+(g533
+S'Red Willow County'
+p6861
+tp6862
+sS'06079'
+p6863
+(g26
+S'San Luis Obispo County'
+p6864
+tp6865
+sS'48271'
+p6866
+(g22
+S'Kinney County'
+p6867
+tp6868
+sS'51650'
+p6869
+(g156
+S'Hampton city'
+p6870
+tp6871
+sS'56007'
+p6872
+(g815
+g846
+tp6873
+sS'05079'
+p6874
+(g285
+g188
+tp6875
+sS'56005'
+p6876
+(g815
+g1287
+tp6877
+sS'56003'
+p6878
+(g815
+g3567
+tp6879
+sS'56001'
+p6880
+(g815
+g2308
+tp6881
+sS'05073'
+p6882
+(g285
+g608
+tp6883
+sS'05071'
+p6884
+(g285
+g596
+tp6885
+sS'05077'
+p6886
+(g285
+g461
+tp6887
+sS'53031'
+p6888
+(g265
+g524
+tp6889
+sS'05075'
+p6890
+(g285
+g584
+tp6891
+sS'56009'
+p6892
+(g815
+S'Converse County'
+p6893
+tp6894
+sS'48183'
+p6895
+(g22
+S'Gregg County'
+p6896
+tp6897
+sS'21159'
+p6898
+(g163
+g1058
+tp6899
+sS'21157'
+p6900
+(g163
+g1751
+tp6901
+sS'21155'
+p6902
+(g163
+g80
+tp6903
+sS'21153'
+p6904
+(g163
+S'Magoffin County'
+p6905
+tp6906
+sS'21151'
+p6907
+(g163
+g256
+tp6908
+sS'48279'
+p6909
+(g22
+S'Lamb County'
+p6910
+tp6911
+sS'31147'
+p6912
+(g533
+S'Richardson County'
+p6913
+tp6914
+sS'46121'
+p6915
+(g40
+g1456
+tp6916
+sS'49003'
+p6917
+(g947
+S'Box Elder County'
+p6918
+tp6919
+sS'49001'
+p6920
+(g947
+g1541
+tp6921
+sS'42069'
+p6922
+(g211
+S'Lackawanna County'
+p6923
+tp6924
+sS'26109'
+p6925
+(g200
+S'Menominee County'
+p6926
+tp6927
+sS'49005'
+p6928
+(g947
+S'Cache County'
+p6929
+tp6930
+sS'42065'
+p6931
+(g211
+g524
+tp6932
+sS'26105'
+p6933
+(g200
+g1061
+tp6934
+sS'42067'
+p6935
+(g211
+S'Juniata County'
+p6936
+tp6937
+sS'26107'
+p6938
+(g200
+S'Mecosta County'
+p6939
+tp6940
+sS'42061'
+p6941
+(g211
+S'Huntingdon County'
+p6942
+tp6943
+sS'26101'
+p6944
+(g200
+S'Manistee County'
+p6945
+tp6946
+sS'42063'
+p6947
+(g211
+S'Indiana County'
+p6948
+tp6949
+sS'26103'
+p6950
+(g200
+g3644
+tp6951
+sS'48359'
+p6952
+(g22
+g3894
+tp6953
+sS'40107'
+p6954
+(g44
+S'Okfuskee County'
+p6955
+tp6956
+sS'20179'
+p6957
+(g351
+S'Sheridan County'
+p6958
+tp6959
+sS'20177'
+p6960
+(g351
+S'Shawnee County'
+p6961
+tp6962
+sS'53033'
+p6963
+(g265
+g3295
+tp6964
+sS'20175'
+p6965
+(g351
+g3602
+tp6966
+sS'20173'
+p6967
+(g351
+g4611
+tp6968
+sS'20171'
+p6969
+(g351
+g562
+tp6970
+sS'17009'
+p6971
+(g272
+g635
+tp6972
+sS'17001'
+p6973
+(g272
+g2078
+tp6974
+sS'44009'
+p6975
+(g4002
+g37
+tp6976
+sS'17003'
+p6977
+(g272
+g381
+tp6978
+sS'17005'
+p6979
+(g272
+S'Bond County'
+p6980
+tp6981
+sS'17007'
+p6982
+(g272
+g340
+tp6983
+sS'53075'
+p6984
+(g265
+S'Whitman County'
+p6985
+tp6986
+sS'53077'
+p6987
+(g265
+S'Yakima County'
+p6988
+tp6989
+sS'53071'
+p6990
+(g265
+S'Walla Walla County'
+p6991
+tp6992
+sS'53073'
+p6993
+(g265
+S'Whatcom County'
+p6994
+tp6995
+sS'40051'
+p6996
+(g44
+g3485
+tp6997
+sS'40055'
+p6998
+(g44
+S'Greer County'
+p6999
+tp7000
+sS'45051'
+p7001
+(g460
+S'Horry County'
+p7002
+tp7003
+sS'41003'
+p7004
+(g204
+g326
+tp7005
+sS'45053'
+p7006
+(g460
+g3614
+tp7007
+sS'40033'
+p7008
+(g44
+S'Cotton County'
+p7009
+tp7010
+sS'45055'
+p7011
+(g460
+S'Kershaw County'
+p7012
+tp7013
+sS'41007'
+p7014
+(g204
+S'Clatsop County'
+p7015
+tp7016
+sS'45057'
+p7017
+(g460
+g876
+tp7018
+sS'40053'
+p7019
+(g44
+g1165
+tp7020
+sS'29203'
+p7021
+(g583
+g128
+tp7022
+sS'29201'
+p7023
+(g583
+g562
+tp7024
+sS'29207'
+p7025
+(g583
+S'Stoddard County'
+p7026
+tp7027
+sS'29205'
+p7028
+(g583
+g431
+tp7029
+sS'29209'
+p7030
+(g583
+g289
+tp7031
+sS'13157'
+p7032
+(g118
+g176
+tp7033
+sS'37055'
+p7034
+(g371
+S'Dare County'
+p7035
+tp7036
+sS'13155'
+p7037
+(g118
+S'Irwin County'
+p7038
+tp7039
+sS'37057'
+p7040
+(g371
+g655
+tp7041
+sS'01019'
+p7042
+(g36
+g477
+tp7043
+sS'37051'
+p7044
+(g371
+g282
+tp7045
+sS'13151'
+p7046
+(g118
+g167
+tp7047
+sS'37053'
+p7048
+(g371
+S'Currituck County'
+p7049
+tp7050
+sS'01015'
+p7051
+(g36
+g240
+tp7052
+sS'01017'
+p7053
+(g36
+g2880
+tp7054
+sS'01011'
+p7055
+(g36
+S'Bullock County'
+p7056
+tp7057
+sS'37059'
+p7058
+(g371
+S'Davie County'
+p7059
+tp7060
+sS'01013'
+p7061
+(g36
+g1424
+tp7062
+sS'36053'
+p7063
+(g390
+g256
+tp7064
+sS'33009'
+p7065
+(g6
+S'Grafton County'
+p7066
+tp7067
+sS'36057'
+p7068
+(g390
+g602
+tp7069
+sS'36055'
+p7070
+(g390
+g2408
+tp7071
+sS'33003'
+p7072
+(g6
+g1314
+tp7073
+sS'48409'
+p7074
+(g22
+S'San Patricio County'
+p7075
+tp7076
+sS'33001'
+p7077
+(g6
+S'Belknap County'
+p7078
+tp7079
+sS'33007'
+p7080
+(g6
+g6409
+tp7081
+sS'33005'
+p7082
+(g6
+S'Cheshire County'
+p7083
+tp7084
+sS'09007'
+p7085
+(g4692
+g1311
+tp7086
+sS'08029'
+p7087
+(g509
+g1589
+tp7088
+sS'09005'
+p7089
+(g4692
+S'Litchfield County'
+p7090
+tp7091
+sS'09003'
+p7092
+(g4692
+S'Hartford County'
+p7093
+tp7094
+sS'09001'
+p7095
+(g4692
+g3161
+tp7096
+sS'08023'
+p7097
+(g509
+S'Costilla County'
+p7098
+tp7099
+sS'08021'
+p7100
+(g509
+S'Conejos County'
+p7101
+tp7102
+sS'08027'
+p7103
+(g509
+g2971
+tp7104
+sS'08025'
+p7105
+(g509
+S'Crowley County'
+p7106
+tp7107
+sS'09009'
+p7108
+(g4692
+S'New Haven County'
+p7109
+tp7110
+sS'48175'
+p7111
+(g22
+S'Goliad County'
+p7112
+tp7113
+sS'48177'
+p7114
+(g22
+S'Gonzales County'
+p7115
+tp7116
+sS'48171'
+p7117
+(g22
+S'Gillespie County'
+p7118
+tp7119
+sS'38079'
+p7120
+(g1328
+S'Rolette County'
+p7121
+tp7122
+sS'38077'
+p7123
+(g1328
+g1297
+tp7124
+sS'38075'
+p7125
+(g1328
+g2075
+tp7126
+sS'38073'
+p7127
+(g1328
+S'Ransom County'
+p7128
+tp7129
+sS'48407'
+p7130
+(g22
+S'San Jacinto County'
+p7131
+tp7132
+sS'38071'
+p7133
+(g1328
+g2100
+tp7134
+sS'20195'
+p7135
+(g351
+S'Trego County'
+p7136
+tp7137
+sS'20197'
+p7138
+(g351
+S'Wabaunsee County'
+p7139
+tp7140
+sS'20191'
+p7141
+(g351
+g6692
+tp7142
+sS'20193'
+p7143
+(g351
+g1732
+tp7144
+sS'40025'
+p7145
+(g44
+S'Cimarron County'
+p7146
+tp7147
+sS'20199'
+p7148
+(g351
+S'Wallace County'
+p7149
+tp7150
+sS'13023'
+p7151
+(g118
+S'Bleckley County'
+p7152
+tp7153
+sS'13021'
+p7154
+(g118
+S'Bibb County'
+p7155
+tp7156
+sS'13027'
+p7157
+(g118
+g1133
+tp7158
+sS'13025'
+p7159
+(g118
+S'Brantley County'
+p7160
+tp7161
+sS'60020'
+p7162
+(g2715
+S"Manu'a District"
+p7163
+tp7164
+sS'01121'
+p7165
+(g36
+S'Talladega County'
+p7166
+tp7167
+sS'30111'
+p7168
+(g722
+S'Yellowstone County'
+p7169
+tp7170
+sS'01123'
+p7171
+(g36
+S'Tallapoosa County'
+p7172
+tp7173
+sS'39005'
+p7174
+(g61
+g2019
+tp7175
+sS'01125'
+p7176
+(g36
+S'Tuscaloosa County'
+p7177
+tp7178
+sS'55013'
+p7179
+(g249
+S'Burnett County'
+p7180
+tp7181
+sS'01127'
+p7182
+(g36
+g1558
+tp7183
+sS'35028'
+p7184
+(g1896
+S'Los Alamos County'
+p7185
+tp7186
+sS'18069'
+p7187
+(g549
+S'Huntington County'
+p7188
+tp7189
+sS'18063'
+p7190
+(g549
+S'Hendricks County'
+p7191
+tp7192
+sS'18061'
+p7193
+(g549
+g2238
+tp7194
+sS'18067'
+p7195
+(g549
+g2891
+tp7196
+sS'18065'
+p7197
+(g549
+g167
+tp7198
+sS'28009'
+p7199
+(g1834
+g326
+tp7200
+sS'28007'
+p7201
+(g1834
+S'Attala County'
+p7202
+tp7203
+sS'28005'
+p7204
+(g1834
+S'Amite County'
+p7205
+tp7206
+sS'28003'
+p7207
+(g1834
+S'Alcorn County'
+p7208
+tp7209
+sS'28001'
+p7210
+(g1834
+g2078
+tp7211
+sS'72009'
+p7212
+(g89
+S'Aibonito Municipio'
+p7213
+tp7214
+sS'29029'
+p7215
+(g583
+g3218
+tp7216
+sS'37129'
+p7217
+(g371
+S'New Hanover County'
+p7218
+tp7219
+sS'39007'
+p7220
+(g61
+S'Ashtabula County'
+p7221
+tp7222
+sS'29023'
+p7223
+(g583
+g1424
+tp7224
+sS'29021'
+p7225
+(g583
+g4352
+tp7226
+sS'29027'
+p7227
+(g583
+S'Callaway County'
+p7228
+tp7229
+sS'29025'
+p7230
+(g583
+g1322
+tp7231
+sS'18117'
+p7232
+(g549
+g1525
+tp7233
+sS'18115'
+p7234
+(g549
+g3889
+tp7235
+sS'18113'
+p7236
+(g549
+g5940
+tp7237
+sS'18111'
+p7238
+(g549
+g894
+tp7239
+sS'18119'
+p7240
+(g549
+g3899
+tp7241
+sS'45077'
+p7242
+(g460
+g3418
+tp7243
+sS'51007'
+p7244
+(g156
+S'Amelia County'
+p7245
+tp7246
+sS'40123'
+p7247
+(g44
+g3713
+tp7248
+sS'24510'
+p7249
+(g2885
+S'Baltimore city'
+p7250
+tp7251
+sS'38095'
+p7252
+(g1328
+S'Towner County'
+p7253
+tp7254
+sS'29157'
+p7255
+(g583
+g900
+tp7256
+sS'38097'
+p7257
+(g1328
+S'Traill County'
+p7258
+tp7259
+sS'29155'
+p7260
+(g583
+S'Pemiscot County'
+p7261
+tp7262
+sS'38091'
+p7263
+(g1328
+g770
+tp7264
+sS'29153'
+p7265
+(g583
+S'Ozark County'
+p7266
+tp7267
+sS'38093'
+p7268
+(g1328
+S'Stutsman County'
+p7269
+tp7270
+sS'29151'
+p7271
+(g583
+g1885
+tp7272
+sS'30069'
+p7273
+(g722
+S'Petroleum County'
+p7274
+tp7275
+sS'38099'
+p7276
+(g1328
+S'Walsh County'
+p7277
+tp7278
+sS'53057'
+p7279
+(g265
+S'Skagit County'
+p7280
+tp7281
+sS'29159'
+p7282
+(g583
+S'Pettis County'
+p7283
+tp7284
+sS'47171'
+p7285
+(g194
+S'Unicoi County'
+p7286
+tp7287
+sS'47173'
+p7288
+(g194
+g286
+tp7289
+sS'39129'
+p7290
+(g61
+S'Pickaway County'
+p7291
+tp7292
+sS'37115'
+p7293
+(g371
+g256
+tp7294
+sS'47179'
+p7295
+(g194
+g37
+tp7296
+sS'40125'
+p7297
+(g44
+g6382
+tp7298
+sS'51005'
+p7299
+(g156
+g378
+tp7300
+sS'47027'
+p7301
+(g194
+g216
+tp7302
+sS'47085'
+p7303
+(g194
+g5364
+tp7304
+sS'47087'
+p7305
+(g194
+g176
+tp7306
+sS'45079'
+p7307
+(g460
+g1297
+tp7308
+sS'47083'
+p7309
+(g194
+g2772
+tp7310
+sS'47089'
+p7311
+(g194
+g524
+tp7312
+sS'55141'
+p7313
+(g249
+g697
+tp7314
+sS'19083'
+p7315
+(g57
+g2727
+tp7316
+sS'19081'
+p7317
+(g57
+g2730
+tp7318
+sS'37117'
+p7319
+(g371
+g1058
+tp7320
+sS'22113'
+p7321
+(g102
+S'Vermilion Parish'
+p7322
+tp7323
+sS'42037'
+p7324
+(g211
+g403
+tp7325
+sS'19085'
+p7326
+(g57
+g2238
+tp7327
+sS'16055'
+p7328
+(g2
+S'Kootenai County'
+p7329
+tp7330
+sS'19089'
+p7331
+(g57
+g2891
+tp7332
+sS'16051'
+p7333
+(g2
+g524
+tp7334
+sS'16053'
+p7335
+(g2
+S'Jerome County'
+p7336
+tp7337
+sS'51003'
+p7338
+(g156
+S'Albemarle County'
+p7339
+tp7340
+sS'48375'
+p7341
+(g22
+g6576
+tp7342
+sS'51710'
+p7343
+(g156
+S'Norfolk city'
+p7344
+tp7345
+sS'02164'
+p7346
+(g48
+S'Lake and Peninsula Borough'
+p7347
+tp7348
+sS'48199'
+p7349
+(g22
+g2727
+tp7350
+sS'51087'
+p7351
+(g156
+S'Henrico County'
+p7352
+tp7353
+sS'39127'
+p7354
+(g61
+g900
+tp7355
+sS'51085'
+p7356
+(g156
+S'Hanover County'
+p7357
+tp7358
+sS'39125'
+p7359
+(g61
+g3412
+tp7360
+sS'51083'
+p7361
+(g156
+g4084
+tp7362
+sS'39123'
+p7363
+(g61
+g2498
+tp7364
+sS'51081'
+p7365
+(g156
+S'Greensville County'
+p7366
+tp7367
+sS'39121'
+p7368
+(g61
+g5940
+tp7369
+sS'72015'
+p7370
+(g89
+S'Arroyo Municipio'
+p7371
+tp7372
+sS'31155'
+p7373
+(g533
+S'Saunders County'
+p7374
+tp7375
+sS'51089'
+p7376
+(g156
+g167
+tp7377
+sS'37111'
+p7378
+(g371
+g4723
+tp7379
+sS'25005'
+p7380
+(g6222
+S'Bristol County'
+p7381
+tp7382
+sS'25007'
+p7383
+(g6222
+S'Dukes County'
+p7384
+tp7385
+sS'25001'
+p7386
+(g6222
+S'Barnstable County'
+p7387
+tp7388
+sS'21019'
+p7389
+(g163
+g2986
+tp7390
+sS'25003'
+p7391
+(g6222
+S'Berkshire County'
+p7392
+tp7393
+sS'21017'
+p7394
+(g163
+g5201
+tp7395
+sS'21015'
+p7396
+(g163
+g340
+tp7397
+sS'21013'
+p7398
+(g163
+g2178
+tp7399
+sS'25009'
+p7400
+(g6222
+g2595
+tp7401
+sS'21011'
+p7402
+(g163
+S'Bath County'
+p7403
+tp7404
+sS'22063'
+p7405
+(g102
+S'Livingston Parish'
+p7406
+tp7407
+sS'22061'
+p7408
+(g102
+S'Lincoln Parish'
+p7409
+tp7410
+sS'22067'
+p7411
+(g102
+S'Morehouse Parish'
+p7412
+tp7413
+sS'22065'
+p7414
+(g102
+S'Madison Parish'
+p7415
+tp7416
+sS'51001'
+p7417
+(g156
+S'Accomack County'
+p7418
+tp7419
+sS'22069'
+p7420
+(g102
+S'Natchitoches Parish'
+p7421
+tp7422
+sS'06043'
+p7423
+(g26
+S'Mariposa County'
+p7424
+tp7425
+sS'53029'
+p7426
+(g265
+S'Island County'
+p7427
+tp7428
+sS'06041'
+p7429
+(g26
+S'Marin County'
+p7430
+tp7431
+sS'49009'
+p7432
+(g947
+S'Daggett County'
+p7433
+tp7434
+sS'06047'
+p7435
+(g26
+S'Merced County'
+p7436
+tp7437
+sS'06045'
+p7438
+(g26
+S'Mendocino County'
+p7439
+tp7440
+sS'48389'
+p7441
+(g22
+S'Reeves County'
+p7442
+tp7443
+sS'46119'
+p7444
+(g40
+S'Sully County'
+p7445
+tp7446
+sS'48197'
+p7447
+(g22
+g1104
+tp7448
+sS'06049'
+p7449
+(g26
+S'Modoc County'
+p7450
+tp7451
+sS'51660'
+p7452
+(g156
+S'Harrisonburg city'
+p7453
+tp7454
+sS'31153'
+p7455
+(g533
+S'Sarpy County'
+p7456
+tp7457
+sS'56033'
+p7458
+(g815
+g6958
+tp7459
+sS'56031'
+p7460
+(g815
+g6743
+tp7461
+sS'56037'
+p7462
+(g815
+S'Sweetwater County'
+p7463
+tp7464
+sS'56035'
+p7465
+(g815
+S'Sublette County'
+p7466
+tp7467
+sS'56039'
+p7468
+(g815
+g4471
+tp7469
+sS'72001'
+p7470
+(g89
+S'Adjuntas Municipio'
+p7471
+tp7472
+sS'21169'
+p7473
+(g163
+S'Metcalfe County'
+p7474
+tp7475
+sS'32031'
+p7476
+(g179
+S'Washoe County'
+p7477
+tp7478
+sS'32033'
+p7479
+(g179
+S'White Pine County'
+p7480
+tp7481
+sS'21163'
+p7482
+(g163
+g3381
+tp7483
+sS'21161'
+p7484
+(g163
+g1061
+tp7485
+sS'21167'
+p7486
+(g163
+g74
+tp7487
+sS'21165'
+p7488
+(g163
+S'Menifee County'
+p7489
+tp7490
+sS'48195'
+p7491
+(g22
+S'Hansford County'
+p7492
+tp7493
+sS'49031'
+p7494
+(g947
+S'Piute County'
+p7495
+tp7496
+sS'51049'
+p7497
+(g156
+g282
+tp7498
+sS'48355'
+p7499
+(g22
+S'Nueces County'
+p7500
+tp7501
+sS'46029'
+p7502
+(g40
+S'Codington County'
+p7503
+tp7504
+sS'31151'
+p7505
+(g533
+g2775
+tp7506
+sS'49039'
+p7507
+(g947
+S'Sanpete County'
+p7508
+tp7509
+sS'42079'
+p7510
+(g211
+S'Luzerne County'
+p7511
+tp7512
+sS'46025'
+p7513
+(g40
+g831
+tp7514
+sS'42077'
+p7515
+(g211
+S'Lehigh County'
+p7516
+tp7517
+sS'46027'
+p7518
+(g40
+g216
+tp7519
+sS'42075'
+p7520
+(g211
+S'Lebanon County'
+p7521
+tp7522
+sS'46021'
+p7523
+(g40
+g1287
+tp7524
+sS'42073'
+p7525
+(g211
+g584
+tp7526
+sS'46023'
+p7527
+(g40
+S'Charles Mix County'
+p7528
+tp7529
+sS'42071'
+p7530
+(g211
+g876
+tp7531
+sS'20169'
+p7532
+(g351
+g2775
+tp7533
+sS'48349'
+p7534
+(g22
+S'Navarro County'
+p7535
+tp7536
+sS'20161'
+p7537
+(g351
+S'Riley County'
+p7538
+tp7539
+sS'20163'
+p7540
+(g351
+S'Rooks County'
+p7541
+tp7542
+sS'20165'
+p7543
+(g351
+S'Rush County'
+p7544
+tp7545
+sS'20167'
+p7546
+(g351
+g449
+tp7547
+sS'51043'
+p7548
+(g156
+g355
+tp7549
+sS'17019'
+p7550
+(g272
+g2081
+tp7551
+sS'48353'
+p7552
+(g22
+S'Nolan County'
+p7553
+tp7554
+sS'51590'
+p7555
+(g156
+S'Danville city'
+p7556
+tp7557
+sS'17013'
+p7558
+(g272
+g240
+tp7559
+sS'17011'
+p7560
+(g272
+S'Bureau County'
+p7561
+tp7562
+sS'17017'
+p7563
+(g272
+g323
+tp7564
+sS'17015'
+p7565
+(g272
+g1314
+tp7566
+sS'48193'
+p7567
+(g22
+g1790
+tp7568
+sS'55035'
+p7569
+(g249
+S'Eau Claire County'
+p7570
+tp7571
+sS'17167'
+p7572
+(g272
+S'Sangamon County'
+p7573
+tp7574
+sS'51047'
+p7575
+(g156
+S'Culpeper County'
+p7576
+tp7577
+sS'51017'
+p7578
+(g156
+g7403
+tp7579
+sS'48491'
+p7580
+(g22
+g2209
+tp7581
+sS'55033'
+p7582
+(g249
+g5253
+tp7583
+sS'26005'
+p7584
+(g200
+S'Allegan County'
+p7585
+tp7586
+sS'05065'
+p7587
+(g285
+S'Izard County'
+p7588
+tp7589
+sS'26007'
+p7590
+(g200
+S'Alpena County'
+p7591
+tp7592
+sS'05067'
+p7593
+(g285
+g176
+tp7594
+sS'26001'
+p7595
+(g200
+S'Alcona County'
+p7596
+tp7597
+sS'05061'
+p7598
+(g285
+g2891
+tp7599
+sS'26003'
+p7600
+(g200
+S'Alger County'
+p7601
+tp7602
+sS'05063'
+p7603
+(g285
+S'Independence County'
+p7604
+tp7605
+sS'53009'
+p7606
+(g265
+S'Clallam County'
+p7607
+tp7608
+sS'55049'
+p7609
+(g249
+g5026
+tp7610
+sS'02282'
+p7611
+(g48
+S'Yakutat City and Borough'
+p7612
+tp7613
+sS'26009'
+p7614
+(g200
+S'Antrim County'
+p7615
+tp7616
+sS'05069'
+p7617
+(g285
+g524
+tp7618
+sS'48505'
+p7619
+(g22
+S'Zapata County'
+p7620
+tp7621
+sS'45049'
+p7622
+(g460
+S'Hampton County'
+p7623
+tp7624
+sS'48501'
+p7625
+(g22
+S'Yoakum County'
+p7626
+tp7627
+sS'48503'
+p7628
+(g22
+S'Young County'
+p7629
+tp7630
+sS'45043'
+p7631
+(g460
+S'Georgetown County'
+p7632
+tp7633
+sS'45041'
+p7634
+(g460
+g2960
+tp7635
+sS'45047'
+p7636
+(g460
+g1796
+tp7637
+sS'45045'
+p7638
+(g460
+S'Greenville County'
+p7639
+tp7640
+sS'51750'
+p7641
+(g156
+S'Radford city'
+p7642
+tp7643
+sS'48499'
+p7644
+(g22
+g697
+tp7645
+sS'37021'
+p7646
+(g371
+S'Buncombe County'
+p7647
+tp7648
+sS'13141'
+p7649
+(g118
+g2730
+tp7650
+sS'37023'
+p7651
+(g371
+g3551
+tp7652
+sS'13143'
+p7653
+(g118
+S'Haralson County'
+p7654
+tp7655
+sS'37025'
+p7656
+(g371
+S'Cabarrus County'
+p7657
+tp7658
+sS'13145'
+p7659
+(g118
+g3930
+tp7660
+sS'37027'
+p7661
+(g371
+g1322
+tp7662
+sS'13147'
+p7663
+(g118
+g2737
+tp7664
+sS'17113'
+p7665
+(g272
+g5862
+tp7666
+sS'01007'
+p7667
+(g36
+g7155
+tp7668
+sS'01005'
+p7669
+(g36
+g4128
+tp7670
+sS'01003'
+p7671
+(g36
+g5904
+tp7672
+sS'01001'
+p7673
+(g36
+S'Autauga County'
+p7674
+tp7675
+sS'42107'
+p7676
+(g211
+S'Schuylkill County'
+p7677
+tp7678
+sS'42105'
+p7679
+(g211
+g6576
+tp7680
+sS'36049'
+p7681
+(g390
+g773
+tp7682
+sS'42101'
+p7683
+(g211
+S'Philadelphia County'
+p7684
+tp7685
+sS'36045'
+p7686
+(g390
+g524
+tp7687
+sS'17169'
+p7688
+(g272
+g5657
+tp7689
+sS'36041'
+p7690
+(g390
+g1790
+tp7691
+sS'36043'
+p7692
+(g390
+S'Herkimer County'
+p7693
+tp7694
+sS'38069'
+p7695
+(g1328
+g3398
+tp7696
+sS'48165'
+p7697
+(g22
+S'Gaines County'
+p7698
+tp7699
+sS'48163'
+p7700
+(g22
+S'Frio County'
+p7701
+tp7702
+sS'48161'
+p7703
+(g22
+S'Freestone County'
+p7704
+tp7705
+sS'38061'
+p7706
+(g1328
+S'Mountrail County'
+p7707
+tp7708
+sS'38063'
+p7709
+(g1328
+g2171
+tp7710
+sS'38065'
+p7711
+(g1328
+S'Oliver County'
+p7712
+tp7713
+sS'38067'
+p7714
+(g1328
+S'Pembina County'
+p7715
+tp7716
+sS'20187'
+p7717
+(g351
+S'Stanton County'
+p7718
+tp7719
+sS'20185'
+p7720
+(g351
+g3780
+tp7721
+sS'20183'
+p7722
+(g351
+g5506
+tp7723
+sS'20181'
+p7724
+(g351
+g3987
+tp7725
+sS'20189'
+p7726
+(g351
+g784
+tp7727
+sS'41037'
+p7728
+(g204
+g747
+tp7729
+sS'40039'
+p7730
+(g44
+g2971
+tp7731
+sS'41035'
+p7732
+(g204
+S'Klamath County'
+p7733
+tp7734
+sS'41033'
+p7735
+(g204
+S'Josephine County'
+p7736
+tp7737
+sS'13039'
+p7738
+(g118
+g3218
+tp7739
+sS'41031'
+p7740
+(g204
+g524
+tp7741
+sS'01133'
+p7742
+(g36
+g6128
+tp7743
+sS'72151'
+p7744
+(g89
+S'Yabucoa Municipio'
+p7745
+tp7746
+sS'01131'
+p7747
+(g36
+g3324
+tp7748
+sS'13031'
+p7749
+(g118
+S'Bulloch County'
+p7750
+tp7751
+sS'41039'
+p7752
+(g204
+g3958
+tp7753
+sS'13033'
+p7754
+(g118
+g3551
+tp7755
+sS'18057'
+p7756
+(g549
+g1790
+tp7757
+sS'18055'
+p7758
+(g549
+g237
+tp7759
+sS'48095'
+p7760
+(g22
+S'Concho County'
+p7761
+tp7762
+sS'18053'
+p7763
+(g549
+g1165
+tp7764
+sS'18051'
+p7765
+(g549
+S'Gibson County'
+p7766
+tp7767
+sS'18059'
+p7768
+(g549
+g2730
+tp7769
+sS'31163'
+p7770
+(g533
+g3987
+tp7771
+sS'29017'
+p7772
+(g583
+S'Bollinger County'
+p7773
+tp7774
+sS'28019'
+p7775
+(g1834
+g134
+tp7776
+sS'29015'
+p7777
+(g583
+g326
+tp7778
+sS'29013'
+p7779
+(g583
+S'Bates County'
+p7780
+tp7781
+sS'72127'
+p7782
+(g89
+S'San Juan Municipio'
+p7783
+tp7784
+sS'29011'
+p7785
+(g583
+g4638
+tp7786
+sS'28011'
+p7787
+(g1834
+S'Bolivar County'
+p7788
+tp7789
+sS'28013'
+p7790
+(g1834
+g240
+tp7791
+sS'28015'
+p7792
+(g1834
+g1314
+tp7793
+sS'29019'
+p7794
+(g583
+g340
+tp7795
+sS'28017'
+p7796
+(g1834
+g3154
+tp7797
+sS'37159'
+p7798
+(g371
+g4506
+tp7799
+sS'08035'
+p7800
+(g509
+g822
+tp7801
+sS'08037'
+p7802
+(g509
+S'Eagle County'
+p7803
+tp7804
+sS'08031'
+p7805
+(g509
+S'Denver County'
+p7806
+tp7807
+sS'08033'
+p7808
+(g509
+S'Dolores County'
+p7809
+tp7810
+sS'37151'
+p7811
+(g371
+g446
+tp7812
+sS'37153'
+p7813
+(g371
+g2339
+tp7814
+sS'37155'
+p7815
+(g371
+S'Robeson County'
+p7816
+tp7817
+sS'08039'
+p7818
+(g509
+g5228
+tp7819
+sS'37157'
+p7820
+(g371
+g3175
+tp7821
+sS'53037'
+p7822
+(g265
+S'Kittitas County'
+p7823
+tp7824
+sS'18123'
+p7825
+(g549
+g900
+tp7826
+sS'18121'
+p7827
+(g549
+S'Parke County'
+p7828
+tp7829
+sS'18127'
+p7830
+(g549
+S'Porter County'
+p7831
+tp7832
+sS'18125'
+p7833
+(g549
+g888
+tp7834
+sS'51520'
+p7835
+(g156
+S'Bristol city'
+p7836
+tp7837
+sS'31161'
+p7838
+(g533
+g6958
+tp7839
+sS'18129'
+p7840
+(g549
+S'Posey County'
+p7841
+tp7842
+sS'55041'
+p7843
+(g249
+g225
+tp7844
+sS'29163'
+p7845
+(g583
+g888
+tp7846
+sS'38087'
+p7847
+(g1328
+S'Slope County'
+p7848
+tp7849
+sS'29161'
+p7850
+(g583
+S'Phelps County'
+p7851
+tp7852
+sS'38085'
+p7853
+(g1328
+g1984
+tp7854
+sS'29167'
+p7855
+(g583
+g83
+tp7856
+sS'38083'
+p7857
+(g1328
+g6958
+tp7858
+sS'29165'
+p7859
+(g583
+g6743
+tp7860
+sS'38081'
+p7861
+(g1328
+S'Sargent County'
+p7862
+tp7863
+sS'30095'
+p7864
+(g722
+S'Stillwater County'
+p7865
+tp7866
+sS'40121'
+p7867
+(g44
+S'Pittsburg County'
+p7868
+tp7869
+sS'29169'
+p7870
+(g583
+g1675
+tp7871
+sS'30091'
+p7872
+(g722
+g6958
+tp7873
+sS'30093'
+p7874
+(g722
+S'Silver Bow County'
+p7875
+tp7876
+sS'38089'
+p7877
+(g1328
+g1993
+tp7878
+sS'45059'
+p7879
+(g460
+g5821
+tp7880
+sS'47189'
+p7881
+(g194
+g1802
+tp7882
+sS'48453'
+p7883
+(g22
+S'Travis County'
+p7884
+tp7885
+sS'47185'
+p7886
+(g194
+g2224
+tp7887
+sS'47187'
+p7888
+(g194
+g2209
+tp7889
+sS'49007'
+p7890
+(g947
+g846
+tp7891
+sS'47181'
+p7892
+(g194
+g1354
+tp7893
+sS'47183'
+p7894
+(g194
+S'Weakley County'
+p7895
+tp7896
+sS'41009'
+p7897
+(g204
+g403
+tp7898
+sS'31167'
+p7899
+(g533
+g7718
+tp7900
+sS'72123'
+p7901
+(g89
+S'Salinas Municipio'
+p7902
+tp7903
+sS'48457'
+p7904
+(g22
+S'Tyler County'
+p7905
+tp7906
+sS'28161'
+p7907
+(g1834
+S'Yalobusha County'
+p7908
+tp7909
+sS'28163'
+p7910
+(g1834
+S'Yazoo County'
+p7911
+tp7912
+sS'48455'
+p7913
+(g22
+g670
+tp7914
+sS'40127'
+p7915
+(g44
+S'Pushmataha County'
+p7916
+tp7917
+sS'39013'
+p7918
+(g61
+S'Belmont County'
+p7919
+tp7920
+sS'48031'
+p7921
+(g22
+S'Blanco County'
+p7922
+tp7923
+sS'22101'
+p7924
+(g102
+S'St. Mary Parish'
+p7925
+tp7926
+sS'22103'
+p7927
+(g102
+S'St. Tammany Parish'
+p7928
+tp7929
+sS'19099'
+p7930
+(g57
+g3614
+tp7931
+sS'22107'
+p7932
+(g102
+S'Tensas Parish'
+p7933
+tp7934
+sS'22109'
+p7935
+(g102
+S'Terrebonne Parish'
+p7936
+tp7937
+sS'16045'
+p7938
+(g2
+S'Gem County'
+p7939
+tp7940
+sS'19091'
+p7941
+(g57
+g137
+tp7942
+sS'19093'
+p7943
+(g57
+S'Ida County'
+p7944
+tp7945
+sS'31165'
+p7946
+(g533
+g1984
+tp7947
+sS'41005'
+p7948
+(g204
+S'Clackamas County'
+p7949
+tp7950
+sS'51700'
+p7951
+(g156
+S'Newport News city'
+p7952
+tp7953
+sS'44001'
+p7954
+(g4002
+g7381
+tp7955
+sS'02110'
+p7956
+(g48
+S'Juneau City and Borough'
+p7957
+tp7958
+sS'39113'
+p7959
+(g61
+g602
+tp7960
+sS'51091'
+p7961
+(g156
+g4949
+tp7962
+sS'32510'
+p7963
+(g179
+S'Carson City'
+p7964
+tp7965
+sS'51093'
+p7966
+(g156
+S'Isle of Wight County'
+p7967
+tp7968
+sS'39117'
+p7969
+(g61
+g4614
+tp7970
+sS'51095'
+p7971
+(g156
+S'James City County'
+p7972
+tp7973
+sS'39115'
+p7974
+(g61
+g1233
+tp7975
+sS'51097'
+p7976
+(g156
+S'King and Queen County'
+p7977
+tp7978
+sS'51099'
+p7979
+(g156
+S'King George County'
+p7980
+tp7981
+sS'39119'
+p7982
+(g61
+S'Muskingum County'
+p7983
+tp7984
+sS'39019'
+p7985
+(g61
+g1314
+tp7986
+sS'21009'
+p7987
+(g163
+S'Barren County'
+p7988
+tp7989
+sS'21001'
+p7990
+(g163
+g1486
+tp7991
+sS'21003'
+p7992
+(g163
+g4372
+tp7993
+sS'21005'
+p7994
+(g163
+g2548
+tp7995
+sS'21007'
+p7996
+(g163
+S'Ballard County'
+p7997
+tp7998
+sS'48357'
+p7999
+(g22
+S'Ochiltree County'
+p8000
+tp8001
+sS'22079'
+p8002
+(g102
+S'Rapides Parish'
+p8003
+tp8004
+sS'22075'
+p8005
+(g102
+S'Plaquemines Parish'
+p8006
+tp8007
+sS'22077'
+p8008
+(g102
+S'Pointe Coupee Parish'
+p8009
+tp8010
+sS'22071'
+p8011
+(g102
+S'Orleans Parish'
+p8012
+tp8013
+sS'22073'
+p8014
+(g102
+S'Ouachita Parish'
+p8015
+tp8016
+sS'46103'
+p8017
+(g40
+g1763
+tp8018
+sS'46101'
+p8019
+(g40
+S'Moody County'
+p8020
+tp8021
+sS'06059'
+p8022
+(g26
+g1525
+tp8023
+sS'46105'
+p8024
+(g40
+S'Perkins County'
+p8025
+tp8026
+sS'06055'
+p8027
+(g26
+S'Napa County'
+p8028
+tp8029
+sS'06057'
+p8030
+(g26
+g2743
+tp8031
+sS'06051'
+p8032
+(g26
+S'Mono County'
+p8033
+tp8034
+sS'06053'
+p8035
+(g26
+S'Monterey County'
+p8036
+tp8037
+sS'27165'
+p8038
+(g149
+S'Watonwan County'
+p8039
+tp8040
+sS'53017'
+p8041
+(g265
+g822
+tp8042
+sS'27167'
+p8043
+(g149
+S'Wilkin County'
+p8044
+tp8045
+sS'27161'
+p8046
+(g149
+S'Waseca County'
+p8047
+tp8048
+sS'27163'
+p8049
+(g149
+g37
+tp8050
+sS'27169'
+p8051
+(g149
+S'Winona County'
+p8052
+tp8053
+sS'72117'
+p8054
+(g89
+S'Rincon Municipio'
+p8055
+tp8056
+sS'21175'
+p8057
+(g163
+g1233
+tp8058
+sS'53043'
+p8059
+(g265
+g188
+tp8060
+sS'21177'
+p8061
+(g163
+S'Muhlenberg County'
+p8062
+tp8063
+sS'21171'
+p8064
+(g163
+g2408
+tp8065
+sS'21173'
+p8066
+(g163
+g602
+tp8067
+sS'51067'
+p8068
+(g156
+g1009
+tp8069
+sS'56025'
+p8070
+(g815
+S'Natrona County'
+p8071
+tp8072
+sS'56027'
+p8073
+(g815
+S'Niobrara County'
+p8074
+tp8075
+sS'21179'
+p8076
+(g163
+g2171
+tp8077
+sS'56023'
+p8078
+(g815
+g188
+tp8079
+sS'32027'
+p8080
+(g179
+S'Pershing County'
+p8081
+tp8082
+sS'32023'
+p8083
+(g179
+S'Nye County'
+p8084
+tp8085
+sS'30087'
+p8086
+(g722
+S'Rosebud County'
+p8087
+tp8088
+sS'13153'
+p8089
+(g118
+g2772
+tp8090
+sS'32029'
+p8091
+(g179
+S'Storey County'
+p8092
+tp8093
+sS'30085'
+p8094
+(g722
+g1909
+tp8095
+sS'53015'
+p8096
+(g265
+S'Cowlitz County'
+p8097
+tp8098
+sS'30083'
+p8099
+(g722
+g1297
+tp8100
+sS'49029'
+p8101
+(g947
+g1233
+tp8102
+sS'42049'
+p8103
+(g211
+g391
+tp8104
+sS'46039'
+p8105
+(g40
+g4916
+tp8106
+sS'42043'
+p8107
+(g211
+S'Dauphin County'
+p8108
+tp8109
+sS'26163'
+p8110
+(g200
+g1354
+tp8111
+sS'42041'
+p8112
+(g211
+g282
+tp8113
+sS'26161'
+p8114
+(g200
+S'Washtenaw County'
+p8115
+tp8116
+sS'42047'
+p8117
+(g211
+g2385
+tp8118
+sS'46033'
+p8119
+(g40
+g2971
+tp8120
+sS'42045'
+p8121
+(g211
+g409
+tp8122
+sS'26165'
+p8123
+(g200
+S'Wexford County'
+p8124
+tp8125
+sS'17027'
+p8126
+(g272
+g959
+tp8127
+sS'17025'
+p8128
+(g272
+g216
+tp8129
+sS'17023'
+p8130
+(g272
+g831
+tp8131
+sS'17021'
+p8132
+(g272
+g5579
+tp8133
+sS'05125'
+p8134
+(g285
+g2775
+tp8135
+sS'05127'
+p8136
+(g285
+g562
+tp8137
+sS'05121'
+p8138
+(g285
+g446
+tp8139
+sS'17029'
+p8140
+(g272
+S'Coles County'
+p8141
+tp8142
+sS'48225'
+p8143
+(g22
+g2772
+tp8144
+sS'13159'
+p8145
+(g118
+g3614
+tp8146
+sS'60030'
+p8147
+(g2715
+S'Rose Island'
+p8148
+tp8149
+sS'51820'
+p8150
+(g156
+S'Waynesboro city'
+p8151
+tp8152
+sS'47053'
+p8153
+(g194
+g7766
+tp8154
+sS'48081'
+p8155
+(g22
+S'Coke County'
+p8156
+tp8157
+sS'42115'
+p8158
+(g211
+S'Susquehanna County'
+p8159
+tp8160
+sS'36051'
+p8161
+(g390
+g1275
+tp8162
+sS'05011'
+p8163
+(g285
+g1965
+tp8164
+sS'26017'
+p8165
+(g200
+g863
+tp8166
+sS'05013'
+p8167
+(g285
+g240
+tp8168
+sS'26015'
+p8169
+(g200
+S'Barry County'
+p8170
+tp8171
+sS'05015'
+p8172
+(g285
+g1314
+tp8173
+sS'26013'
+p8174
+(g200
+S'Baraga County'
+p8175
+tp8176
+sS'05017'
+p8177
+(g285
+S'Chicot County'
+p8178
+tp8179
+sS'26011'
+p8180
+(g200
+S'Arenac County'
+p8181
+tp8182
+sS'05019'
+p8183
+(g285
+g831
+tp8184
+sS'42111'
+p8185
+(g211
+g3476
+tp8186
+sS'02290'
+p8187
+(g48
+S'Yukon-Koyukuk Census Area'
+p8188
+tp8189
+sS'53019'
+p8190
+(g265
+S'Ferry County'
+p8191
+tp8192
+sS'26019'
+p8193
+(g200
+S'Benzie County'
+p8194
+tp8195
+sS'42113'
+p8196
+(g211
+g1247
+tp8197
+sS'42033'
+p8198
+(g211
+S'Clearfield County'
+p8199
+tp8200
+sS'48227'
+p8201
+(g22
+g2891
+tp8202
+sS'46063'
+p8203
+(g40
+g5452
+tp8204
+sS'29229'
+p8205
+(g583
+g153
+tp8206
+sS'72147'
+p8207
+(g89
+S'Vieques Municipio'
+p8208
+tp8209
+sS'36113'
+p8210
+(g390
+g632
+tp8211
+sS'29221'
+p8212
+(g583
+g37
+tp8213
+sS'29223'
+p8214
+(g583
+g1354
+tp8215
+sS'29225'
+p8216
+(g583
+g3886
+tp8217
+sS'29227'
+p8218
+(g583
+g5087
+tp8219
+sS'37033'
+p8220
+(g371
+S'Caswell County'
+p8221
+tp8222
+sS'01039'
+p8223
+(g36
+g6583
+tp8224
+sS'36111'
+p8225
+(g390
+S'Ulster County'
+p8226
+tp8227
+sS'37037'
+p8228
+(g371
+g474
+tp8229
+sS'37035'
+p8230
+(g371
+S'Catawba County'
+p8231
+tp8232
+sS'01033'
+p8233
+(g36
+S'Colbert County'
+p8234
+tp8235
+sS'42119'
+p8236
+(g211
+g286
+tp8237
+sS'01031'
+p8238
+(g36
+g658
+tp8239
+sS'37039'
+p8240
+(g371
+g477
+tp8241
+sS'01037'
+p8242
+(g36
+S'Coosa County'
+p8243
+tp8244
+sS'01035'
+p8245
+(g36
+S'Conecuh County'
+p8246
+tp8247
+sS'36117'
+p8248
+(g390
+g1354
+tp8249
+sS'36039'
+p8250
+(g390
+g237
+tp8251
+sS'46069'
+p8252
+(g40
+g4670
+tp8253
+sS'42131'
+p8254
+(g211
+g3395
+tp8255
+sS'48191'
+p8256
+(g22
+g3495
+tp8257
+sS'36031'
+p8258
+(g390
+g2595
+tp8259
+sS'36033'
+p8260
+(g390
+g1009
+tp8261
+sS'36115'
+p8262
+(g390
+g37
+tp8263
+sS'36035'
+p8264
+(g390
+g212
+tp8265
+sS'36037'
+p8266
+(g390
+g1583
+tp8267
+sS'46109'
+p8268
+(g40
+g1918
+tp8269
+sS'54099'
+p8270
+(g307
+g1354
+tp8271
+sS'54093'
+p8272
+(g307
+S'Tucker County'
+p8273
+tp8274
+sS'54091'
+p8275
+(g307
+g337
+tp8276
+sS'54097'
+p8277
+(g307
+g2831
+tp8278
+sS'54095'
+p8279
+(g307
+g7905
+tp8280
+sS'72011'
+p8281
+(g89
+S'Anasco Municipio'
+p8282
+tp8283
+sS'48153'
+p8284
+(g22
+g3290
+tp8285
+sS'48151'
+p8286
+(g22
+S'Fisher County'
+p8287
+tp8288
+sS'48157'
+p8289
+(g22
+S'Fort Bend County'
+p8290
+tp8291
+sS'48155'
+p8292
+(g22
+S'Foard County'
+p8293
+tp8294
+sS'48085'
+p8295
+(g22
+S'Collin County'
+p8296
+tp8297
+sS'48405'
+p8298
+(g22
+S'San Augustine County'
+p8299
+tp8300
+sS'48159'
+p8301
+(g22
+g1009
+tp8302
+sS'48401'
+p8303
+(g22
+g1305
+tp8304
+sS'48403'
+p8305
+(g22
+S'Sabine County'
+p8306
+tp8307
+sS'01107'
+p8308
+(g36
+g3418
+tp8309
+sS'01105'
+p8310
+(g36
+g900
+tp8311
+sS'01103'
+p8312
+(g36
+g1233
+tp8313
+sS'01101'
+p8314
+(g36
+g602
+tp8315
+sS'01109'
+p8316
+(g36
+g888
+tp8317
+sS'13049'
+p8318
+(g118
+S'Charlton County'
+p8319
+tp8320
+sS'41021'
+p8321
+(g204
+S'Gilliam County'
+p8322
+tp8323
+sS'45075'
+p8324
+(g460
+S'Orangeburg County'
+p8325
+tp8326
+sS'41023'
+p8327
+(g204
+g1165
+tp8328
+sS'45073'
+p8329
+(g460
+g5160
+tp8330
+sS'41025'
+p8331
+(g204
+S'Harney County'
+p8332
+tp8333
+sS'45071'
+p8334
+(g460
+S'Newberry County'
+p8335
+tp8336
+sS'41027'
+p8337
+(g204
+S'Hood River County'
+p8338
+tp8339
+sS'48089'
+p8340
+(g22
+S'Colorado County'
+p8341
+tp8342
+sS'41029'
+p8343
+(g204
+g176
+tp8344
+sS'13043'
+p8345
+(g118
+S'Candler County'
+p8346
+tp8347
+sS'13045'
+p8348
+(g118
+g1314
+tp8349
+sS'13047'
+p8350
+(g118
+S'Catoosa County'
+p8351
+tp8352
+sS'18041'
+p8353
+(g549
+g219
+tp8354
+sS'18043'
+p8355
+(g549
+g3290
+tp8356
+sS'48223'
+p8357
+(g22
+g173
+tp8358
+sS'18045'
+p8359
+(g549
+S'Fountain County'
+p8360
+tp8361
+sS'18047'
+p8362
+(g549
+g1009
+tp8363
+sS'18049'
+p8364
+(g549
+g212
+tp8365
+sS'72143'
+p8366
+(g89
+S'Vega Alta Municipio'
+p8367
+tp8368
+sS'48087'
+p8369
+(g22
+S'Collingsworth County'
+p8370
+tp8371
+sS'55078'
+p8372
+(g249
+g6926
+tp8373
+sS'29001'
+p8374
+(g583
+g1486
+tp8375
+sS'29003'
+p8376
+(g583
+S'Andrew County'
+p8377
+tp8378
+sS'29005'
+p8379
+(g583
+g4622
+tp8380
+sS'29007'
+p8381
+(g583
+S'Audrain County'
+p8382
+tp8383
+sS'29009'
+p8384
+(g583
+g8170
+tp8385
+sS'31171'
+p8386
+(g533
+g1732
+tp8387
+sS'08041'
+p8388
+(g509
+g440
+tp8389
+sS'08043'
+p8390
+(g509
+g5043
+tp8391
+sS'37149'
+p8392
+(g371
+g83
+tp8393
+sS'08045'
+p8394
+(g509
+g3432
+tp8395
+sS'72115'
+p8396
+(g89
+S'Quebradillas Municipio'
+p8397
+tp8398
+sS'08047'
+p8399
+(g509
+S'Gilpin County'
+p8400
+tp8401
+sS'51011'
+p8402
+(g156
+S'Appomattox County'
+p8403
+tp8404
+sS'08049'
+p8405
+(g509
+g6356
+tp8406
+sS'37143'
+p8407
+(g371
+S'Perquimans County'
+p8408
+tp8409
+sS'37141'
+p8410
+(g371
+S'Pender County'
+p8411
+tp8412
+sS'37147'
+p8413
+(g371
+S'Pitt County'
+p8414
+tp8415
+sS'37145'
+p8416
+(g371
+S'Person County'
+p8417
+tp8418
+sS'51013'
+p8419
+(g156
+S'Arlington County'
+p8420
+tp8421
+sS'31139'
+p8422
+(g533
+g3398
+tp8423
+sS'48173'
+p8424
+(g22
+S'Glasscock County'
+p8425
+tp8426
+sS'51025'
+p8427
+(g156
+g1017
+tp8428
+sS'31135'
+p8429
+(g533
+g8025
+tp8430
+sS'31137'
+p8431
+(g533
+g7851
+tp8432
+sS'31131'
+p8433
+(g533
+S'Otoe County'
+p8434
+tp8435
+sS'31133'
+p8436
+(g533
+g4677
+tp8437
+sS'51015'
+p8438
+(g156
+S'Augusta County'
+p8439
+tp8440
+sS'69120'
+p8441
+(g576
+S'Tinian Municipality'
+p8442
+tp8443
+sS'18139'
+p8444
+(g549
+g7544
+tp8445
+sS'18135'
+p8446
+(g549
+g446
+tp8447
+sS'18137'
+p8448
+(g549
+g6098
+tp8449
+sS'18131'
+p8450
+(g549
+g1675
+tp8451
+sS'18133'
+p8452
+(g549
+g1183
+tp8453
+sS'31173'
+p8454
+(g533
+g6288
+tp8455
+sS'53059'
+p8456
+(g265
+S'Skamania County'
+p8457
+tp8458
+sS'72113'
+p8459
+(g89
+S'Ponce Municipio'
+p8460
+tp8461
+sS'72111'
+p8462
+(g89
+S'Penuelas Municipio'
+p8463
+tp8464
+sS'29179'
+p8465
+(g583
+S'Reynolds County'
+p8466
+tp8467
+sS'30089'
+p8468
+(g722
+S'Sanders County'
+p8469
+tp8470
+sS'29175'
+p8471
+(g583
+g446
+tp8472
+sS'29177'
+p8473
+(g583
+S'Ray County'
+p8474
+tp8475
+sS'29171'
+p8476
+(g583
+g1183
+tp8477
+sS'29173'
+p8478
+(g583
+S'Ralls County'
+p8479
+tp8480
+sS'78020'
+p8481
+(g1200
+S'St. John Island'
+p8482
+tp8483
+sS'35006'
+p8484
+(g1896
+S'Cibola County'
+p8485
+tp8486
+sS'17119'
+p8487
+(g272
+g256
+tp8488
+sS'31175'
+p8489
+(g533
+g5529
+tp8490
+sS'72119'
+p8491
+(g89
+S'Rio Grande Municipio'
+p8492
+tp8493
+sS'72021'
+p8494
+(g89
+S'Bayamon Municipio'
+p8495
+tp8496
+s.
