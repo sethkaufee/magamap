@@ -1,17 +1,13 @@
 # magamap
-Programs linking census data to maps of US political boundaries
-
-### Maps
-us_maps/county/2014.topojson\
-us_maps/congress/2014.topojson
+Programs linking census data to maps of US political boundaries.  Contains maps in topojson format.
 
 ### Functions
-mergeToMap(df, map_type, year)
-makemap(df, map_type, year)
-displaymap(df, geo_map, brew, range, title)
+mergeToMap(df, df_key_col, map_type)  
+makeMap(df, df_key_col, df_data_col, map_type)  
+displaymap(df, geo_map, brew, range, title)  
 
-fips2state
-fips2county
-geoid2congress
-state2fips
-statecounty2fips
+fips2postal
+postal2fips  
+fips2county  
+geoid2congress (not yet implemented)  
+
